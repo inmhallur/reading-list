@@ -28,12 +28,22 @@ Stuff I want to read
 
 - http://www.win-vector.com/blog/tag/logistic-regression/
 - http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
+- https://www.youtube.com/watch?v=jUwjbiBUR-k
+- http://stats.stackexchange.com/q/4799
+- https://www.quora.com/How-can-I-show-that-the-Hessian-for-log-likelihood-for-logistic-regression-is-negative-definite
+- http://sites.stat.psu.edu/~jiali/course/stat597e/notes2/logit.pdf
 
 ## Error measures
 
 - http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
 - http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py
 - https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
+
+
+## Linear Algebra
+
+- http://math.stackexchange.com/q/133350
+- http://math.stackexchange.com/q/730421
 
 
 ## SVD
@@ -46,6 +56,12 @@ Stuff I want to read
 - https://people.mpi-inf.mpg.de/~bast/ir-seminar-ws04/lecture2.pdf
 - https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2004/lecture-notes/lecture3.pdf
 
+
+## Mathematics
+
+- https://www.quora.com/How-is-x-π-calculated/answer/Michael-Lamar
+
+
 ## vim
 
 - https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
@@ -55,3 +71,8 @@ Stuff I want to read
 - http://www.drbunsen.org/the-text-triumvirate/
 - https://github.com/jlevy/the-art-of-command-line
 - http://blog.petersobot.com/pipes-and-filters
+
+
+## Systems
+
+- http://code.activestate.com/recipes/278731/
