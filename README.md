@@ -71,8 +71,15 @@ Stuff I want to read
 - http://www.drbunsen.org/the-text-triumvirate/
 - https://github.com/jlevy/the-art-of-command-line
 - http://blog.petersobot.com/pipes-and-filters
+- http://xon.sh
+- https://github.com/nvbn/thefuck
 
 
 ## Systems
 
 - http://code.activestate.com/recipes/278731/
+
+
+## Security
+
+- https://github.com/forter/security-101-for-saas-startups
