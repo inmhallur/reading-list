@@ -83,3 +83,9 @@ Stuff I want to read
 ## Security
 
 - https://github.com/forter/security-101-for-saas-startups
+
+
+## Neural Networks
+
+- http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
+- ftp://ftp.sas.com/pub/neural/illcond/illcond.html
