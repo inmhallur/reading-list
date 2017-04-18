@@ -17,12 +17,14 @@ Stuff I want to read
 - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
 - https://www.chrisstucchio.com/blog/2015/paul_grahams_bias_test.html
 - https://www.quora.com/Im-17-What-books-would-you-recommend-to-me-to-improve-myself/answer/Brandon-Lee-11
+- https://www.quora.com/How-does-Quincy-Larson-make-money/answer/Quincy-Larson
 
 ## Machine Learning
 
 - https://chrisalbon.com/
 - http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
 - https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora
+- https://www.quora.com/How-do-I-learn-machine-learning-fast/answer/Håkon-Hapnes-Strand
 
 ## Logistic Regression
 
