@@ -48,6 +48,13 @@ Stuff I want to read
 - http://math.stackexchange.com/q/730421
 
 
+## Text Mining
+
+- https://www.datacamp.com/community/blog/text-mining-in-r-and-python-tips
+- https://www.coursera.org/learn/text-mining
+- http://www.nltk.org/book/
+
+
 ## SVD
 
 - https://www.quora.com/What-is-an-intuitive-explanation-of-singular-value-decomposition-SVD
