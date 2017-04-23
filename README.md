@@ -26,6 +26,10 @@ Stuff I want to read
 - https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora
 - https://www.quora.com/How-do-I-learn-machine-learning-fast/answer/Håkon-Hapnes-Strand
 
+## Machine Learning Project Ideas
+
+- http://blog.andrewcantino.com/blog/2012/04/22/machine-learning-project-ideas/
+
 ## Logistic Regression
 
 - http://www.win-vector.com/blog/tag/logistic-regression/
