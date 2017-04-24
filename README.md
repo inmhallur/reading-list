@@ -19,6 +19,10 @@ Stuff I want to read
 - https://www.quora.com/Im-17-What-books-would-you-recommend-to-me-to-improve-myself/answer/Brandon-Lee-11
 - https://www.quora.com/How-does-Quincy-Larson-make-money/answer/Quincy-Larson
 
+## Real examples of data analysis
+
+- http://lmcinnes.github.io/subreddit_mapping/
+
 ## Machine Learning
 
 - https://chrisalbon.com/
