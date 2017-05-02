@@ -2,6 +2,12 @@
 
 Stuff I want to read
 
+## High priority
+
+- http://radar.oreilly.com/2012/07/data-jujitsu.html
+
+## Unclassified
+
 - https://github.com/teesloane/Auth-Boss
 - https://news.ycombinator.com/item?id=13936792 (tmuxp)
 - https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
