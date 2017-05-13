@@ -110,7 +110,6 @@ Stuff I want to read
 
 ## Security
 
-- https://github.com/forter/security-101-for-saas-startups
 - https://news.ycombinator.com/item?id=14321498
 
 
