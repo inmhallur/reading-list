@@ -17,7 +17,6 @@ Stuff I want to read
 - https://stackoverflow.com/insights/survey/2017/
 - https://news.ycombinator.com/item?id=13989379 (Algorithms in Life: Find the perfect partner, apartment and job)
 - https://codewords.recurse.com/issues/two/git-from-the-inside-out
-- https://leanpub.com/blog/2015/12/year-in-review.html
 - https://www.quora.com/What-are-some-books-that-expand-our-mind/answers/15382907
 - https://engineering.viki.com/blog/2015/building-a-churn-model-an-interns-perspective/
 - https://data.quora.com/Day-of-Week-Patterns-in-Question-Views?srid=7h
