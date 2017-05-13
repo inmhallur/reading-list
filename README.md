@@ -26,6 +26,7 @@ Stuff I want to read
 - https://www.chrisstucchio.com/blog/2015/paul_grahams_bias_test.html
 - https://www.quora.com/Im-17-What-books-would-you-recommend-to-me-to-improve-myself/answer/Brandon-Lee-11
 - https://www.quora.com/How-does-Quincy-Larson-make-money/answer/Quincy-Larson
+- https://news.ycombinator.com/item?id=14313804
 
 ## Real examples of data analysis
 
@@ -37,6 +38,8 @@ Stuff I want to read
 - http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
 - https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora
 - https://www.quora.com/How-do-I-learn-machine-learning-fast/answer/Håkon-Hapnes-Strand
+- https://news.ycombinator.com/item?id=14322953
+- https://www.youtube.com/user/shiffman/videos
 
 ## Machine Learning Project Ideas
 
@@ -109,9 +112,16 @@ Stuff I want to read
 ## Security
 
 - https://github.com/forter/security-101-for-saas-startups
+- https://news.ycombinator.com/item?id=14321498
 
 
 ## Neural Networks
 
 - http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
 - ftp://ftp.sas.com/pub/neural/illcond/illcond.html
+
+
+## Share with friends
+
+- https://www.quora.com/Why-is-the-cost-of-living-in-Singapore-rising-so-fast-and-still-showing-no-sign-of-slowing/answer/Daniel-Tay-35
+- https://www.quora.com/Do-Chinese-people-have-creativity/answer/Michelle-Zhou-28
