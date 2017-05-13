@@ -38,6 +38,7 @@ Stuff I want to read
 - https://www.quora.com/How-do-I-learn-machine-learning-fast/answer/Håkon-Hapnes-Strand
 - https://news.ycombinator.com/item?id=14322953
 - https://www.youtube.com/user/shiffman/videos
+- http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning
 
 ## Machine Learning Project Ideas
 
