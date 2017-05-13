@@ -101,6 +101,7 @@ Stuff I want to read
 - http://blog.petersobot.com/pipes-and-filters
 - http://xon.sh
 - https://github.com/nvbn/thefuck
+- https://news.ycombinator.com/item?id=14321213
 
 
 ## Systems
