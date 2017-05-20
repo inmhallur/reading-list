@@ -39,6 +39,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=14322953
 - https://www.youtube.com/user/shiffman/videos
 - http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning
+- http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
 
 ## Machine Learning Project Ideas
 
