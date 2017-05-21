@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## High priority
 
+- https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 - https://www.quora.com/What-are-some-best-practices-for-training-machine-learning-models/answer/Xavier-Amatriain
 - https://www.quora.com/What-are-the-most-common-data-normalization-methods-used-in-machine-learning/answer/H%C3%A5kon-Hapnes-Strand
 
