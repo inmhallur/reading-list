@@ -11,6 +11,9 @@ Stuff I want to read
 - https://www.quora.com/What-are-the-most-common-data-normalization-methods-used-in-machine-learning/answer/H%C3%A5kon-Hapnes-Strand
 - https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
 - https://news.ycombinator.com/item?id=14431315
+- https://www.quora.com/What-is-an-advanced-machine-learning-engineer-able-to-do-that-a-mediocre-one-can%u2019t/answer/Håkon-Hapnes-Strand
+- https://www.quora.com/I-am-willing-to-sacrifice-all-of-my-free-time-to-learn-algorithms-and-prepare-the-Google-interview-in-1-year-how-should-I-start/answer/Gayle-Laakmann-McDowell
+- https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 
 ## Unclassified
 
