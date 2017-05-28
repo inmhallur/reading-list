@@ -4,9 +4,13 @@ Stuff I want to read
 
 ## High priority
 
+- http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
+- https://www.quora.com/If-a-circle-passes-through-the-points-0-0-and-0-1-and-also-touches-the-circle-x-2+y-2-16-what-is-the-radius-of-the-circle
 - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 - https://www.quora.com/What-are-some-best-practices-for-training-machine-learning-models/answer/Xavier-Amatriain
 - https://www.quora.com/What-are-the-most-common-data-normalization-methods-used-in-machine-learning/answer/H%C3%A5kon-Hapnes-Strand
+- https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
+- https://news.ycombinator.com/item?id=14431315
 
 ## Unclassified
 
@@ -88,6 +92,7 @@ Stuff I want to read
 ## Mathematics
 
 - https://www.quora.com/How-is-x-π-calculated/answer/Michael-Lamar
+- https://news.ycombinator.com/item?id=14429576
 
 
 ## vim
