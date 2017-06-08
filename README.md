@@ -47,6 +47,8 @@ Stuff I want to read
 - https://www.youtube.com/user/shiffman/videos
 - http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning
 - http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
+- https://ml.berkeley.edu/blog/2016/12/03/github/
+- https://lexicon.github.io/#
 
 ## Machine Learning Project Ideas
 
