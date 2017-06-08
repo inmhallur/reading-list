@@ -53,6 +53,7 @@ Stuff I want to read
 ## Machine Learning Project Ideas
 
 - http://blog.andrewcantino.com/blog/2012/04/22/machine-learning-project-ideas/
+- https://www.quora.com/What-is-a-good-way-for-a-data-scientist-to-construct-an-online-portfolio/answer/Josh-Devlin-3?share=182f8358&srid=pXGZ
 
 ## Logistic Regression
 
