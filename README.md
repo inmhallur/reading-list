@@ -15,6 +15,7 @@ Stuff I want to read
 - https://www.quora.com/I-am-willing-to-sacrifice-all-of-my-free-time-to-learn-algorithms-and-prepare-the-Google-interview-in-1-year-how-should-I-start/answer/Gayle-Laakmann-McDowell
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 - https://nedbatchelder.com/text/unipain.html
+- https://twitter.com/nelstrom/status/869201408150601728?s=03
 
 ## Unclassified
 
@@ -70,6 +71,11 @@ Stuff I want to read
 - http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
 - http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py
 - https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
+
+
+## Data Science
+
+- https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb
 
 
 ## Linear Algebra
