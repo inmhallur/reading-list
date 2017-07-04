@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## High priority
 
+- https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html (XDG Base Directory Specification)
 - https://news.ycombinator.com/item?id=14678473 (How I took an API side project to 250M daily requests)
 - https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
 - https://news.ycombinator.com/item?id=14669587 (Probabilistic programming from scratch)
