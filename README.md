@@ -34,7 +34,6 @@ Stuff I want to read
 - https://www.chrisstucchio.com/blog/2015/paul_grahams_bias_test.html
 - https://www.quora.com/Im-17-What-books-would-you-recommend-to-me-to-improve-myself/answer/Brandon-Lee-11
 - https://www.quora.com/How-does-Quincy-Larson-make-money/answer/Quincy-Larson
-- https://news.ycombinator.com/item?id=14313804
 
 ## Real examples of data analysis
 
@@ -45,7 +44,6 @@ Stuff I want to read
 - https://chrisalbon.com/
 - http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
 - https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora
-- https://www.quora.com/How-do-I-learn-machine-learning-fast/answer/Håkon-Hapnes-Strand
 - https://news.ycombinator.com/item?id=14322953
 - https://www.youtube.com/user/shiffman/videos
 - http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning
@@ -77,12 +75,6 @@ Stuff I want to read
 ## Data Science
 
 - https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb
-
-
-## Linear Algebra
-
-- http://math.stackexchange.com/q/133350
-- http://math.stackexchange.com/q/730421
 
 
 ## Text Mining
