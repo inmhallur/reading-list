@@ -9,14 +9,11 @@ Stuff I want to read
 - http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf
 - https://www.quora.com/If-a-circle-passes-through-the-points-0-0-and-0-1-and-also-touches-the-circle-x-2+y-2-16-what-is-the-radius-of-the-circle
 - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
-- https://www.quora.com/What-are-some-best-practices-for-training-machine-learning-models/answer/Xavier-Amatriain
 - https://www.quora.com/What-are-the-most-common-data-normalization-methods-used-in-machine-learning/answer/H%C3%A5kon-Hapnes-Strand
 - https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
-- https://news.ycombinator.com/item?id=14431315
 - https://www.quora.com/What-is-an-advanced-machine-learning-engineer-able-to-do-that-a-mediocre-one-can%u2019t/answer/Håkon-Hapnes-Strand
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 - https://nedbatchelder.com/text/unipain.html
-- https://twitter.com/nelstrom/status/869201408150601728?s=03
 
 ## Unclassified
 
