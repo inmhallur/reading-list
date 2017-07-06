@@ -93,7 +93,6 @@ Stuff I want to read
 
 ## Mathematics
 
-- https://www.quora.com/How-is-x-π-calculated/answer/Michael-Lamar
 - https://news.ycombinator.com/item?id=14429576
 
 
