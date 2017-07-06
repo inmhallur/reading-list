@@ -11,7 +11,6 @@ Stuff I want to read
 - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 - https://www.quora.com/What-are-the-most-common-data-normalization-methods-used-in-machine-learning/answer/H%C3%A5kon-Hapnes-Strand
 - https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
-- https://www.quora.com/What-is-an-advanced-machine-learning-engineer-able-to-do-that-a-mediocre-one-can%u2019t/answer/Håkon-Hapnes-Strand
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 - https://nedbatchelder.com/text/unipain.html
 
