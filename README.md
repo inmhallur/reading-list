@@ -17,7 +17,6 @@ Stuff I want to read
 
 ## Unclassified
 
-- https://github.com/teesloane/Auth-Boss
 - https://news.ycombinator.com/item?id=13936792 (tmuxp)
 - https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
 - https://news.ycombinator.com/item?id=13534565
