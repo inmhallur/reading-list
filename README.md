@@ -129,5 +129,4 @@ Stuff I want to read
 
 ## Share with friends
 
-- https://www.quora.com/Why-is-the-cost-of-living-in-Singapore-rising-so-fast-and-still-showing-no-sign-of-slowing/answer/Daniel-Tay-35
 - https://www.quora.com/Do-Chinese-people-have-creativity/answer/Michelle-Zhou-28
