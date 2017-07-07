@@ -9,7 +9,6 @@ Stuff I want to read
 - http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf
 - https://www.quora.com/If-a-circle-passes-through-the-points-0-0-and-0-1-and-also-touches-the-circle-x-2+y-2-16-what-is-the-radius-of-the-circle
 - https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
-- https://www.quora.com/What-are-the-most-common-data-normalization-methods-used-in-machine-learning/answer/H%C3%A5kon-Hapnes-Strand
 - https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 - https://nedbatchelder.com/text/unipain.html
@@ -23,7 +22,6 @@ Stuff I want to read
 - https://stackoverflow.com/insights/survey/2017/
 - https://codewords.recurse.com/issues/two/git-from-the-inside-out
 - https://www.quora.com/What-are-some-books-that-expand-our-mind/answers/15382907
-- https://engineering.viki.com/blog/2015/building-a-churn-model-an-interns-perspective/
 - https://data.quora.com/Day-of-Week-Patterns-in-Question-Views?srid=7h
 - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
 - https://www.chrisstucchio.com/blog/2015/paul_grahams_bias_test.html
