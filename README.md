@@ -4,6 +4,10 @@ Stuff I want to read
 
 ## High priority
 
+- http://argumatronic.com/noobs.html
+- https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
+- http://howistart.org/posts/haskell/1/
+- https://haskell-lang.org/libraries
 - https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
 - https://news.ycombinator.com/item?id=14669587 (Probabilistic programming from scratch)
 - http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf
