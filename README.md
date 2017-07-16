@@ -16,6 +16,8 @@ Stuff I want to read
 - https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 - https://nedbatchelder.com/text/unipain.html
+- http://www.1point3acres.com/how-to-negotiate-salary/
+- http://www.1point3acres.com/how-to-improve-negotiation-skills/
 
 ## Unclassified
 
