@@ -4,8 +4,6 @@ Stuff I want to read
 
 ## High priority
 
-- https://www.digitalocean.com/community/tutorials/how-to-implement-a-basic-firewall-template-with-iptables-on-ubuntu-14-04
-- https://www.digitalocean.com/community/tutorials/how-to-set-up-an-iptables-firewall-to-protect-traffic-between-your-servers
 - https://security.stackexchange.com/questions/22711/is-it-a-bad-idea-for-a-firewall-to-block-icmp/22713#22713
 - https://serverfault.com/questions/84963/why-not-block-icmp/84981#84981
 - http://www.chiark.greenend.org.uk/~peterb/network/drop-vs-reject
