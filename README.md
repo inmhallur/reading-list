@@ -4,9 +4,12 @@ Stuff I want to read
 
 ## High priority
 
+- https://stackoverflow.com/a/28146074
+- https://stackoverflow.com/questions/28139259/why-do-we-need-monads
 - https://stackoverflow.com/questions/12468622/how-does-the-st-monad-work
 - https://stackoverflow.com/questions/12031878/what-is-the-purpose-of-rank2types/12033549#12033549
 - https://stackoverflow.com/questions/34494893/how-to-understand-the-state-type-in-haskells-st-monad
+- https://stackoverflow.com/questions/8197032/starray-documentation-for-newbies-and-state-st-related-questions
 - https://blog.jle.im/entry/inside-my-world-ode-to-functor-and-monad
 - https://security.stackexchange.com/questions/22711/is-it-a-bad-idea-for-a-firewall-to-block-icmp/22713#22713
 - https://serverfault.com/questions/84963/why-not-block-icmp/84981#84981
