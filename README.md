@@ -13,7 +13,6 @@ Stuff I want to read
 - http://www.chiark.greenend.org.uk/~peterb/network/drop-vs-reject
 - http://shouldiblockicmp.com/
 - https://www.quora.com/What-is-ICMP-Why-should-you-block-it
-- http://argumatronic.com/noobs.html
 - https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
 - http://howistart.org/posts/haskell/1/
 - https://haskell-lang.org/libraries
