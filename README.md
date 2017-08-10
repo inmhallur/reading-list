@@ -37,7 +37,6 @@ Stuff I want to read
 - https://stackoverflow.com/insights/survey/2017/
 - https://codewords.recurse.com/issues/two/git-from-the-inside-out
 - https://www.quora.com/What-are-some-books-that-expand-our-mind/answers/15382907
-- https://data.quora.com/Day-of-Week-Patterns-in-Question-Views?srid=7h
 - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
 - https://www.chrisstucchio.com/blog/2015/paul_grahams_bias_test.html
 - https://www.quora.com/Im-17-What-books-would-you-recommend-to-me-to-improve-myself/answer/Brandon-Lee-11
