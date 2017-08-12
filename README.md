@@ -4,7 +4,6 @@ Stuff I want to read
 
 ## High priority
 
-- https://stackoverflow.com/q/23342184/732396
 - https://stackoverflow.com/q/17409260
 - https://stackoverflow.com/a/28146074
 - https://stackoverflow.com/questions/28139259/why-do-we-need-monads
