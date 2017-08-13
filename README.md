@@ -4,8 +4,6 @@ Stuff I want to read
 
 ## High priority
 
-- https://stackoverflow.com/a/28146074
-- https://stackoverflow.com/questions/28139259/why-do-we-need-monads
 - https://stackoverflow.com/q/7220436
 - https://stackoverflow.com/questions/12468622/how-does-the-st-monad-work
 - https://stackoverflow.com/questions/12031878/what-is-the-purpose-of-rank2types/12033549#12033549
