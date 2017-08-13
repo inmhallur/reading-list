@@ -4,7 +4,14 @@ Stuff I want to read
 
 ## High priority
 
-- https://stackoverflow.com/q/7220436
+- http://www.haskellforall.com/2012/12/the-continuation-monad.html
+- https://stackoverflow.com/questions/14131856/whats-the-absurd-function-in-data-void-useful-for
+- https://stackoverflow.com/questions/38556531/how-is-data-void-absurd-different-from-⊥
+- https://hackage.haskell.org/package/monad-loops
+- http://howistart.org/posts/haskell/1/
+- https://blog.jle.im/entry/streaming-huffman-compression-in-haskell-part-1-trees.html
+- https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts
+- https://haskell-lang.org/documentation
 - https://stackoverflow.com/questions/12468622/how-does-the-st-monad-work
 - https://stackoverflow.com/questions/12031878/what-is-the-purpose-of-rank2types/12033549#12033549
 - https://stackoverflow.com/questions/34494893/how-to-understand-the-state-type-in-haskells-st-monad
