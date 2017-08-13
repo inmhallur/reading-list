@@ -27,8 +27,6 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
 - https://news.ycombinator.com/item?id=14669587 (Probabilistic programming from scratch)
 - http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf
-- https://www.quora.com/If-a-circle-passes-through-the-points-0-0-and-0-1-and-also-touches-the-circle-x-2+y-2-16-what-is-the-radius-of-the-circle
-- https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
 - https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 - https://nedbatchelder.com/text/unipain.html
