@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## High priority
 
+- https://haskell-lang.org/tutorial/stack-script
 - https://stackoverflow.com/q/17409260
 - https://stackoverflow.com/a/28146074
 - https://stackoverflow.com/questions/28139259/why-do-we-need-monads
