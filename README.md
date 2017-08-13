@@ -4,7 +4,6 @@ Stuff I want to read
 
 ## High priority
 
-- http://www.haskellforall.com/2012/12/the-continuation-monad.html
 - https://stackoverflow.com/questions/14131856/whats-the-absurd-function-in-data-void-useful-for
 - https://stackoverflow.com/questions/38556531/how-is-data-void-absurd-different-from-⊥
 - https://hackage.haskell.org/package/monad-loops
@@ -12,11 +11,16 @@ Stuff I want to read
 - https://blog.jle.im/entry/streaming-huffman-compression-in-haskell-part-1-trees.html
 - https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts
 - https://haskell-lang.org/documentation
+- https://wiki.haskell.org/Arrow_tutorial#Kleisli_Arrows
+- https://en.wikibooks.org/wiki/Haskell/Continuation_passing_style
+- https://wiki.haskell.org/MonadCont_under_the_hood
 - https://stackoverflow.com/questions/12468622/how-does-the-st-monad-work
 - https://stackoverflow.com/questions/12031878/what-is-the-purpose-of-rank2types/12033549#12033549
 - https://stackoverflow.com/questions/34494893/how-to-understand-the-state-type-in-haskells-st-monad
 - https://stackoverflow.com/questions/8197032/starray-documentation-for-newbies-and-state-st-related-questions
 - https://blog.jle.im/entry/inside-my-world-ode-to-functor-and-monad
+- https://en.wikipedia.org/wiki/Path_MTU_Discovery
+- https://en.wikipedia.org/wiki/IP_fragmentation
 - https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
 - https://haskell-lang.org/libraries
 - https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
