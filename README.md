@@ -2,7 +2,7 @@
 
 Stuff I want to read
 
-## High priority
+## Haskell
 
 - https://stackoverflow.com/questions/14131856/whats-the-absurd-function-in-data-void-useful-for
 - https://stackoverflow.com/questions/38556531/how-is-data-void-absurd-different-from-⊥
@@ -19,36 +19,84 @@ Stuff I want to read
 - https://stackoverflow.com/questions/34494893/how-to-understand-the-state-type-in-haskells-st-monad
 - https://stackoverflow.com/questions/8197032/starray-documentation-for-newbies-and-state-st-related-questions
 - https://blog.jle.im/entry/inside-my-world-ode-to-functor-and-monad
+- https://haskell-lang.org/libraries
+- http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf
+
+
+## Computer Networks
+
 - https://en.wikipedia.org/wiki/Path_MTU_Discovery
 - https://en.wikipedia.org/wiki/IP_fragmentation
-- https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
-- https://haskell-lang.org/libraries
+
+
+## vim
+
+- https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
+- https://blog.bugsnag.com/tmux-and-vim/
+
+
+## command line
+
+- https://codewords.recurse.com/issues/two/git-from-the-inside-out
+- http://www.drbunsen.org/the-text-triumvirate/
+- https://github.com/jlevy/the-art-of-command-line
+- http://blog.petersobot.com/pipes-and-filters
+- http://xon.sh
+- https://github.com/nvbn/thefuck
+- https://news.ycombinator.com/item?id=14321213
+- https://news.ycombinator.com/item?id=13936792 (tmuxp)
+- https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
+
+
+## Security
+
+- https://news.ycombinator.com/item?id=14321498
+
+
+## Business
+
 - https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
-- https://news.ycombinator.com/item?id=14669587 (Probabilistic programming from scratch)
-- http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf
-- https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
-- https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
-- https://nedbatchelder.com/text/unipain.html
+- https://www.quora.com/How-does-Quincy-Larson-make-money/answer/Quincy-Larson
 - http://www.1point3acres.com/how-to-negotiate-salary/
 - http://www.1point3acres.com/how-to-improve-negotiation-skills/
 
-## Unclassified
 
-- https://news.ycombinator.com/item?id=13936792 (tmuxp)
-- https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
-- https://news.ycombinator.com/item?id=13534565
-- https://news.ycombinator.com/item?id=13620871 (The Essence of Linear Algebra YouTube video)
-- https://stackoverflow.com/insights/survey/2017/
-- https://codewords.recurse.com/issues/two/git-from-the-inside-out
-- https://www.quora.com/What-are-some-books-that-expand-our-mind/answers/15382907
-- http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
-- https://www.chrisstucchio.com/blog/2015/paul_grahams_bias_test.html
+## Advice
+
 - https://www.quora.com/Im-17-What-books-would-you-recommend-to-me-to-improve-myself/answer/Brandon-Lee-11
-- https://www.quora.com/How-does-Quincy-Larson-make-money/answer/Quincy-Larson
+- https://www.quora.com/What-are-some-books-that-expand-our-mind/answers/15382907
+- https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
+
+
+## General Computing
+
+- http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
+- https://stackoverflow.com/insights/survey/2017/
+- https://nedbatchelder.com/text/unipain.html
+
+
+## Mathematics
+
+- https://news.ycombinator.com/item?id=14429576 (Mathematical Foundations of Computing, pdf)
+- https://news.ycombinator.com/item?id=13620871 (The Essence of Linear Algebra YouTube video)
+- https://news.ycombinator.com/item?id=14669587 (Probabilistic programming from scratch)
+- https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
+
+
+## Systems
+
+- http://code.activestate.com/recipes/278731/
+
+
+## Share with friends
+
+- https://www.quora.com/Do-Chinese-people-have-creativity/answer/Michelle-Zhou-28
+
 
 ## Real examples of data analysis
 
 - http://lmcinnes.github.io/subreddit_mapping/
+
 
 ## Machine Learning
 
@@ -62,10 +110,12 @@ Stuff I want to read
 - https://ml.berkeley.edu/blog/2016/12/03/github/
 - https://lexicon.github.io/#
 
+
 ## Machine Learning Project Ideas
 
 - http://blog.andrewcantino.com/blog/2012/04/22/machine-learning-project-ideas/
 - https://www.quora.com/What-is-a-good-way-for-a-data-scientist-to-construct-an-online-portfolio/answer/Josh-Devlin-3?share=182f8358&srid=pXGZ
+
 
 ## Logistic Regression
 
@@ -75,6 +125,7 @@ Stuff I want to read
 - http://stats.stackexchange.com/q/4799
 - https://www.quora.com/How-can-I-show-that-the-Hessian-for-log-likelihood-for-logistic-regression-is-negative-definite
 - http://sites.stat.psu.edu/~jiali/course/stat597e/notes2/logit.pdf
+
 
 ## Error measures
 
@@ -92,7 +143,7 @@ Stuff I want to read
 
 - https://www.datacamp.com/community/blog/text-mining-in-r-and-python-tips
 - https://www.coursera.org/learn/text-mining
-- http://www.nltk.org/book/
+- https://news.ycombinator.com/item?id=13534565 (A gentle introduction to text classification and sentiment analysis)
 
 
 ## SVD
@@ -106,42 +157,12 @@ Stuff I want to read
 - https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2004/lecture-notes/lecture3.pdf
 
 
-## Mathematics
+## Statistics
 
-- https://news.ycombinator.com/item?id=14429576
-
-
-## vim
-
-- https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
-- https://blog.bugsnag.com/tmux-and-vim/
-
-## command line
-
-- http://www.drbunsen.org/the-text-triumvirate/
-- https://github.com/jlevy/the-art-of-command-line
-- http://blog.petersobot.com/pipes-and-filters
-- http://xon.sh
-- https://github.com/nvbn/thefuck
-- https://news.ycombinator.com/item?id=14321213
-
-
-## Systems
-
-- http://code.activestate.com/recipes/278731/
-
-
-## Security
-
-- https://news.ycombinator.com/item?id=14321498
+- https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
 
 
 ## Neural Networks
 
 - http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
 - ftp://ftp.sas.com/pub/neural/illcond/illcond.html
-
-
-## Share with friends
-
-- https://www.quora.com/Do-Chinese-people-have-creativity/answer/Michelle-Zhou-28
