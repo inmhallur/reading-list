@@ -23,7 +23,6 @@ Stuff I want to read
 - http://shouldiblockicmp.com/
 - https://www.quora.com/What-is-ICMP-Why-should-you-block-it
 - https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
-- http://howistart.org/posts/haskell/1/
 - https://haskell-lang.org/libraries
 - https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
 - https://news.ycombinator.com/item?id=14669587 (Probabilistic programming from scratch)
