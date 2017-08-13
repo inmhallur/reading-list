@@ -4,6 +4,8 @@ Stuff I want to read
 
 ## Haskell
 
+- http://www.serpentine.com/wreq/
+- http://www.serpentine.com/wreq/tutorial.html#a-quick-lens-backgrounder
 - https://stackoverflow.com/questions/14131856/whats-the-absurd-function-in-data-void-useful-for
 - https://stackoverflow.com/questions/38556531/how-is-data-void-absurd-different-from-⊥
 - https://hackage.haskell.org/package/monad-loops
