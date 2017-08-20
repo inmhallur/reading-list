@@ -4,7 +4,6 @@ Stuff I want to read
 
 ## Priority
 
-- https://news.ycombinator.com/item?id=14994453 (Give me 15 minutes and I'll change your view of GDB)
 - https://news.ycombinator.com/item?id=15046601 (E-commerce will evolve next month as Amazon loses the 1-Click patent)
 - https://news.ycombinator.com/item?id=15029086 (Kubernetes at GitHub)
 - https://www.gettoby.com/ (Toby, a bookmark / browser organization tool)
