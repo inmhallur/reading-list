@@ -2,6 +2,23 @@
 
 Stuff I want to read
 
+## Priority
+
+- https://news.ycombinator.com/item?id=14994453 (Give me 15 minutes and I'll change your view of GDB)
+- https://news.ycombinator.com/item?id=15046601 (E-commerce will evolve next month as Amazon loses the 1-Click patent)
+- https://news.ycombinator.com/item?id=15029086 (Kubernetes at GitHub)
+- https://www.gettoby.com/ (Toby, a bookmark / browser organization tool)
+- https://engineering.quora.com/The-Quora-Engineering-Guilds (Quora Engineering Guilds)
+- https://stackshare.io/uploadcare/how-uploadcare-built-a-stack-that-handles-350m-file-api-requests-per-day (How Uploadcare Built a Stack That Handles 350M File API Requests Per Day)
+- https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month (How CircleCI Processes 4.5 Million Builds Per Month)
+- http://jvns.ca/networking-zine.pdf (Julia Evans Networking Zine)
+
+
+## Creative
+
+- https://github.com/toddmotto/public-apis (Collective List of public JSON APIs for use in web development)
+
+
 ## Haskell
 
 - http://www.serpentine.com/wreq/
@@ -35,6 +52,7 @@ Stuff I want to read
 
 - https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
 - https://blog.bugsnag.com/tmux-and-vim/
+- https://twitter.com/trevordmiller/status/897808937310924800?s=03 (Nova color scheme)
 
 
 ## command line
@@ -70,6 +88,17 @@ Stuff I want to read
 - https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
 
 
+## JavaScript
+
+- https://github.com/bpesquet/thejsway (The JavaScript Way book)
+
+
+## Python
+
+- https://news.ycombinator.com/item?id=13825225 (CPython Internals: A ten-hour codewalk through the Python Interpreter [2015])
+- https://www.quora.com/How-do-I-learn-Python-in-depth (How do I learn Python in depth?)
+
+
 ## General Computing
 
 - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
@@ -88,6 +117,7 @@ Stuff I want to read
 ## Systems
 
 - http://code.activestate.com/recipes/278731/
+- https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates (How to Use Certbot Standalone Mode for Let's Encrypt Certificates)
 
 
 ## Share with friends
@@ -111,6 +141,9 @@ Stuff I want to read
 - http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
 - https://ml.berkeley.edu/blog/2016/12/03/github/
 - https://lexicon.github.io/#
+- https://news.ycombinator.com/item?id=15036045 (Computer Age Statistical Inference: Algorithms, Evidence and Data Science)
+- http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml (CMU Machine Learning course)
+- https://www.kaggle.com/nirajvermafcb/principal-component-analysis-explained (Kaggle Kernel explaining PCA)
 
 
 ## Machine Learning Project Ideas
