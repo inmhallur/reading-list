@@ -50,6 +50,11 @@ Stuff I want to read
 - https://en.wikipedia.org/wiki/IP_fragmentation
 
 
+## Tech blogs
+
+- https://two-wrongs.com/
+
+
 ## vim
 
 - https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
