@@ -22,6 +22,9 @@ Stuff I want to read
 
 - http://www.serpentine.com/wreq/
 - http://www.serpentine.com/wreq/tutorial.html#a-quick-lens-backgrounder
+- http://hao.codes/lenses-heart-json.html
+- https://artyom.me/aeson
+- https://two-wrongs.com/haskell-time-library-tutorial
 - https://stackoverflow.com/questions/14131856/whats-the-absurd-function-in-data-void-useful-for
 - https://stackoverflow.com/questions/38556531/how-is-data-void-absurd-different-from-⊥
 - https://hackage.haskell.org/package/monad-loops
