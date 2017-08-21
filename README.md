@@ -72,6 +72,7 @@ Stuff I want to read
 ## Security
 
 - https://news.ycombinator.com/item?id=14321498
+- https://news.ycombinator.com/item?id=8826024 (Environment Variables Considered Harmful for your secrets)
 
 
 ## Business
@@ -80,6 +81,7 @@ Stuff I want to read
 - https://www.quora.com/How-does-Quincy-Larson-make-money/answer/Quincy-Larson
 - http://www.1point3acres.com/how-to-negotiate-salary/
 - http://www.1point3acres.com/how-to-improve-negotiation-skills/
+- https://news.ycombinator.com/item?id=14951671 (Ask HN: Is Anyone Living "The 4-Hour Work Week?")
 
 
 ## Advice
@@ -87,6 +89,7 @@ Stuff I want to read
 - https://www.quora.com/Im-17-What-books-would-you-recommend-to-me-to-improve-myself/answer/Brandon-Lee-11
 - https://www.quora.com/What-are-some-books-that-expand-our-mind/answers/15382907
 - https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
+- https://www.quora.com/How-can-I-become-a-very-good-programmer/answer/Brian-Knapp-1
 
 
 ## JavaScript
