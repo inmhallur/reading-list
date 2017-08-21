@@ -20,6 +20,10 @@ Stuff I want to read
 
 ## Haskell
 
+- https://stackoverflow.com/q/38727850 (How to deal with an IO (Maybe (IO (Maybe t))) type?)
+- https://en.wikibooks.org/wiki/Haskell/Monad_transformers
+- https://stackoverflow.com/q/20293006/732396 (How to use Maybe Monad inside another Monad?)
+- https://stackoverflow.com/q/19655870/732396 (Simplifying nested Maybe pattern matching)
 - https://stackoverflow.com/a/1016986/732396
 - http://www.serpentine.com/wreq/
 - http://www.serpentine.com/wreq/tutorial.html#a-quick-lens-backgrounder
