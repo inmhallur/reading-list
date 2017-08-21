@@ -44,12 +44,6 @@ Stuff I want to read
 - http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf
 
 
-## Computer Networks
-
-- https://en.wikipedia.org/wiki/Path_MTU_Discovery
-- https://en.wikipedia.org/wiki/IP_fragmentation
-
-
 ## Tech blogs
 
 - https://two-wrongs.com/
