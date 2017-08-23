@@ -7,7 +7,6 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=15046601 (E-commerce will evolve next month as Amazon loses the 1-Click patent)
 - https://news.ycombinator.com/item?id=15029086 (Kubernetes at GitHub)
 - https://www.gettoby.com/ (Toby, a bookmark / browser organization tool)
-- https://engineering.quora.com/The-Quora-Engineering-Guilds (Quora Engineering Guilds)
 - https://stackshare.io/uploadcare/how-uploadcare-built-a-stack-that-handles-350m-file-api-requests-per-day (How Uploadcare Built a Stack That Handles 350M File API Requests Per Day)
 - https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month (How CircleCI Processes 4.5 Million Builds Per Month)
 - http://jvns.ca/networking-zine.pdf (Julia Evans Networking Zine)
