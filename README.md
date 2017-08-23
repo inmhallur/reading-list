@@ -19,6 +19,7 @@ Stuff I want to read
 
 ## Haskell
 
+- https://stackoverflow.com/a/1016986/732396 (Getting started with Haskell)
 - https://stackoverflow.com/q/38727850 (How to deal with an IO (Maybe (IO (Maybe t))) type?)
 - https://en.wikibooks.org/wiki/Haskell/Monad_transformers
 - https://stackoverflow.com/q/20293006/732396 (How to use Maybe Monad inside another Monad?)
