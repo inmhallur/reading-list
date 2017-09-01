@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
 - https://news.ycombinator.com/item?id=15046601 (E-commerce will evolve next month as Amazon loses the 1-Click patent)
 - https://news.ycombinator.com/item?id=15029086 (Kubernetes at GitHub)
 - https://www.gettoby.com/ (Toby, a bookmark / browser organization tool)
