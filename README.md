@@ -4,6 +4,9 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.linkedin.com/feed/update/urn:li:activity:6305212219177168896 (Why Open Source Projects Favor new users, and what you can do about it)
+- https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
+- https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
 - https://news.ycombinator.com/item?id=15046601 (E-commerce will evolve next month as Amazon loses the 1-Click patent)
 - https://news.ycombinator.com/item?id=15029086 (Kubernetes at GitHub)
@@ -11,6 +14,15 @@ Stuff I want to read
 - https://stackshare.io/uploadcare/how-uploadcare-built-a-stack-that-handles-350m-file-api-requests-per-day (How Uploadcare Built a Stack That Handles 350M File API Requests Per Day)
 - https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month (How CircleCI Processes 4.5 Million Builds Per Month)
 - http://jvns.ca/networking-zine.pdf (Julia Evans Networking Zine)
+
+
+## Recent
+
+- https://news.ycombinator.com/item?id=15127599 (Launching a product with no money and no customers)
+- http://engineering.grab.com/migrating-existing-datastores (Migrating Existing Datastores)
+- https://news.ycombinator.com/item?id=15127976 (Topic suggestions for millions of repositories - GitHub Engineering)
+- https://news.ycombinator.com/item?id=15127730 (Roamer: A Plain-Text File Manager)
+- https://news.ycombinator.com/item?id=15131981 (Reducing Python's startup time)
 
 
 ## Creative
