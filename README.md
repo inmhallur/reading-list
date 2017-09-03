@@ -40,6 +40,7 @@ Stuff I want to read
 - https://blog.jle.im/entry/inside-my-world-ode-to-functor-and-monad
 - https://haskell-lang.org/libraries
 - http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf
+- https://en.wikibooks.org/wiki/Haskell/Alternative_and_MonadPlus
 
 
 ## Creative
