@@ -17,11 +17,8 @@ Stuff I want to read
 ## Haskell
 
 - https://stackoverflow.com/a/16951/732396 (Beginners Guide to Haskell?)
-- https://stackoverflow.com/q/38727850 (How to deal with an IO (Maybe (IO (Maybe t))) type?)
 - https://en.wikibooks.org/wiki/Haskell/Monad_transformers
-- https://stackoverflow.com/q/20293006/732396 (How to use Maybe Monad inside another Monad?)
 - https://stackoverflow.com/a/1016986/732396
-- http://www.serpentine.com/wreq/
 - http://www.serpentine.com/wreq/tutorial.html#a-quick-lens-backgrounder
 - http://hao.codes/lenses-heart-json.html
 - https://artyom.me/aeson
