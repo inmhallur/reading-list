@@ -15,11 +15,6 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=15127730 (Roamer: A Plain-Text File Manager)
 
 
-## Creative
-
-- https://github.com/toddmotto/public-apis (Collective List of public JSON APIs for use in web development)
-
-
 ## Haskell
 
 - https://stackoverflow.com/a/16951/732396 (Beginners Guide to Haskell?)
@@ -49,6 +44,11 @@ Stuff I want to read
 - https://blog.jle.im/entry/inside-my-world-ode-to-functor-and-monad
 - https://haskell-lang.org/libraries
 - http://www.staff.city.ac.uk/~ross/papers/Applicative.pdf
+
+
+## Creative
+
+- https://github.com/toddmotto/public-apis (Collective List of public JSON APIs for use in web development)
 
 
 ## Engineering blog posts
