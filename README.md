@@ -38,6 +38,9 @@ Stuff I want to read
 - https://stackoverflow.com/questions/8197032/starray-documentation-for-newbies-and-state-st-related-questions
 - https://blog.jle.im/entry/inside-my-world-ode-to-functor-and-monad
 - https://haskell-lang.org/libraries
+- https://www.reddit.com/r/haskellquestions/comments/3w9knl/resources_to_understand_monad_transformers/
+- http://catamorph.de/publications/2004-10-01-monad-transformers.html
+- https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html
 
 
 ## Creative
