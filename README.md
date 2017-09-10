@@ -53,7 +53,6 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=15029086 (Kubernetes at GitHub)
 - https://stackshare.io/uploadcare/how-uploadcare-built-a-stack-that-handles-350m-file-api-requests-per-day (How Uploadcare Built a Stack That Handles 350M File API Requests Per Day)
 - https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month (How CircleCI Processes 4.5 Million Builds Per Month)
-- http://engineering.grab.com/migrating-existing-datastores (Migrating Existing Datastores)
 - https://news.ycombinator.com/item?id=15127976 (Topic suggestions for millions of repositories - GitHub Engineering)
 
 
