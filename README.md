@@ -41,6 +41,10 @@ Stuff I want to read
 - https://www.reddit.com/r/haskellquestions/comments/3w9knl/resources_to_understand_monad_transformers/
 - http://catamorph.de/publications/2004-10-01-monad-transformers.html
 - https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html
+- https://www.reddit.com/r/haskell/comments/2acj3w/threading_argument_vs_reader_monad/
+- https://www.reddit.com/r/haskell/comments/4c9en3/when_to_prefer_a_reader_monad_over_a_function/
+- http://blog.ezyang.com/2016/09/the-base-of-a-string-theory-for-haskell/
+- https://haskell-lang.org/tutorial/string-types
 
 
 ## Creative
