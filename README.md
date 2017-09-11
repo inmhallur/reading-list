@@ -45,6 +45,9 @@ Stuff I want to read
 - https://www.reddit.com/r/haskell/comments/4c9en3/when_to_prefer_a_reader_monad_over_a_function/
 - http://blog.ezyang.com/2016/09/the-base-of-a-string-theory-for-haskell/
 - https://haskell-lang.org/tutorial/string-types
+- https://www.quora.com/What-is-the-track-to-mastering-Haskell-and-where-would-it-lead-me-professionally/answer/Edward-Kmett
+- https://www.quora.com/What-is-your-review-of-Haskell-programming-language/answer/Edward-Kmett
+- https://gist.github.com/quchen/5280339
 
 
 ## Creative
