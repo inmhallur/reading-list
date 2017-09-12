@@ -24,7 +24,6 @@ Stuff I want to read
 - https://two-wrongs.com/haskell-time-library-tutorial
 - https://stackoverflow.com/questions/14131856/whats-the-absurd-function-in-data-void-useful-for
 - https://stackoverflow.com/questions/38556531/how-is-data-void-absurd-different-from-⊥
-- https://hackage.haskell.org/package/monad-loops
 - http://howistart.org/posts/haskell/1/
 - https://blog.jle.im/entry/streaming-huffman-compression-in-haskell-part-1-trees.html
 - https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts
@@ -48,6 +47,7 @@ Stuff I want to read
 - https://www.quora.com/What-is-the-track-to-mastering-Haskell-and-where-would-it-lead-me-professionally/answer/Edward-Kmett
 - https://www.quora.com/What-is-your-review-of-Haskell-programming-language/answer/Edward-Kmett
 - https://gist.github.com/quchen/5280339
+- https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#ghc-flag--XRank2Types
 
 
 ## Creative
