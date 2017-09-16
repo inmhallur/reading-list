@@ -48,6 +48,7 @@ Stuff I want to read
 - https://www.quora.com/What-is-your-review-of-Haskell-programming-language/answer/Edward-Kmett
 - https://gist.github.com/quchen/5280339
 - https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#ghc-flag--XRank2Types
+- https://www.safaribooksonline.com/blog/2015/12/14/high-performance-log-parsing-in-haskell-part-two/
 
 
 ## Creative
@@ -61,6 +62,7 @@ Stuff I want to read
 - https://stackshare.io/uploadcare/how-uploadcare-built-a-stack-that-handles-350m-file-api-requests-per-day (How Uploadcare Built a Stack That Handles 350M File API Requests Per Day)
 - https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month (How CircleCI Processes 4.5 Million Builds Per Month)
 - https://news.ycombinator.com/item?id=15127976 (Topic suggestions for millions of repositories - GitHub Engineering)
+- http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/
 
 
 ## Tech blogs
