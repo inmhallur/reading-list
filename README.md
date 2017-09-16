@@ -49,6 +49,9 @@ Stuff I want to read
 - https://gist.github.com/quchen/5280339
 - https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#ghc-flag--XRank2Types
 - https://www.safaribooksonline.com/blog/2015/12/14/high-performance-log-parsing-in-haskell-part-two/
+- https://docs.google.com/presentation/d/1RBefOCZ7AKOo4f1yiF4mtKPAT3l5vY9ky2SR02O4Vvg/edit#slide=id.p16
+- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/conduit-overview
+- https://haskell-lang.org/library/conduit
 
 
 ## Creative
