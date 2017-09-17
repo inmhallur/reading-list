@@ -52,6 +52,8 @@ Stuff I want to read
 - https://docs.google.com/presentation/d/1RBefOCZ7AKOo4f1yiF4mtKPAT3l5vY9ky2SR02O4Vvg/edit#slide=id.p16
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/conduit-overview
 - https://haskell-lang.org/library/conduit
+- https://www.fpcomplete.com/blog/2017/07/to-void-or-to-void
+- https://github.com/snoyberg/conduit (Stopped at `Folds` section)
 
 
 ## Creative
