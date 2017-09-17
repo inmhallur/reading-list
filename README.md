@@ -7,6 +7,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
+- https://news.ycombinator.com/item?id=15263575 (Don't use Git rebase)
 
 
 ## Recent
@@ -82,6 +83,9 @@ Stuff I want to read
 - https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
 - https://blog.bugsnag.com/tmux-and-vim/
 - https://twitter.com/trevordmiller/status/897808937310924800?s=03 (Nova color scheme)
+- https://twitter.com/MasteringVim/status/896688760376754176?s=03
+- https://twitter.com/jreybert/status/895639299663593472?s=03
+- https://twitter.com/ethanschoonover/status/884494715491504128?s=03
 
 
 ## command line
