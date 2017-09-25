@@ -87,6 +87,7 @@ Stuff I want to read
 - https://twitter.com/jreybert/status/895639299663593472?s=03
 - https://twitter.com/ethanschoonover/status/884494715491504128?s=03
 - http://www.moolenaar.net/habits.html (7 habits of effective text editing - Bram Moolenaar)
+- https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7
 
 
 ## command line
