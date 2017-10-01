@@ -8,6 +8,7 @@ Stuff I want to read
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
 - https://news.ycombinator.com/item?id=15263575 (Don't use Git rebase)
+- https://www.linkedin.com/feed/update/urn:li:activity:6315207222104289280 (The MySQL High Availability Landscape in 2017)
 
 
 ## Recent
@@ -89,6 +90,7 @@ Stuff I want to read
 - https://twitter.com/ethanschoonover/status/884494715491504128?s=03
 - http://www.moolenaar.net/habits.html (7 habits of effective text editing - Bram Moolenaar)
 - https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7
+- https://twitter.com/MasteringVim/status/911207162319425536?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=fddfb58c14624ed58a20365c9533fcb4&uid=2570069203&nid=244+272699393
 
 
 ## command line
