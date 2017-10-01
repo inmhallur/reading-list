@@ -57,6 +57,7 @@ Stuff I want to read
 - https://github.com/snoyberg/conduit (Stopped at `Primitives` section)
 - https://stackoverflow.com/a/11066007
 - https://stackoverflow.com/a/25779352
+- http://www.haskellforall.com/2017/09/type-driven-strictness.html
 
 
 ## Creative
