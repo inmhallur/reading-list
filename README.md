@@ -9,6 +9,9 @@ Stuff I want to read
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
 - https://news.ycombinator.com/item?id=15263575 (Don't use Git rebase)
 - https://www.linkedin.com/feed/update/urn:li:activity:6315207222104289280 (The MySQL High Availability Landscape in 2017)
+- https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter/answer/Dylan-Woon-1?share=4638f5e1&srid=pXGZ
+- https://www.quora.com/What-is-The-American-Dream-How-did-this-term-get-coined-and-what-is-the-history-behind-this-phrase/answer/Gordon-Miller-21?share=14d53de1&srid=pXGZ
+- http://vaibhavsagar.com/blog/2017/08/13/i-haskell-a-git/
 
 
 ## Recent
@@ -253,3 +256,9 @@ Stuff I want to read
 ## Read if we have too much time
 
 - https://news.ycombinator.com/item?id=15131981 (Reducing Python's startup time)
+
+
+## Books to check out
+
+- http://a.co/42wFrXo (Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort)
+- http://a.co/9WV6pb9 (TCP/IP Network Administration)
