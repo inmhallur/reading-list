@@ -13,11 +13,14 @@ Stuff I want to read
 - https://www.quora.com/What-is-The-American-Dream-How-did-this-term-get-coined-and-what-is-the-history-behind-this-phrase/answer/Gordon-Miller-21?share=14d53de1&srid=pXGZ
 - http://vaibhavsagar.com/blog/2017/08/13/i-haskell-a-git/
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
+- https://yager.io/programming/go.html
+- https://yager.io/CrashCourse/Haskell.html
 
 
 ## Recent
 
 - https://news.ycombinator.com/item?id=15127730 (Roamer: A Plain-Text File Manager)
+- http://yager.io/CPU/CPU1.html
 
 
 ## Haskell
