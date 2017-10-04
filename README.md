@@ -12,6 +12,7 @@ Stuff I want to read
 - https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter/answer/Dylan-Woon-1?share=4638f5e1&srid=pXGZ
 - https://www.quora.com/What-is-The-American-Dream-How-did-this-term-get-coined-and-what-is-the-history-behind-this-phrase/answer/Gordon-Miller-21?share=14d53de1&srid=pXGZ
 - http://vaibhavsagar.com/blog/2017/08/13/i-haskell-a-git/
+- https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
 
 
 ## Recent
