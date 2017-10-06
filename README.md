@@ -20,6 +20,7 @@ Stuff I want to read
 
 - https://news.ycombinator.com/item?id=15127730 (Roamer: A Plain-Text File Manager)
 - http://yager.io/CPU/CPU1.html
+- https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request/answer/Jim-Clack-1
 
 
 ## Haskell
@@ -65,6 +66,7 @@ Stuff I want to read
 - https://stackoverflow.com/a/11066007
 - https://stackoverflow.com/a/25779352
 - http://www.haskellforall.com/2017/09/type-driven-strictness.html
+- https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code/answer/Dan-Piponi
 
 
 ## Creative
