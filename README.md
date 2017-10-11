@@ -14,6 +14,9 @@ Stuff I want to read
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
 - https://yager.io/programming/go.html
 - https://yager.io/CrashCourse/Haskell.html
+- https://openvpn.net/index.php/open-source/documentation/howto.html
+- https://community.openvpn.net/openvpn/wiki/GettingStartedwithOVPN
+- http://sites.inka.de/bigred/devel/tcp-tcp.html
 
 
 ## Recent
