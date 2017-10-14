@@ -17,6 +17,7 @@ Stuff I want to read
 - http://www.nimlabs.org/dirtynat.html
 - https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
 - https://en.wikipedia.org/wiki/IPsec#Alleged_NSA_interference
+- http://www.openbsdjumpstart.org/#/4
 
 
 ## Recent
