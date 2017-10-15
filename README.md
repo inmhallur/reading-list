@@ -71,6 +71,7 @@ Stuff I want to read
 - https://stackoverflow.com/a/25779352
 - http://www.haskellforall.com/2017/09/type-driven-strictness.html
 - https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code/answer/Dan-Piponi
+- https://haskellweekly.news/issues/76.html
 
 
 ## Creative
