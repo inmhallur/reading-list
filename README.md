@@ -25,6 +25,10 @@ Stuff I want to read
 - https://forums.aws.amazon.com/thread.jspa?messageID=570840
 - https://community.openvpn.net/openvpn/wiki/RoutedLans
 - https://askubuntu.com/questions/612840/adding-route-on-client-using-openvpn
+- https://docs.openvpn.net/configuration/site-to-site-routing-explained-in-detail/
+- https://serverfault.com/questions/638575/connecting-an-ec2-vpc-with-openvpn-all-routed-traffic-being-lost
+- https://stackoverflow.com/questions/3122587/cant-get-openvpn-to-correctly-push-a-route?rq=1
+- https://forums.openvpn.net/viewtopic.php?t=14997
 
 
 ## Recent
