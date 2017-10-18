@@ -34,6 +34,12 @@ Stuff I want to read
 - https://openvpn.net/archive/openvpn-users/2002-04/msg00036.html
 - http://simonmar.github.io/posts/2017-10-17-hotswapping-haskell.html
 - https://forums.freenas.org/index.php?threads/how-to-install-openvpn-inside-a-jail-in-freenas-9-2-1-6-with-access-to-remote-hosts-via-nat.22873/page-22#post-317425
+- https://blog.cloudflare.com/staying-on-top-of-tls-attacks/
+- http://newartisans.com/2007/09/how-to-administer-openvpn/
+- http://newartisans.com/2007/09/neat-tricks-with-iptables/
+- http://newartisans.com/2005/03/using-local-dns-caching/
+- https://stackoverflow.com/questions/50159/show-all-libraries-used-by-executables-on-linux
+- http://cdn.ttgtmedia.com/searchSystemsChannel/downloads/SOBELL_RHBook_Chp11_core_excerpt.pdf
 
 
 ## Recent
@@ -88,6 +94,7 @@ Stuff I want to read
 - http://www.haskellforall.com/2017/09/type-driven-strictness.html
 - https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code/answer/Dan-Piponi
 - https://haskellweekly.news/issues/76.html
+- http://newartisans.com/2012/10/arrows-are-simpler-than-they-appear/
 
 
 ## Creative
