@@ -29,6 +29,9 @@ Stuff I want to read
 - https://serverfault.com/questions/638575/connecting-an-ec2-vpc-with-openvpn-all-routed-traffic-being-lost
 - https://stackoverflow.com/questions/3122587/cant-get-openvpn-to-correctly-push-a-route?rq=1
 - https://forums.openvpn.net/viewtopic.php?t=14997
+- https://community.openvpn.net/openvpn/wiki/UnprivilegedUser
+- https://community.openvpn.net/openvpn/wiki/HOWTO#UnprivilegedmodeLinuxonly
+- https://openvpn.net/archive/openvpn-users/2002-04/msg00036.html
 
 
 ## Recent
