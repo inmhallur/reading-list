@@ -33,6 +33,7 @@ Stuff I want to read
 - https://community.openvpn.net/openvpn/wiki/HOWTO#UnprivilegedmodeLinuxonly
 - https://openvpn.net/archive/openvpn-users/2002-04/msg00036.html
 - http://simonmar.github.io/posts/2017-10-17-hotswapping-haskell.html
+- https://forums.freenas.org/index.php?threads/how-to-install-openvpn-inside-a-jail-in-freenas-9-2-1-6-with-access-to-remote-hosts-via-nat.22873/page-22#post-317425
 
 
 ## Recent
