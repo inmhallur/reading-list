@@ -22,6 +22,9 @@ Stuff I want to read
 - https://community.openvpn.net/openvpn/wiki/Hardening
 - https://stackoverflow.com/questions/22188444/why-do-we-need-private-subnet-in-vpc
 - https://serverfault.com/questions/595438/how-can-i-achieve-openvpn-client-routing-without-nat-on-linode
+- https://forums.aws.amazon.com/thread.jspa?messageID=570840
+- https://community.openvpn.net/openvpn/wiki/RoutedLans
+- https://askubuntu.com/questions/612840/adding-route-on-client-using-openvpn
 
 
 ## Recent
