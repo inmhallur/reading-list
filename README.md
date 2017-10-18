@@ -32,6 +32,7 @@ Stuff I want to read
 - https://community.openvpn.net/openvpn/wiki/UnprivilegedUser
 - https://community.openvpn.net/openvpn/wiki/HOWTO#UnprivilegedmodeLinuxonly
 - https://openvpn.net/archive/openvpn-users/2002-04/msg00036.html
+- http://simonmar.github.io/posts/2017-10-17-hotswapping-haskell.html
 
 
 ## Recent
