@@ -40,6 +40,8 @@ Stuff I want to read
 - http://newartisans.com/2005/03/using-local-dns-caching/
 - https://stackoverflow.com/questions/50159/show-all-libraries-used-by-executables-on-linux
 - http://cdn.ttgtmedia.com/searchSystemsChannel/downloads/SOBELL_RHBook_Chp11_core_excerpt.pdf
+- http://linux-ip.net/linux-ip/
+- https://statico.github.io/vim3.html
 
 
 ## Recent
