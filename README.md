@@ -97,6 +97,7 @@ Stuff I want to read
 - https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code/answer/Dan-Piponi
 - https://haskellweekly.news/issues/76.html
 - http://newartisans.com/2012/10/arrows-are-simpler-than-they-appear/
+- https://github.com/serokell/importify
 
 
 ## Creative
