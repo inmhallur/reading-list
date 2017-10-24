@@ -14,7 +14,6 @@ Stuff I want to read
 - https://yager.io/programming/go.html
 - https://yager.io/CrashCourse/Haskell.html
 - https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
-- https://en.wikipedia.org/wiki/IPsec#Alleged_NSA_interference
 - http://www.openbsdjumpstart.org/#/4
 - https://blog.g3rt.nl/openvpn-security-tips.html#15-use-sha-2-for-message-authentication
 - https://community.openvpn.net/openvpn/wiki/Hardening
