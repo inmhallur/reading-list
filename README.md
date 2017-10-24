@@ -98,6 +98,7 @@ Stuff I want to read
 - https://haskellweekly.news/issues/76.html
 - http://newartisans.com/2012/10/arrows-are-simpler-than-they-appear/
 - https://github.com/serokell/importify
+- https://www.quora.com/Whats-a-good-scripting-functional-programming-language-for-quick-and-dirty-tasks-like-scraping-a-website-or-parsing-logs-that-is-fast-to-prototype-in-and-has-lots-of-easy-to-use-libraries/answer/Tikhon-Jelvis
 
 
 ## Creative
@@ -184,6 +185,7 @@ Stuff I want to read
 
 - https://news.ycombinator.com/item?id=13825225 (CPython Internals: A ten-hour codewalk through the Python Interpreter [2015])
 - https://www.quora.com/How-do-I-learn-Python-in-depth (How do I learn Python in depth?)
+- https://wiki.python.org/moin/PythonDecoratorLibrary
 
 
 ## General Computing
@@ -299,3 +301,9 @@ Stuff I want to read
 
 - http://a.co/42wFrXo (Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort)
 - http://a.co/9WV6pb9 (TCP/IP Network Administration)
+
+
+## Food
+
+- https://www.quora.com/Whats-the-best-way-to-make-a-grilled-cheese-sandwich/answer/MJ-Wesner-1
+- https://www.quora.com/Why-do-Italians-never-use-chicken-in-pasta-and-blame-people-who-do-it/answer/Stefano-Petri
