@@ -41,6 +41,7 @@ Stuff I want to read
 - http://cdn.ttgtmedia.com/searchSystemsChannel/downloads/SOBELL_RHBook_Chp11_core_excerpt.pdf
 - http://linux-ip.net/linux-ip/
 - https://statico.github.io/vim3.html
+- http://engineering.grab.com/the-data-and-science-behind-grabshare-part-i
 
 
 ## Recent
