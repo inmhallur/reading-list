@@ -14,7 +14,6 @@ Stuff I want to read
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
 - https://yager.io/programming/go.html
 - https://yager.io/CrashCourse/Haskell.html
-- http://www.nimlabs.org/dirtynat.html
 - https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
 - https://en.wikipedia.org/wiki/IPsec#Alleged_NSA_interference
 - http://www.openbsdjumpstart.org/#/4
