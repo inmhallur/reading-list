@@ -8,7 +8,6 @@ Stuff I want to read
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
 - https://news.ycombinator.com/item?id=15263575 (Don't use Git rebase)
-- https://www.linkedin.com/feed/update/urn:li:activity:6315207222104289280 (The MySQL High Availability Landscape in 2017)
 - https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter/answer/Dylan-Woon-1?share=4638f5e1&srid=pXGZ
 - http://vaibhavsagar.com/blog/2017/08/13/i-haskell-a-git/
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
@@ -19,8 +18,6 @@ Stuff I want to read
 - http://www.openbsdjumpstart.org/#/4
 - https://blog.g3rt.nl/openvpn-security-tips.html#15-use-sha-2-for-message-authentication
 - https://community.openvpn.net/openvpn/wiki/Hardening
-- https://stackoverflow.com/questions/22188444/why-do-we-need-private-subnet-in-vpc
-- https://serverfault.com/questions/595438/how-can-i-achieve-openvpn-client-routing-without-nat-on-linode
 - https://forums.aws.amazon.com/thread.jspa?messageID=570840
 - https://community.openvpn.net/openvpn/wiki/RoutedLans
 - https://askubuntu.com/questions/612840/adding-route-on-client-using-openvpn
@@ -38,10 +35,8 @@ Stuff I want to read
 - http://newartisans.com/2007/09/neat-tricks-with-iptables/
 - http://newartisans.com/2005/03/using-local-dns-caching/
 - https://stackoverflow.com/questions/50159/show-all-libraries-used-by-executables-on-linux
-- http://cdn.ttgtmedia.com/searchSystemsChannel/downloads/SOBELL_RHBook_Chp11_core_excerpt.pdf
 - http://linux-ip.net/linux-ip/
 - https://statico.github.io/vim3.html
-- http://engineering.grab.com/the-data-and-science-behind-grabshare-part-i
 
 
 ## Recent
