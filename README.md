@@ -145,6 +145,7 @@ Stuff I want to read
 
 - https://news.ycombinator.com/item?id=14321498
 - https://news.ycombinator.com/item?id=8826024 (Environment Variables Considered Harmful for your secrets)
+- https://www.troyhunt.com/how-to-build-and-how-not-to-build/  (How to build and how not to build a secure "remember me" feature)
 
 
 ## Business
