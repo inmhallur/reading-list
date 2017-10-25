@@ -17,7 +17,6 @@ Stuff I want to read
 - http://www.openbsdjumpstart.org/#/4
 - https://blog.g3rt.nl/openvpn-security-tips.html#15-use-sha-2-for-message-authentication
 - https://community.openvpn.net/openvpn/wiki/Hardening
-- https://forums.aws.amazon.com/thread.jspa?messageID=570840
 - https://askubuntu.com/questions/612840/adding-route-on-client-using-openvpn
 - https://docs.openvpn.net/configuration/site-to-site-routing-explained-in-detail/
 - https://serverfault.com/questions/638575/connecting-an-ec2-vpc-with-openvpn-all-routed-traffic-being-lost
