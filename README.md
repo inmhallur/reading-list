@@ -144,6 +144,7 @@ Stuff I want to read
 
 - http://beej.us/guide/bgnet/ (Beej's Guide to Network Programming)
 - https://hpbn.co/ (High Performance Browser Networking)
+- http://www.keepalived.org/index.html
 
 
 ## Security
