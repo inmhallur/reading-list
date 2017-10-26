@@ -37,6 +37,7 @@ Stuff I want to read
 - https://cloudacademy.com/blog/openvpn-aws-vpc/
 - http://docs.aviatrix.com/HowTos/Cloud_Networking_Ref_Des.html
 - https://forums.aws.amazon.com/thread.jspa?messageID=570840
+- https://security.stackexchange.com/questions/211/how-to-securely-hash-passwords
 
 
 ## Recent
