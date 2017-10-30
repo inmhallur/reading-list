@@ -11,7 +11,6 @@ Stuff I want to read
 - https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter/answer/Dylan-Woon-1?share=4638f5e1&srid=pXGZ
 - http://vaibhavsagar.com/blog/2017/08/13/i-haskell-a-git/
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
-- https://yager.io/programming/go.html
 - https://yager.io/CrashCourse/Haskell.html
 - https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
 - http://www.openbsdjumpstart.org/#/4
@@ -136,7 +135,6 @@ Stuff I want to read
 
 ## command line
 
-- https://codewords.recurse.com/issues/two/git-from-the-inside-out
 - http://www.drbunsen.org/the-text-triumvirate/
 - https://github.com/jlevy/the-art-of-command-line
 - http://blog.petersobot.com/pipes-and-filters
