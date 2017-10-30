@@ -45,6 +45,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=15127730 (Roamer: A Plain-Text File Manager)
 - http://yager.io/CPU/CPU1.html
 - https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request/answer/Jim-Clack-1
+- https://linux.slashdot.org/story/17/10/30/0237219/interviews-red-hat-ceo-jim-whitehurst-answers-your-questions
 
 
 ## Haskell
