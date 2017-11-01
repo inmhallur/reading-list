@@ -31,6 +31,8 @@ Stuff I want to read
 - https://www.reddit.com/r/aws/comments/4bk7ne/vpn_in_vpc_a_to_private_instance_in_vpc_b/
 - https://security.stackexchange.com/questions/211/how-to-securely-hash-passwords
 - http://docs.aviatrix.com/HowTos/TransPeering_OnPrem.html
+- http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_VPN.html
+- http://docs.aws.amazon.com/AmazonVPC/latest/NetworkAdminGuide/Introduction.html
 
 
 ## Recent
