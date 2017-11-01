@@ -30,6 +30,7 @@ Stuff I want to read
 - http://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/peering-configurations-partial-access.html#peering-incorrect-response-routing
 - https://www.reddit.com/r/aws/comments/4bk7ne/vpn_in_vpc_a_to_private_instance_in_vpc_b/
 - https://security.stackexchange.com/questions/211/how-to-securely-hash-passwords
+- http://docs.aviatrix.com/HowTos/TransPeering_OnPrem.html
 
 
 ## Recent
