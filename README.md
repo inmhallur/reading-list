@@ -150,6 +150,8 @@ Stuff I want to read
 - http://beej.us/guide/bgnet/ (Beej's Guide to Network Programming)
 - https://hpbn.co/ (High Performance Browser Networking)
 - http://www.keepalived.org/index.html
+- http://lartc.org/howto/index.html  (Linux Advanced Routing & Traffic Control HOWTO)
+- https://rlworkman.net/howtos/iptables/chunkyhtml/index.html  (Iptables Tutorial 1.2.1)
 
 
 ## Security
