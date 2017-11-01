@@ -18,7 +18,6 @@ Stuff I want to read
 - https://community.openvpn.net/openvpn/wiki/Hardening
 - https://askubuntu.com/questions/612840/adding-route-on-client-using-openvpn
 - https://docs.openvpn.net/configuration/site-to-site-routing-explained-in-detail/
-- https://stackoverflow.com/questions/3122587/cant-get-openvpn-to-correctly-push-a-route?rq=1
 - https://forums.openvpn.net/viewtopic.php?t=14997
 - http://simonmar.github.io/posts/2017-10-17-hotswapping-haskell.html
 - https://forums.freenas.org/index.php?threads/how-to-install-openvpn-inside-a-jail-in-freenas-9-2-1-6-with-access-to-remote-hosts-via-nat.22873/page-22#post-317425
@@ -29,12 +28,7 @@ Stuff I want to read
 - http://linux-ip.net/linux-ip/
 - https://statico.github.io/vim3.html
 - http://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/peering-configurations-partial-access.html#peering-incorrect-response-routing
-- https://serverfault.com/questions/786890/connecting-openvpn-client-over-peering-connection-to-different-vpc-aws
-- https://serverfault.com/questions/845728/aws-vpc-to-vpc-connection-with-openvpn
 - https://www.reddit.com/r/aws/comments/4bk7ne/vpn_in_vpc_a_to_private_instance_in_vpc_b/
-- https://cloudacademy.com/blog/openvpn-aws-vpc/
-- http://docs.aviatrix.com/HowTos/Cloud_Networking_Ref_Des.html
-- https://forums.aws.amazon.com/thread.jspa?messageID=570840
 - https://security.stackexchange.com/questions/211/how-to-securely-hash-passwords
 
 
