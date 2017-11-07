@@ -95,6 +95,7 @@ Stuff I want to read
 - https://stackoverflow.com/questions/3640120/combine-state-with-io-actions
 - https://github.com/toddaaro/haskell-di
 - https://www.reddit.com/r/haskell/comments/6fn09r/dependency_injection_in_haskellfeedback_wanted/
+- https://userpages.uni-koblenz.de/~laemmel/paradigms1011/resources/pdf/haskell.pdf (There are other resources on the site)
 
 
 ## Creative
@@ -129,6 +130,7 @@ Stuff I want to read
 - https://twitter.com/VimLinks/status/921350660137930758  (If you enjoy looking at other people's Vim setups, check out this thread)
 - https://twitter.com/MasteringVim/status/921294208564191232  (Everything I missed in "Vim after 11 years")
 - https://bluz71.github.io/2017/06/14/a-few-vim-tmux-mappings.html
+- https://geoffreyenglish.wordpress.com/2017/11/03/a-very-brief-introduction-to-the-leader-key/
 
 
 ## command line
