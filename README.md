@@ -15,7 +15,6 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
 - http://www.openbsdjumpstart.org/#/4
 - https://blog.g3rt.nl/openvpn-security-tips.html#15-use-sha-2-for-message-authentication
-- https://community.openvpn.net/openvpn/wiki/Hardening
 - https://askubuntu.com/questions/612840/adding-route-on-client-using-openvpn
 - https://docs.openvpn.net/configuration/site-to-site-routing-explained-in-detail/
 - https://forums.openvpn.net/viewtopic.php?t=14997
