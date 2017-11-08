@@ -151,6 +151,7 @@ Stuff I want to read
 - http://www.keepalived.org/index.html
 - http://lartc.org/howto/index.html  (Linux Advanced Routing & Traffic Control HOWTO)
 - https://rlworkman.net/howtos/iptables/chunkyhtml/index.html  (Iptables Tutorial 1.2.1)
+- https://www.netfilter.org/documentation/HOWTO/networking-concepts-HOWTO.html
 
 
 ## Security
