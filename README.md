@@ -90,7 +90,6 @@ Stuff I want to read
 - http://newartisans.com/2012/10/arrows-are-simpler-than-they-appear/
 - https://github.com/serokell/importify
 - https://www.quora.com/Whats-a-good-scripting-functional-programming-language-for-quick-and-dirty-tasks-like-scraping-a-website-or-parsing-logs-that-is-fast-to-prototype-in-and-has-lots-of-easy-to-use-libraries/answer/Tikhon-Jelvis
-- https://stackoverflow.com/questions/3640120/combine-state-with-io-actions
 - https://github.com/toddaaro/haskell-di
 - https://www.reddit.com/r/haskell/comments/6fn09r/dependency_injection_in_haskellfeedback_wanted/
 - https://userpages.uni-koblenz.de/~laemmel/paradigms1011/resources/pdf/haskell.pdf (There are other resources on the site)
