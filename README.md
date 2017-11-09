@@ -130,6 +130,7 @@ Stuff I want to read
 - https://twitter.com/MasteringVim/status/921294208564191232  (Everything I missed in "Vim after 11 years")
 - https://bluz71.github.io/2017/06/14/a-few-vim-tmux-mappings.html
 - https://geoffreyenglish.wordpress.com/2017/11/03/a-very-brief-introduction-to-the-leader-key/
+- https://twitter.com/MasteringVim/status/928362140108455939  (Vim code break game)
 
 
 ## command line
