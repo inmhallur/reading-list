@@ -104,7 +104,6 @@ Stuff I want to read
 
 ## Engineering blog posts
 
-- https://news.ycombinator.com/item?id=15029086 (Kubernetes at GitHub)
 - https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month (How CircleCI Processes 4.5 Million Builds Per Month)
 - https://news.ycombinator.com/item?id=15127976 (Topic suggestions for millions of repositories - GitHub Engineering)
 - http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/
