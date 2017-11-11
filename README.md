@@ -94,6 +94,7 @@ Stuff I want to read
 - https://www.reddit.com/r/haskell/comments/6fn09r/dependency_injection_in_haskellfeedback_wanted/
 - https://userpages.uni-koblenz.de/~laemmel/paradigms1011/resources/pdf/haskell.pdf (There are other resources on the site)
 - http://comonad.com/reader/2011/free-monads-for-less-3/
+- https://markkarpov.com/post/free-monad-considered-harmful.html
 
 
 ## Creative
