@@ -74,7 +74,6 @@ Stuff I want to read
 - https://haskell-lang.org/tutorial/string-types
 - https://www.quora.com/What-is-the-track-to-mastering-Haskell-and-where-would-it-lead-me-professionally/answer/Edward-Kmett
 - https://www.quora.com/What-is-your-review-of-Haskell-programming-language/answer/Edward-Kmett
-- https://gist.github.com/quchen/5280339
 - https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#ghc-flag--XRank2Types
 - https://www.safaribooksonline.com/blog/2015/12/14/high-performance-log-parsing-in-haskell-part-two/
 - https://docs.google.com/presentation/d/1RBefOCZ7AKOo4f1yiF4mtKPAT3l5vY9ky2SR02O4Vvg/edit#slide=id.p16
