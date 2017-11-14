@@ -88,6 +88,8 @@ Stuff I want to read
 - https://markkarpov.com/post/free-monad-considered-harmful.html
 - https://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
 - https://www.reddit.com/r/haskell/comments/5mrk20/haskell_testing_frameworks_what_do_you_use/
+- https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md
+- https://github.com/jaspervdj/stylish-haskell/blob/master/README.markdown
 
 
 ## Creative
