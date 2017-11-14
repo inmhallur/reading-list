@@ -22,7 +22,6 @@ Stuff I want to read
 - https://forums.freenas.org/index.php?threads/how-to-install-openvpn-inside-a-jail-in-freenas-9-2-1-6-with-access-to-remote-hosts-via-nat.22873/page-22#post-317425
 - http://newartisans.com/2007/09/how-to-administer-openvpn/
 - http://newartisans.com/2007/09/neat-tricks-with-iptables/
-- http://newartisans.com/2005/03/using-local-dns-caching/
 - https://stackoverflow.com/questions/50159/show-all-libraries-used-by-executables-on-linux
 - http://linux-ip.net/linux-ip/
 - https://statico.github.io/vim3.html
@@ -32,6 +31,7 @@ Stuff I want to read
 - http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_VPN.html
 - http://docs.aws.amazon.com/AmazonVPC/latest/NetworkAdminGuide/Introduction.html
 - http://chrisdone.com/posts/hindent
+- https://haskell-lang.org/tutorial/operators
 
 
 ## Recent
@@ -79,7 +79,6 @@ Stuff I want to read
 - http://www.haskellforall.com/2017/09/type-driven-strictness.html
 - https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code/answer/Dan-Piponi
 - https://haskellweekly.news/issues/76.html
-- http://newartisans.com/2012/10/arrows-are-simpler-than-they-appear/
 - https://github.com/serokell/importify
 - https://www.quora.com/Whats-a-good-scripting-functional-programming-language-for-quick-and-dirty-tasks-like-scraping-a-website-or-parsing-logs-that-is-fast-to-prototype-in-and-has-lots-of-easy-to-use-libraries/answer/Tikhon-Jelvis
 - https://github.com/toddaaro/haskell-di
