@@ -88,6 +88,11 @@ Stuff I want to read
 - https://www.reddit.com/r/haskell/comments/5mrk20/haskell_testing_frameworks_what_do_you_use/
 - https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md
 - https://github.com/jaspervdj/stylish-haskell/blob/master/README.markdown
+- http://planet.haskell.org/
+- https://twitter.com/mattoflambda/status/930624957586874368
+- http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
+- https://hackage.haskell.org/package/classy-prelude
+- http://www.stephendiehl.com/posts/protolude.html
 
 
 ## Creative
