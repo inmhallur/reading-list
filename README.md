@@ -66,8 +66,6 @@ Stuff I want to read
 - https://www.reddit.com/r/haskellquestions/comments/3w9knl/resources_to_understand_monad_transformers/
 - http://catamorph.de/publications/2004-10-01-monad-transformers.html
 - https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html
-- https://www.reddit.com/r/haskell/comments/2acj3w/threading_argument_vs_reader_monad/
-- https://www.reddit.com/r/haskell/comments/4c9en3/when_to_prefer_a_reader_monad_over_a_function/
 - https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#ghc-flag--XRank2Types
 - https://www.safaribooksonline.com/blog/2015/12/14/high-performance-log-parsing-in-haskell-part-two/
 - https://docs.google.com/presentation/d/1RBefOCZ7AKOo4f1yiF4mtKPAT3l5vY9ky2SR02O4Vvg/edit#slide=id.p16
