@@ -93,6 +93,7 @@ Stuff I want to read
 - http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
 - https://hackage.haskell.org/package/classy-prelude
 - http://www.stephendiehl.com/posts/protolude.html
+- https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/
 
 
 ## Creative
@@ -110,6 +111,7 @@ Stuff I want to read
 ## Tech blogs
 
 - https://two-wrongs.com/
+- http://taylor.fausak.me/
 
 
 ## vim
