@@ -94,6 +94,15 @@ Stuff I want to read
 - https://hackage.haskell.org/package/classy-prelude
 - http://www.stephendiehl.com/posts/protolude.html
 - https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/
+- https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html
+- https://wiki.haskell.org/Avoiding_IO
+- https://kseo.github.io//posts/2017-01-21-writer-monad.html
+- https://lukepalmer.wordpress.com/2008/08/10/mindfuck-the-reverse-state-monad/
+- http://h2.jaguarpaw.co.uk/posts/demystifying-dlist/
+- https://www.reddit.com/r/haskell/comments/5pe5m6/writer_monad/
+- https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+- https://stackoverflow.com/questions/14644830/what-is-the-point-of-having-a-lazy-strict-version-of-writer
+- http://www.stephendiehl.com/posts/essential_haskell.html
 
 
 ## Creative
@@ -112,6 +121,7 @@ Stuff I want to read
 
 - https://two-wrongs.com/
 - http://taylor.fausak.me/
+- https://kseo.github.io
 
 
 ## vim
