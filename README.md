@@ -103,9 +103,9 @@ Stuff I want to read
 - https://stackoverflow.com/questions/14644830/what-is-the-point-of-having-a-lazy-strict-version-of-writer
 - http://www.stephendiehl.com/posts/essential_haskell.html
 - https://blog.jle.im/entry/verified-instances-in-haskell.html
-- http://chris-taylor.github.io/blog/2013/02/09/io-is-not-a-side-effect/
 - http://www.haskellforall.com/2012/09/the-functor-design-pattern.html
 - http://www.haskellforall.com/2013/12/equational-reasoning.html
+- http://www.haskellforall.com/2012/08/the-category-design-pattern.html
 
 
 ## Creative
