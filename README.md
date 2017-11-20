@@ -106,6 +106,10 @@ Stuff I want to read
 - http://www.haskellforall.com/2012/09/the-functor-design-pattern.html
 - http://www.haskellforall.com/2013/12/equational-reasoning.html
 - http://www.haskellforall.com/2012/08/the-category-design-pattern.html
+- http://wiki.haskell.org/Existential_type
+- https://wiki.haskell.org/Category_theory/Natural_transformation
+- https://wiki.haskell.org/Category_theory/Monads
+- https://wiki.haskell.org/Seq
 
 
 ## Creative
