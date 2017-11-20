@@ -110,6 +110,7 @@ Stuff I want to read
 - https://wiki.haskell.org/Category_theory/Natural_transformation
 - https://wiki.haskell.org/Category_theory/Monads
 - https://wiki.haskell.org/Seq
+- https://stackoverflow.com/a/12623442/732396
 
 
 ## Creative
