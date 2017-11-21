@@ -110,8 +110,6 @@ Stuff I want to read
 - https://wiki.haskell.org/Category_theory/Natural_transformation
 - https://wiki.haskell.org/Category_theory/Monads
 - https://stackoverflow.com/a/12623442/732396
-- https://en.wikibooks.org/wiki/Haskell/Laziness#Thunks_and_Weak_head_normal_form
-- https://en.wikibooks.org/wiki/Haskell/Graph_reduction#Weak_Head_Normal_Form
 - https://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form
 
 
