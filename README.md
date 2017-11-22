@@ -45,7 +45,6 @@ Stuff I want to read
 
 - https://stackoverflow.com/a/16951/732396 (Beginners Guide to Haskell?)
 - https://stackoverflow.com/a/1016986/732396
-- http://www.serpentine.com/wreq/tutorial.html#a-quick-lens-backgrounder
 - http://hao.codes/lenses-heart-json.html
 - https://artyom.me/aeson
 - https://two-wrongs.com/haskell-time-library-tutorial
@@ -56,10 +55,6 @@ Stuff I want to read
 - https://wiki.haskell.org/Arrow_tutorial#Kleisli_Arrows
 - https://en.wikibooks.org/wiki/Haskell/Continuation_passing_style
 - https://wiki.haskell.org/MonadCont_under_the_hood
-- https://stackoverflow.com/questions/12468622/how-does-the-st-monad-work
-- https://stackoverflow.com/questions/12031878/what-is-the-purpose-of-rank2types/12033549#12033549
-- https://stackoverflow.com/questions/34494893/how-to-understand-the-state-type-in-haskells-st-monad
-- https://stackoverflow.com/questions/8197032/starray-documentation-for-newbies-and-state-st-related-questions
 - https://haskell-lang.org/libraries
 - https://www.reddit.com/r/haskellquestions/comments/3w9knl/resources_to_understand_monad_transformers/
 - http://catamorph.de/publications/2004-10-01-monad-transformers.html
@@ -70,8 +65,6 @@ Stuff I want to read
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/conduit-overview
 - https://haskell-lang.org/library/conduit
 - https://github.com/snoyberg/conduit (Stopped at `Primitives` section)
-- https://stackoverflow.com/a/11066007
-- https://stackoverflow.com/a/25779352
 - http://www.haskellforall.com/2017/09/type-driven-strictness.html
 - https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code/answer/Dan-Piponi
 - https://haskellweekly.news/issues/76.html
@@ -92,9 +85,7 @@ Stuff I want to read
 - http://www.stephendiehl.com/posts/protolude.html
 - https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html
 - https://wiki.haskell.org/Avoiding_IO
-- https://www.reddit.com/r/haskell/comments/5pe5m6/writer_monad/
 - https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
-- https://stackoverflow.com/questions/14644830/what-is-the-point-of-having-a-lazy-strict-version-of-writer
 - http://www.stephendiehl.com/posts/essential_haskell.html
 - https://blog.jle.im/entry/verified-instances-in-haskell.html
 - http://www.haskellforall.com/2012/09/the-functor-design-pattern.html
@@ -103,7 +94,6 @@ Stuff I want to read
 - http://wiki.haskell.org/Existential_type
 - https://wiki.haskell.org/Category_theory/Natural_transformation
 - https://wiki.haskell.org/Category_theory/Monads
-- https://stackoverflow.com/a/12623442/732396
 - https://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form
 
 
