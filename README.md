@@ -11,7 +11,6 @@ Stuff I want to read
 - https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter/answer/Dylan-Woon-1?share=4638f5e1&srid=pXGZ
 - http://vaibhavsagar.com/blog/2017/08/13/i-haskell-a-git/
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
-- https://yager.io/CrashCourse/Haskell.html
 - https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
 - https://blog.g3rt.nl/openvpn-security-tips.html#15-use-sha-2-for-message-authentication
 - https://askubuntu.com/questions/612840/adding-route-on-client-using-openvpn
@@ -67,7 +66,6 @@ Stuff I want to read
 - https://github.com/snoyberg/conduit (Stopped at `Primitives` section)
 - http://www.haskellforall.com/2017/09/type-driven-strictness.html
 - https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code/answer/Dan-Piponi
-- https://haskellweekly.news/issues/76.html
 - https://github.com/serokell/importify
 - https://www.quora.com/Whats-a-good-scripting-functional-programming-language-for-quick-and-dirty-tasks-like-scraping-a-website-or-parsing-logs-that-is-fast-to-prototype-in-and-has-lots-of-easy-to-use-libraries/answer/Tikhon-Jelvis
 - https://github.com/toddaaro/haskell-di
@@ -106,7 +104,6 @@ Stuff I want to read
 
 - https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month (How CircleCI Processes 4.5 Million Builds Per Month)
 - https://news.ycombinator.com/item?id=15127976 (Topic suggestions for millions of repositories - GitHub Engineering)
-- http://tech.transferwise.com/the-transferwise-stack-heartbeat-of-our-little-revolution/
 
 
 ## Tech blogs
