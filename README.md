@@ -93,6 +93,11 @@ Stuff I want to read
 - https://wiki.haskell.org/Category_theory/Natural_transformation
 - https://wiki.haskell.org/Category_theory/Monads
 - https://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form
+- https://news.ycombinator.com/item?id=15440108 (Functor-Oriented Programming responses on HN)
+- https://lobste.rs/s/walsxp/functor_oriented_programming (Functor-Oriented Programming responses on lobsters)
+- https://www.reddit.com/r/haskell/comments/75fo8k/functor_oriented_programming/ (Functor-Oriented Programming responses on Reddit)
+- http://ebencowley.com/resources/docs/articles/monadsInMinutes.html
+- http://reasonablypolymorphic.com/blog/recursion-schemes
 
 
 ## Creative
