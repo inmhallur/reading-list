@@ -38,6 +38,7 @@ Stuff I want to read
 - http://yager.io/CPU/CPU1.html
 - https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request/answer/Jim-Clack-1
 - https://linux.slashdot.org/story/17/10/30/0237219/interviews-red-hat-ceo-jim-whitehurst-answers-your-questions
+- https://www.quora.com/What-is-the-daily-routine-of-a-self-employed-day-trader-Do-you-trade-every-single-day-Do-you-take-holidays-or-are-you-in-front-of-a-laptop-everyday/answer/Scott-Phillips-55
 
 
 ## Haskell
