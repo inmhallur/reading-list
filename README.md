@@ -99,6 +99,7 @@ Stuff I want to read
 - https://www.reddit.com/r/haskell/comments/75fo8k/functor_oriented_programming/ (Functor-Oriented Programming responses on Reddit)
 - http://ebencowley.com/resources/docs/articles/monadsInMinutes.html
 - http://reasonablypolymorphic.com/blog/recursion-schemes
+- https://twitter.com/HaskellLibHunt/status/934695048582533120
 
 
 ## Creative
