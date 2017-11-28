@@ -29,7 +29,6 @@ Stuff I want to read
 - http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_VPN.html
 - http://docs.aws.amazon.com/AmazonVPC/latest/NetworkAdminGuide/Introduction.html
 - http://chrisdone.com/posts/hindent
-- https://haskell-lang.org/tutorial/operators
 
 
 ## Recent
@@ -109,7 +108,6 @@ Stuff I want to read
 
 ## Engineering blog posts
 
-- https://stackshare.io/circleci/how-circleci-processes-4-5-million-builds-per-month (How CircleCI Processes 4.5 Million Builds Per Month)
 - https://news.ycombinator.com/item?id=15127976 (Topic suggestions for millions of repositories - GitHub Engineering)
 
 
