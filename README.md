@@ -100,6 +100,7 @@ Stuff I want to read
 - http://reasonablypolymorphic.com/blog/recursion-schemes
 - https://twitter.com/HaskellLibHunt/status/934695048582533120
 - http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html
+- http://www.parsonsmatt.org/2015/09/24/recursion.html
 
 
 ## Creative
