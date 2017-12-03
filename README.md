@@ -138,6 +138,7 @@ Stuff I want to read
 - https://geoffreyenglish.wordpress.com/2017/11/03/a-very-brief-introduction-to-the-leader-key/
 - https://twitter.com/MasteringVim/status/928362140108455939  (Vim code break game)
 - https://twitter.com/monicalent/status/932220114317037568
+- https://github.com/junegunn/vim-easy-align
 
 
 ## command line
