@@ -29,6 +29,7 @@ Stuff I want to read
 - http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_VPN.html
 - http://docs.aws.amazon.com/AmazonVPC/latest/NetworkAdminGuide/Introduction.html
 - http://chrisdone.com/posts/hindent
+- https://www.slideshare.net/adamnash/stanford-cs-00702-personal-finance-for-engineers-predictably-irrational-81475880
 
 
 ## Recent
