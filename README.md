@@ -30,6 +30,9 @@ Stuff I want to read
 - http://docs.aws.amazon.com/AmazonVPC/latest/NetworkAdminGuide/Introduction.html
 - http://chrisdone.com/posts/hindent
 - https://www.slideshare.net/adamnash/stanford-cs-00702-personal-finance-for-engineers-predictably-irrational-81475880
+- http://paxos.systems/
+- https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
+- http://ifeanyi.co/posts/understanding-consensus/
 
 
 ## Recent
@@ -39,6 +42,9 @@ Stuff I want to read
 - https://www.quora.com/What-kind-of-algorithm-do-elevators-use-to-determine-which-one-will-take-the-next-request/answer/Jim-Clack-1
 - https://linux.slashdot.org/story/17/10/30/0237219/interviews-red-hat-ceo-jim-whitehurst-answers-your-questions
 - https://www.quora.com/What-is-the-daily-routine-of-a-self-employed-day-trader-Do-you-trade-every-single-day-Do-you-take-holidays-or-are-you-in-front-of-a-laptop-everyday/answer/Scott-Phillips-55
+- http://www.oracle.com/technetwork/issue-archive/2010/10-jan/o65asktom-082389.html
+- https://www.postgresql.org/docs/9.4/static/explicit-locking.html
+- https://forums.docker.com/t/is-it-possible-to-ssh-to-the-xhyve-machine/17426/3
 
 
 ## Haskell
