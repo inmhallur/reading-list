@@ -45,6 +45,8 @@ Stuff I want to read
 - http://www.oracle.com/technetwork/issue-archive/2010/10-jan/o65asktom-082389.html
 - https://www.postgresql.org/docs/9.4/static/explicit-locking.html
 - https://forums.docker.com/t/is-it-possible-to-ssh-to-the-xhyve-machine/17426/3
+- https://stackoverflow.com/questions/21277170/postgresql-wrong-converting-from-timestamp-without-time-zone-to-timestamp-with-t
+- https://stackoverflow.com/questions/25456465/postgres-timestamp-with-timezone
 
 
 ## Haskell
