@@ -111,6 +111,7 @@ Stuff I want to read
 - https://twitter.com/HaskellLibHunt/status/934695048582533120
 - http://www.parsonsmatt.org/2015/09/24/recursion.html
 - https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell
+- https://www.blaenkdenum.com/posts/post-feed-in-hakyll/
 
 
 ## Creative
