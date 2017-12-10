@@ -42,6 +42,7 @@ Stuff I want to read
 
 - https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/
 - http://www.stephendiehl.com/posts/haskell_2018.html
+- https://stackoverflow.com/questions/17137111/why-isnt-generalizednewtypederiving-a-safe-haskell
 
 
 ## Recent
