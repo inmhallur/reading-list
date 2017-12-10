@@ -36,6 +36,8 @@ Stuff I want to read
 - http://ifeanyi.co/posts/understanding-consensus/
 - https://superuser.com/questions/1056977/uppercase-m-at-the-right-of-window-name-in-tmux
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
+- https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
+- https://ocharles.org.uk/blog/guest-posts/2014-12-15-deriving.html
 
 
 ## Read again
@@ -60,6 +62,7 @@ Stuff I want to read
 - https://github.com/jakubroztocil/httpie
 - http://httpd.apache.org/docs/2.4/programs/ab.html
 - https://github.com/i0natan/nodebestpractices
+- https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
 
 
 ## Haskell
