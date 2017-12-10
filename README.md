@@ -34,6 +34,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
 - http://ifeanyi.co/posts/understanding-consensus/
 - https://superuser.com/questions/1056977/uppercase-m-at-the-right-of-window-name-in-tmux
+- http://mattwetmore.me/posts/hakyll-custom-writer.html
 
 
 ## Recent
