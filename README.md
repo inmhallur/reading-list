@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## Priority
 
+- http://www.stephendiehl.com/posts/strings.html
 - https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
@@ -35,6 +36,12 @@ Stuff I want to read
 - http://ifeanyi.co/posts/understanding-consensus/
 - https://superuser.com/questions/1056977/uppercase-m-at-the-right-of-window-name-in-tmux
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
+
+
+## Read again
+
+- https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/
+- http://www.stephendiehl.com/posts/haskell_2018.html
 
 
 ## Recent
@@ -116,6 +123,7 @@ Stuff I want to read
 - http://www.parsonsmatt.org/2015/09/24/recursion.html
 - https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell
 - https://www.blaenkdenum.com/posts/post-feed-in-hakyll/
+- https://github.com/lexi-lambda/freer-simple
 
 
 ## Creative
