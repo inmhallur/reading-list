@@ -127,6 +127,8 @@ Stuff I want to read
 - https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell
 - https://www.blaenkdenum.com/posts/post-feed-in-hakyll/
 - https://github.com/lexi-lambda/freer-simple
+- https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html
+- https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck/
 
 
 ## Creative
