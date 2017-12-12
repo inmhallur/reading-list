@@ -4,7 +4,6 @@ Stuff I want to read
 
 ## Priority
 
-- http://www.stephendiehl.com/posts/strings.html
 - https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
@@ -135,6 +134,11 @@ Stuff I want to read
 ## Creative
 
 - https://github.com/toddmotto/public-apis (Collective List of public JSON APIs for use in web development)
+
+
+## Haskell backburner
+
+- http://www.stephendiehl.com/posts/strings.html
 
 
 ## Engineering blog posts
