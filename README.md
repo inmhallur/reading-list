@@ -121,7 +121,6 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=15440108 (Functor-Oriented Programming responses on HN)
 - https://lobste.rs/s/walsxp/functor_oriented_programming (Functor-Oriented Programming responses on lobsters)
 - https://www.reddit.com/r/haskell/comments/75fo8k/functor_oriented_programming/ (Functor-Oriented Programming responses on Reddit)
-- http://ebencowley.com/resources/docs/articles/monadsInMinutes.html
 - http://reasonablypolymorphic.com/blog/recursion-schemes
 - https://twitter.com/HaskellLibHunt/status/934695048582533120
 - http://www.parsonsmatt.org/2015/09/24/recursion.html
