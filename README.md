@@ -130,6 +130,9 @@ Stuff I want to read
 - https://github.com/lexi-lambda/freer-simple
 - https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html
 - https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck/
+- https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/
+- https://stackoverflow.com/questions/20870432/type-family-vs-data-family-in-brief
+- https://wiki.haskell.org/Data_declaration_with_constraint
 
 
 ## Creative
