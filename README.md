@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://ro-che.info/ccc/archive
 - https://www.reddit.com/r/haskelltil/comments/337g7t/endo_the_monoid_of_endomorphisms_under/
 - https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
 - https://www.example42.com/tutorials/PuppetTutorial
