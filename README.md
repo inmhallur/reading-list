@@ -32,7 +32,6 @@ Stuff I want to read
 - http://paxos.systems/
 - https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
 - http://ifeanyi.co/posts/understanding-consensus/
-- https://superuser.com/questions/1056977/uppercase-m-at-the-right-of-window-name-in-tmux
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
 - https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
 - https://ocharles.org.uk/blog/guest-posts/2014-12-15-deriving.html
