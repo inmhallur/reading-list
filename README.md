@@ -100,7 +100,6 @@ Stuff I want to read
 - https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md
 - https://github.com/jaspervdj/stylish-haskell/blob/master/README.markdown
 - http://planet.haskell.org/
-- http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
 - https://hackage.haskell.org/package/classy-prelude
 - http://www.stephendiehl.com/posts/protolude.html
 - https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html
@@ -140,6 +139,7 @@ Stuff I want to read
 ## Haskell backburner
 
 - http://www.stephendiehl.com/posts/strings.html
+- http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
 
 
 ## Engineering blog posts
