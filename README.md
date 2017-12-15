@@ -142,11 +142,6 @@ Stuff I want to read
 - https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
 
 
-## Engineering blog posts
-
-- https://news.ycombinator.com/item?id=15127976 (Topic suggestions for millions of repositories - GitHub Engineering)
-
-
 ## Tech blogs
 
 - https://two-wrongs.com/
