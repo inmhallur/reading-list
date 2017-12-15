@@ -6,13 +6,11 @@ Stuff I want to read
 
 - https://stackoverflow.com/questions/42284879/is-the-composition-of-an-arbitrary-monad-with-a-traversable-always-a-monad/42298943#42298943
 - https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
-- https://ro-che.info/ccc/archive
 - https://www.reddit.com/r/haskelltil/comments/337g7t/endo_the_monoid_of_endomorphisms_under/
 - https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
 - https://news.ycombinator.com/item?id=15263575 (Don't use Git rebase)
-- https://www.quora.com/What-10-things-should-I-do-every-day-to-become-smarter/answer/Dylan-Woon-1?share=4638f5e1&srid=pXGZ
 - http://vaibhavsagar.com/blog/2017/08/13/i-haskell-a-git/
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
 - https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
@@ -36,8 +34,6 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
 - http://ifeanyi.co/posts/understanding-consensus/
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
-- https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
-- https://ocharles.org.uk/blog/guest-posts/2014-12-15-deriving.html
 
 
 ## Read again
@@ -143,6 +139,7 @@ Stuff I want to read
 
 - http://www.stephendiehl.com/posts/strings.html
 - http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
+- https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
 
 
 ## Engineering blog posts
