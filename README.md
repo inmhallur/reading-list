@@ -4,6 +4,8 @@ Stuff I want to read
 
 ## Priority
 
+- https://stackoverflow.com/questions/42284879/is-the-composition-of-an-arbitrary-monad-with-a-traversable-always-a-monad/42298943#42298943
+- https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
 - https://ro-che.info/ccc/archive
 - https://www.reddit.com/r/haskelltil/comments/337g7t/endo_the_monoid_of_endomorphisms_under/
 - https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
@@ -129,6 +131,7 @@ Stuff I want to read
 - https://stackoverflow.com/questions/20870432/type-family-vs-data-family-in-brief
 - https://wiki.haskell.org/Data_declaration_with_constraint
 - https://leonmergen.com/
+- https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
 
 
 ## Creative
