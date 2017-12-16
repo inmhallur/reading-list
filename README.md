@@ -58,6 +58,8 @@ Stuff I want to read
 - http://httpd.apache.org/docs/2.4/programs/ab.html
 - https://github.com/i0natan/nodebestpractices
 - https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
+- https://news.ycombinator.com/item?id=15919115 (Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to)
+- https://news.ycombinator.com/item?id=15924779 (Docusaurus - Infrastructure to help manage open source websites)
 
 
 ## Haskell
@@ -132,6 +134,7 @@ Stuff I want to read
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions
 - https://news.ycombinator.com/item?id=1566704 ("very haskell ways" of writing directory traversals)
 - https://www.reddit.com/r/haskellquestions/comments/7jssi5/what_are_free_monoids/
+- https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
 
 
 ## Creative
