@@ -131,6 +131,7 @@ Stuff I want to read
 - https://ocharles.org.uk/blog/posts/2014-12-08-type-operators.html
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions
 - https://news.ycombinator.com/item?id=1566704 ("very haskell ways" of writing directory traversals)
+- https://www.reddit.com/r/haskellquestions/comments/7jssi5/what_are_free_monoids/
 
 
 ## Creative
