@@ -135,6 +135,11 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=1566704 ("very haskell ways" of writing directory traversals)
 - https://www.reddit.com/r/haskellquestions/comments/7jssi5/what_are_free_monoids/
 - https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
+- https://stackoverflow.com/questions/13352205/what-are-free-monads
+- https://stackoverflow.com/questions/17615138/haskell-quickcheck-to-generate-and-test-rose-trees
+- https://futtetennismo.me/posts/algorithms-and-data-structures/2017-12-08-functional-graphs.html
+- https://twitter.com/k0001/status/942196512544706560 (safe-money: Money in the type system where it belongs)
+- https://twitter.com/GabrielG439/status/942233323077754881 (Apparently an import sanity check that Dhall inherited from Morte accidentally doubles as a security feature)
 
 
 ## Creative
@@ -147,6 +152,7 @@ Stuff I want to read
 - http://www.stephendiehl.com/posts/strings.html
 - http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
 - https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
+- https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-probleⅿ
 
 
 ## Tech blogs
