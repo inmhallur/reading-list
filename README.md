@@ -141,6 +141,7 @@ Stuff I want to read
 - https://twitter.com/k0001/status/942196512544706560 (safe-money: Money in the type system where it belongs)
 - https://twitter.com/GabrielG439/status/942233323077754881 (Apparently an import sanity check that Dhall inherited from Morte accidentally doubles as a security feature)
 - https://twitter.com/github_haskell/status/942527852565671936 (dumbwaiter - Extensible HTTP Web server configured entirely by a yaml file)
+- http://blog.ssanj.net/posts/2017-06-07-composing-monadic-functions-with-kleisli-arrows.html
 
 
 ## Creative
@@ -162,6 +163,7 @@ Stuff I want to read
 - http://taylor.fausak.me/
 - https://kseo.github.io
 - http://abailly.github.io/
+- http://blog.ssanj.net/archive.html
 
 
 ## vim
