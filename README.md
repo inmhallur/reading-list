@@ -358,6 +358,9 @@ Stuff I want to read
 
 - http://a.co/42wFrXo (Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort)
 - http://a.co/9WV6pb9 (TCP/IP Network Administration)
+- http://a.co/dIDDNyH (Start with Why: Great Leaders Inspire Everyone to Take Action [Simon Sinek])
+- http://a.co/8tVS8Tc (Leaders Eat Last: Why Some Teams Pull Together and Others Don't [Simon Sinek])
+- http://a.co/885xxkp (All Marketers are Liars: The Underground Classic That Explains How Marketing Really Works -- and Why Authenticity is the Best Marketing of All [Seth Godin])
 
 
 ## Food
