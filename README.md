@@ -67,6 +67,9 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=15919115 (Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to)
 - https://news.ycombinator.com/item?id=15924779 (Docusaurus - Infrastructure to help manage open source websites)
 - https://twitter.com/b0rk/status/943580770186260480 (Julia Evans: post about how her team at Stripe learnt to operate Kubernetes)
+- https://news.ycombinator.com/item?id=15988867 (Learn CSS Grid through interactive screencasts)
+- https://news.ycombinator.com/item?id=15980239 (Start your open source career)
+- https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
 
 
 ## Haskell
@@ -155,6 +158,7 @@ Stuff I want to read
 - https://twitter.com/mstk/status/943260409250791424 (Justin Le advent of code StateT  + List + 'many')
 - https://twitter.com/mattoflambda/status/942831984564248576 (Haskell performance debugging)
 - https://stackoverflow.com/questions/47829007/why-do-i-need-so-much-memory-for-writert-state/47839335#47839335
+- https://wiki.haskell.org/Random_shuffle
 
 
 ## Creative
