@@ -35,6 +35,8 @@ Stuff I want to read
 - http://ifeanyi.co/posts/understanding-consensus/
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
 - https://collegeinfogeek.com/personal-website/
+- https://www.digitalocean.com/community/tutorials/an-introduction-to-metrics-monitoring-and-alerting
+- https://github.com/Chalarangelo/30-seconds-of-code
 
 
 ## Read again
