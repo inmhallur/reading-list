@@ -154,6 +154,7 @@ Stuff I want to read
 - https://twitter.com/StephenPiment/status/942988464647127040 (The Haskell Performance Checklist)
 - https://twitter.com/mstk/status/943260409250791424 (Justin Le advent of code StateT  + List + 'many')
 - https://twitter.com/mattoflambda/status/942831984564248576 (Haskell performance debugging)
+- https://stackoverflow.com/questions/47829007/why-do-i-need-so-much-memory-for-writert-state/47839335#47839335
 
 
 ## Creative
