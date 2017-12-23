@@ -37,6 +37,9 @@ Stuff I want to read
 - https://collegeinfogeek.com/personal-website/
 - https://www.digitalocean.com/community/tutorials/an-introduction-to-metrics-monitoring-and-alerting
 - https://github.com/Chalarangelo/30-seconds-of-code
+- https://news.ycombinator.com/item?id=15799759 (VPC Endpoints for your Own Applications and Services)
+- https://news.ycombinator.com/item?id=15879735 (Learn to sell)
+- https://twitter.com/data_creative/status/937325541459406848 (Everything an open source maintainer might need to know about open source licensing)
 
 
 ## Read again
@@ -193,6 +196,7 @@ Stuff I want to read
 - https://twitter.com/MasteringVim/status/928362140108455939  (Vim code break game)
 - https://twitter.com/monicalent/status/932220114317037568
 - https://github.com/junegunn/vim-easy-align
+- https://twitter.com/bertvanvreckem/status/926146879603265536 (Vim cheatsheets)
 
 
 ## command line
