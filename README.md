@@ -63,6 +63,7 @@ Stuff I want to read
 - https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
 - https://news.ycombinator.com/item?id=15919115 (Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to)
 - https://news.ycombinator.com/item?id=15924779 (Docusaurus - Infrastructure to help manage open source websites)
+- https://twitter.com/b0rk/status/943580770186260480 (Julia Evans: post about how her team at Stripe learnt to operate Kubernetes)
 
 
 ## Haskell
