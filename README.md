@@ -6,20 +6,16 @@ Stuff I want to read
 
 - https://stackoverflow.com/questions/42284879/is-the-composition-of-an-arbitrary-monad-with-a-traversable-always-a-monad/42298943#42298943
 - https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
-- https://www.reddit.com/r/haskelltil/comments/337g7t/endo_the_monoid_of_endomorphisms_under/
 - https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
 - https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
 - https://blog.g3rt.nl/openvpn-security-tips.html#15-use-sha-2-for-message-authentication
-- https://askubuntu.com/questions/612840/adding-route-on-client-using-openvpn
 - https://docs.openvpn.net/configuration/site-to-site-routing-explained-in-detail/
-- https://forums.openvpn.net/viewtopic.php?t=14997
 - https://forums.freenas.org/index.php?threads/how-to-install-openvpn-inside-a-jail-in-freenas-9-2-1-6-with-access-to-remote-hosts-via-nat.22873/page-22#post-317425
 - http://newartisans.com/2007/09/how-to-administer-openvpn/
 - http://newartisans.com/2007/09/neat-tricks-with-iptables/
-- https://stackoverflow.com/questions/50159/show-all-libraries-used-by-executables-on-linux
 - http://linux-ip.net/linux-ip/
 - https://statico.github.io/vim3.html
 - http://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/peering-configurations-partial-access.html#peering-incorrect-response-routing
@@ -232,7 +228,6 @@ Stuff I want to read
 ## Business
 
 - https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
-- https://www.quora.com/How-does-Quincy-Larson-make-money/answer/Quincy-Larson
 - http://www.1point3acres.com/how-to-negotiate-salary/
 - http://www.1point3acres.com/how-to-improve-negotiation-skills/
 - https://news.ycombinator.com/item?id=14951671 (Ask HN: Is Anyone Living "The 4-Hour Work Week?")
@@ -261,7 +256,6 @@ Stuff I want to read
 ## General Computing
 
 - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
-- https://stackoverflow.com/insights/survey/2017/
 - https://nedbatchelder.com/text/unipain.html
 
 
