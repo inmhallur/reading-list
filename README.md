@@ -61,6 +61,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=15980239 (Start your open source career)
 - https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
 - https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04
+- https://twitter.com/Neovim/status/942479640144351232?s=03
 
 
 ## Haskell
@@ -165,7 +166,7 @@ Stuff I want to read
 - https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-probleⅿ
 
 
-## Tech blogs
+## Tech blogs / similar
 
 - https://two-wrongs.com/
 - http://taylor.fausak.me/
@@ -173,6 +174,7 @@ Stuff I want to read
 - http://abailly.github.io/
 - http://blog.ssanj.net/archive.html
 - http://teh.id.au/index.html
+- https://dev.to/
 
 
 ## vim
@@ -368,6 +370,7 @@ Stuff I want to read
 - http://a.co/dIDDNyH (Start with Why: Great Leaders Inspire Everyone to Take Action [Simon Sinek])
 - http://a.co/8tVS8Tc (Leaders Eat Last: Why Some Teams Pull Together and Others Don't [Simon Sinek])
 - http://a.co/885xxkp (All Marketers are Liars: The Underground Classic That Explains How Marketing Really Works -- and Why Authenticity is the Best Marketing of All [Seth Godin])
+- http://a.co/7NEo83B (Getting to Yes: Negotiating Agreement Without Giving in)
 
 
 ## Food
