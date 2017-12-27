@@ -4,6 +4,9 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
+- https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920
+- http://gallais.github.io/blog/travis-builds.html
 - https://stackoverflow.com/questions/42284879/is-the-composition-of-an-arbitrary-monad-with-a-traversable-always-a-monad/42298943#42298943
 - https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
 - https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
@@ -41,6 +44,7 @@ Stuff I want to read
 - http://www.stephendiehl.com/posts/haskell_2018.html
 - https://stackoverflow.com/questions/17137111/why-isnt-generalizednewtypederiving-a-safe-haskell
 - https://www.quora.com/What-is-a-Comonad-and-when-should-I-use-them/answer/Bartosz-Milewski
+- https://markkarpov.com/post/free-monad-considered-harmful.html
 
 
 ## Recent
@@ -62,6 +66,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
 - https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04
 - https://twitter.com/Neovim/status/942479640144351232?s=03
+- http://degoes.net/articles/modern-fp-part-2
 
 
 ## Haskell
@@ -96,7 +101,6 @@ Stuff I want to read
 - https://www.reddit.com/r/haskell/comments/6fn09r/dependency_injection_in_haskellfeedback_wanted/
 - https://userpages.uni-koblenz.de/~laemmel/paradigms1011/resources/pdf/haskell.pdf (There are other resources on the site)
 - http://comonad.com/reader/2011/free-monads-for-less-3/
-- https://markkarpov.com/post/free-monad-considered-harmful.html
 - https://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
 - https://www.reddit.com/r/haskell/comments/5mrk20/haskell_testing_frameworks_what_do_you_use/
 - https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md
@@ -136,7 +140,6 @@ Stuff I want to read
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions
 - https://news.ycombinator.com/item?id=1566704 ("very haskell ways" of writing directory traversals)
 - https://www.reddit.com/r/haskellquestions/comments/7jssi5/what_are_free_monoids/
-- https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
 - https://stackoverflow.com/questions/13352205/what-are-free-monads
 - https://stackoverflow.com/questions/17615138/haskell-quickcheck-to-generate-and-test-rose-trees
 - https://futtetennismo.me/posts/algorithms-and-data-structures/2017-12-08-functional-graphs.html
