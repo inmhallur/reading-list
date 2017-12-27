@@ -4,9 +4,9 @@ Stuff I want to read
 
 ## Priority
 
-- https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
-- https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920
-- http://gallais.github.io/blog/travis-builds.html
+- https://mail.haskell.org/pipermail/libraries/2012-October/018599.html
+- https://github.com/koalaman/shellcheck
+- https://hackage.haskell.org/package/monad-unlift
 - https://stackoverflow.com/questions/42284879/is-the-composition-of-an-arbitrary-monad-with-a-traversable-always-a-monad/42298943#42298943
 - https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
 - https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
@@ -45,6 +45,8 @@ Stuff I want to read
 - https://stackoverflow.com/questions/17137111/why-isnt-generalizednewtypederiving-a-safe-haskell
 - https://www.quora.com/What-is-a-Comonad-and-when-should-I-use-them/answer/Bartosz-Milewski
 - https://markkarpov.com/post/free-monad-considered-harmful.html
+- https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
+- https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell
 
 
 ## Recent
@@ -154,6 +156,7 @@ Stuff I want to read
 - https://twitter.com/mattoflambda/status/942831984564248576 (Haskell performance debugging)
 - https://stackoverflow.com/questions/47829007/why-do-i-need-so-much-memory-for-writert-state/47839335#47839335
 - https://wiki.haskell.org/Random_shuffle
+- https://www.fpcomplete.com/haskell-syllabus
 
 
 ## Creative
