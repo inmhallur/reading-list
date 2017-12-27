@@ -111,7 +111,6 @@ Stuff I want to read
 - https://hackage.haskell.org/package/classy-prelude
 - http://www.stephendiehl.com/posts/protolude.html
 - https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html
-- https://wiki.haskell.org/Avoiding_IO
 - https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 - http://www.stephendiehl.com/posts/essential_haskell.html
 - https://blog.jle.im/entry/verified-instances-in-haskell.html
