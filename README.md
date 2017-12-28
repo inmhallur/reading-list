@@ -143,7 +143,6 @@ Stuff I want to read
 - https://www.reddit.com/r/haskellquestions/comments/7jssi5/what_are_free_monoids/
 - https://stackoverflow.com/questions/13352205/what-are-free-monads
 - https://stackoverflow.com/questions/17615138/haskell-quickcheck-to-generate-and-test-rose-trees
-- https://futtetennismo.me/posts/algorithms-and-data-structures/2017-12-08-functional-graphs.html
 - https://twitter.com/k0001/status/942196512544706560 (safe-money: Money in the type system where it belongs)
 - https://twitter.com/GabrielG439/status/942233323077754881 (Apparently an import sanity check that Dhall inherited from Morte accidentally doubles as a security feature)
 - https://twitter.com/github_haskell/status/942527852565671936 (dumbwaiter - Extensible HTTP Web server configured entirely by a yaml file)
