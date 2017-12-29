@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://github.com/safarijv/ncsa-logparse
 - https://mail.haskell.org/pipermail/libraries/2012-October/018599.html
 - https://github.com/koalaman/shellcheck
 - https://hackage.haskell.org/package/monad-unlift
@@ -31,7 +32,6 @@ Stuff I want to read
 - http://ifeanyi.co/posts/understanding-consensus/
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
 - https://collegeinfogeek.com/personal-website/
-- https://www.digitalocean.com/community/tutorials/an-introduction-to-metrics-monitoring-and-alerting
 - https://github.com/Chalarangelo/30-seconds-of-code
 - https://news.ycombinator.com/item?id=15799759 (VPC Endpoints for your Own Applications and Services)
 - https://news.ycombinator.com/item?id=15879735 (Learn to sell)
@@ -90,7 +90,6 @@ Stuff I want to read
 - http://catamorph.de/publications/2004-10-01-monad-transformers.html
 - https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html
 - https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#ghc-flag--XRank2Types
-- https://www.safaribooksonline.com/blog/2015/12/14/high-performance-log-parsing-in-haskell-part-two/
 - https://docs.google.com/presentation/d/1RBefOCZ7AKOo4f1yiF4mtKPAT3l5vY9ky2SR02O4Vvg/edit#slide=id.p16
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/conduit-overview
 - https://haskell-lang.org/library/conduit
