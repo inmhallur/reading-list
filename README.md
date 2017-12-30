@@ -4,8 +4,6 @@ Stuff I want to read
 
 ## Priority
 
-- https://ocharles.org.uk/blog/posts/2014-12-08-type-operators.html
-- https://github.com/ocharles/blog/blob/master/code/2014-12-08-type-operators.hs
 - https://github.com/safarijv/ncsa-logparse
 - https://mail.haskell.org/pipermail/libraries/2012-October/018599.html
 - https://github.com/koalaman/shellcheck
