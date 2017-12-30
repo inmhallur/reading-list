@@ -168,6 +168,12 @@ Stuff I want to read
 - https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-probleⅿ
 
 
+## Developer tools / Libraries
+
+- https://github.com/thumbtack/pgdoctor
+- https://www.gnu.org/software/libmicrohttpd/
+
+
 ## Tech blogs / similar
 
 - https://two-wrongs.com/
@@ -248,6 +254,8 @@ Stuff I want to read
 ## JavaScript
 
 - https://github.com/bpesquet/thejsway (The JavaScript Way book)
+- https://github.com/babel/babel
+- https://github.com/webpack/webpack
 
 
 ## Python
