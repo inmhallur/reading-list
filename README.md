@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/
 - https://github.com/safarijv/ncsa-logparse
 - https://mail.haskell.org/pipermail/libraries/2012-October/018599.html
 - https://github.com/koalaman/shellcheck
@@ -20,7 +21,6 @@ Stuff I want to read
 - https://forums.freenas.org/index.php?threads/how-to-install-openvpn-inside-a-jail-in-freenas-9-2-1-6-with-access-to-remote-hosts-via-nat.22873/page-22#post-317425
 - http://newartisans.com/2007/09/how-to-administer-openvpn/
 - http://newartisans.com/2007/09/neat-tricks-with-iptables/
-- http://linux-ip.net/linux-ip/
 - https://statico.github.io/vim3.html
 - http://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/peering-configurations-partial-access.html#peering-incorrect-response-routing
 - http://docs.aviatrix.com/HowTos/TransPeering_OnPrem.html
@@ -31,15 +31,13 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
 - http://ifeanyi.co/posts/understanding-consensus/
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
-- https://collegeinfogeek.com/personal-website/
 - https://github.com/Chalarangelo/30-seconds-of-code
 - https://news.ycombinator.com/item?id=15799759 (VPC Endpoints for your Own Applications and Services)
-- https://news.ycombinator.com/item?id=15879735 (Learn to sell)
-- https://twitter.com/data_creative/status/937325541459406848 (Everything an open source maintainer might need to know about open source licensing)
 
 
 ## Read again
 
+- https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
 - https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/
 - http://www.stephendiehl.com/posts/haskell_2018.html
 - https://stackoverflow.com/questions/17137111/why-isnt-generalizednewtypederiving-a-safe-haskell
@@ -220,6 +218,7 @@ Stuff I want to read
 
 ## Computer Networks
 
+- http://linux-ip.net/linux-ip/
 - http://beej.us/guide/bgnet/ (Beej's Guide to Network Programming)
 - https://hpbn.co/ (High Performance Browser Networking)
 - http://www.keepalived.org/index.html
@@ -228,27 +227,16 @@ Stuff I want to read
 - https://www.netfilter.org/documentation/HOWTO/networking-concepts-HOWTO.html
 
 
+## Business
+
+- https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
+
+
 ## Security
 
 - https://news.ycombinator.com/item?id=14321498
 - https://news.ycombinator.com/item?id=8826024 (Environment Variables Considered Harmful for your secrets)
 - https://www.troyhunt.com/how-to-build-and-how-not-to-build/  (How to build and how not to build a secure "remember me" feature)
-
-
-## Business
-
-- https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
-- http://www.1point3acres.com/how-to-negotiate-salary/
-- http://www.1point3acres.com/how-to-improve-negotiation-skills/
-- https://news.ycombinator.com/item?id=14951671 (Ask HN: Is Anyone Living "The 4-Hour Work Week?")
-
-
-## Advice
-
-- https://www.quora.com/Im-17-What-books-would-you-recommend-to-me-to-improve-myself/answer/Brandon-Lee-11
-- https://www.quora.com/What-are-some-books-that-expand-our-mind/answers/15382907
-- https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
-- https://www.quora.com/How-can-I-become-a-very-good-programmer/answer/Brian-Knapp-1
 
 
 ## JavaScript
@@ -281,7 +269,6 @@ Stuff I want to read
 
 ## Systems
 
-- http://code.activestate.com/recipes/278731/
 - https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates (How to Use Certbot Standalone Mode for Let's Encrypt Certificates)
 
 
@@ -381,6 +368,12 @@ Stuff I want to read
 - http://a.co/8tVS8Tc (Leaders Eat Last: Why Some Teams Pull Together and Others Don't [Simon Sinek])
 - http://a.co/885xxkp (All Marketers are Liars: The Underground Classic That Explains How Marketing Really Works -- and Why Authenticity is the Best Marketing of All [Seth Godin])
 - http://a.co/7NEo83B (Getting to Yes: Negotiating Agreement Without Giving in)
+- http://a.co/eMXrvTB (The Power of Habit: Why We Do What We Do in Life and Business)
+- http://a.co/8KmP3aP (Where Good Ideas Come From: The Natural History of Innovation)
+- http://a.co/2KU3ux3 (Man's Search for Meaning)
+- http://a.co/chnzFLU (The Power of Full Engagement: Managing Energy Not Time, Is the Key to High Performance)
+- http://a.co/6Bfislz (Learned Optimism: How to Change Your Mind and Your Life)
+- http://a.co/cagzhAr (Give and Take: Why Helping Others Drives Our Success)
 
 
 ## Food
