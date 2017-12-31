@@ -105,13 +105,9 @@ Stuff I want to read
 - https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md
 - https://github.com/jaspervdj/stylish-haskell/blob/master/README.markdown
 - http://planet.haskell.org/
-- https://hackage.haskell.org/package/classy-prelude
-- http://www.stephendiehl.com/posts/protolude.html
-- https://blog.jle.im/entry/mtl-is-not-a-monad-transformer-library.html
 - https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 - http://www.stephendiehl.com/posts/essential_haskell.html
 - https://blog.jle.im/entry/verified-instances-in-haskell.html
-- http://www.haskellforall.com/2012/09/the-functor-design-pattern.html
 - http://www.haskellforall.com/2013/12/equational-reasoning.html
 - http://www.haskellforall.com/2012/08/the-category-design-pattern.html
 - http://wiki.haskell.org/Existential_type
@@ -131,7 +127,6 @@ Stuff I want to read
 - https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck/
 - https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/
 - https://stackoverflow.com/questions/20870432/type-family-vs-data-family-in-brief
-- https://wiki.haskell.org/Data_declaration_with_constraint
 - https://leonmergen.com/
 - https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions
@@ -202,13 +197,13 @@ Stuff I want to read
 - https://twitter.com/monicalent/status/932220114317037568
 - https://github.com/junegunn/vim-easy-align
 - https://twitter.com/bertvanvreckem/status/926146879603265536 (Vim cheatsheets)
+- http://www.drbunsen.org/vim-croquet/
 
 
 ## command line
 
 - http://www.drbunsen.org/the-text-triumvirate/
 - https://github.com/jlevy/the-art-of-command-line
-- http://blog.petersobot.com/pipes-and-filters
 - http://xon.sh
 - https://github.com/nvbn/thefuck
 - https://news.ycombinator.com/item?id=14321213
