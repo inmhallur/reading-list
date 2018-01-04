@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://en.wikibooks.org/wiki/Haskell/GADT
 - https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/
 - https://github.com/safarijv/ncsa-logparse
 - https://mail.haskell.org/pipermail/libraries/2012-October/018599.html
@@ -137,7 +138,6 @@ Stuff I want to read
 - https://twitter.com/k0001/status/942196512544706560 (safe-money: Money in the type system where it belongs)
 - https://twitter.com/GabrielG439/status/942233323077754881 (Apparently an import sanity check that Dhall inherited from Morte accidentally doubles as a security feature)
 - https://twitter.com/github_haskell/status/942527852565671936 (dumbwaiter - Extensible HTTP Web server configured entirely by a yaml file)
-- http://blog.ssanj.net/posts/2017-06-07-composing-monadic-functions-with-kleisli-arrows.html
 - https://twitter.com/BartoszMilewski/status/942786660512751616 (Category Theory Crash Course from Lyon @ScalaIO_FR)
 - https://twitter.com/tweagio/status/942701229305679873 (FPConf 2017 talk video of "Using Haskell to Great Effect" by Arnaud Spiwack explains why Haskell's purity ends up (maybe surprisingly) helping us to test I/O functionality)
 - https://twitter.com/StephenPiment/status/942988464647127040 (The Haskell Performance Checklist)
