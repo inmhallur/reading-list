@@ -4,6 +4,8 @@ Stuff I want to read
 
 ## Priority
 
+- https://github.com/vaniacer/piu-piu-SH
+- https://www.digitalocean.com/community/tutorials/gathering-metrics-from-your-infrastructure-and-applications
 - https://en.wikibooks.org/wiki/Haskell/GADT
 - https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/
 - https://github.com/safarijv/ncsa-logparse
