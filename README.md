@@ -68,6 +68,7 @@ Stuff I want to read
 - https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04
 - https://twitter.com/Neovim/status/942479640144351232?s=03
 - http://degoes.net/articles/modern-fp-part-2
+- https://news.ycombinator.com/item?id=16017969 (No boundaries for user identities: Web trackers exploit browser login managers)
 
 
 ## Haskell
