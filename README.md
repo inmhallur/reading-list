@@ -171,6 +171,7 @@ Stuff I want to read
 - https://github.com/mooz/percol
 - https://github.com/junegunn/fzf
 - https://github.com/facebook/PathPicker
+- https://github.com/BurntSushi/ripgrep
 
 
 ## Tech blogs / similar
