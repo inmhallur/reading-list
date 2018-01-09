@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
 - https://www.digitalocean.com/community/tutorials/gathering-metrics-from-your-infrastructure-and-applications
 - https://en.wikibooks.org/wiki/Haskell/GADT
 - https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/
@@ -166,6 +167,10 @@ Stuff I want to read
 
 - https://github.com/thumbtack/pgdoctor
 - https://www.gnu.org/software/libmicrohttpd/
+- https://mosh.org/
+- https://github.com/mooz/percol
+- https://github.com/junegunn/fzf
+- https://github.com/facebook/PathPicker
 
 
 ## Tech blogs / similar
