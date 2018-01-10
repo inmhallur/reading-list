@@ -4,6 +4,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.dwheeler.com/essays/filenames-in-shell.html
 - https://stripe.com/blog/game-day-exercises-at-stripe
 - https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/95
 - https://www.youtube.com/watch?v=HlAXp0-M6SY (Kubernetes for Sysadmins - Kelsey Hightower at PuppetConf 2016)
@@ -57,6 +58,11 @@ Stuff I want to read
 
 ## Recent
 
+- http://redsymbol.net/resume/
+- http://redsymbol.net/articles/
+- http://redsymbol.net/articles/does-it-take-money-to-make-money/
+- https://github.com/alebcay/awesome-shell
+- http://www.catonmat.net/blog/ldd-arbitrary-code-execution/
 - https://news.ycombinator.com/item?id=15127730 (Roamer: A Plain-Text File Manager)
 - http://yager.io/CPU/CPU1.html
 - https://stackoverflow.com/questions/21277170/postgresql-wrong-converting-from-timestamp-without-time-zone-to-timestamp-with-t
@@ -135,7 +141,6 @@ Stuff I want to read
 - https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/
 - https://stackoverflow.com/questions/20870432/type-family-vs-data-family-in-brief
 - https://leonmergen.com/
-- https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions
 - https://news.ycombinator.com/item?id=1566704 ("very haskell ways" of writing directory traversals)
 - https://www.reddit.com/r/haskellquestions/comments/7jssi5/what_are_free_monoids/
@@ -165,6 +170,7 @@ Stuff I want to read
 - http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
 - https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
 - https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-probleⅿ
+- https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
 
 
 ## Developer tools / Libraries
