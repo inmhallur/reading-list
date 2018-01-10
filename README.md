@@ -225,6 +225,10 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=14321213
 - https://news.ycombinator.com/item?id=13936792 (tmuxp)
 - https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
+- https://github.com/vifm/vifm
+- https://github.com/FedeDP/ncursesFM
+- https://github.com/ranger/ranger
+- https://midnight-commander.org/
 
 
 ## Computer Networks
