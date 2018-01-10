@@ -4,6 +4,11 @@ Stuff I want to read
 
 ## Priority
 
+- https://stripe.com/blog/game-day-exercises-at-stripe
+- https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/95
+- https://www.youtube.com/watch?v=HlAXp0-M6SY (Kubernetes for Sysadmins - Kelsey Hightower at PuppetConf 2016)
+- https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
+- https://securityboulevard.com/2018/01/blockchains-hype-hope-transactional-security/
 - https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
 - https://www.digitalocean.com/community/tutorials/gathering-metrics-from-your-infrastructure-and-applications
 - https://en.wikibooks.org/wiki/Haskell/GADT
@@ -62,7 +67,6 @@ Stuff I want to read
 - https://github.com/i0natan/nodebestpractices
 - https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
 - https://news.ycombinator.com/item?id=15919115 (Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to)
-- https://twitter.com/b0rk/status/943580770186260480 (Julia Evans: post about how her team at Stripe learnt to operate Kubernetes)
 - https://news.ycombinator.com/item?id=15988867 (Learn CSS Grid through interactive screencasts)
 - https://news.ycombinator.com/item?id=15980239 (Start your open source career)
 - https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
