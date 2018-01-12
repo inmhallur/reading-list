@@ -10,7 +10,6 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=YkOY7DgXKyw (Building a Bank with Kubernetes by Oliver Beattie, Monzo)
 - https://www.youtube.com/watch?v=-czp0Y4Z36Y (Microservices Practitioner Summit - Don't Build a Distributed Monolith - Ben Christensen)
 - https://github.com/open-guides/og-aws
-- https://securityboulevard.com/2018/01/blockchains-hype-hope-transactional-security/
 - https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
 - https://www.digitalocean.com/community/tutorials/gathering-metrics-from-your-infrastructure-and-applications
 - https://en.wikibooks.org/wiki/Haskell/GADT
@@ -42,7 +41,7 @@ Stuff I want to read
 - http://ifeanyi.co/posts/understanding-consensus/
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
 - https://github.com/Chalarangelo/30-seconds-of-code
-- https://news.ycombinator.com/item?id=15799759 (VPC Endpoints for your Own Applications and Services)
+- https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
 
 
 ## Read again
