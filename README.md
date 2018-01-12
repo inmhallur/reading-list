@@ -62,7 +62,6 @@ Stuff I want to read
 - http://redsymbol.net/articles/does-it-take-money-to-make-money/
 - https://github.com/alebcay/awesome-shell
 - http://www.catonmat.net/blog/ldd-arbitrary-code-execution/
-- http://yager.io/CPU/CPU1.html
 - https://stackoverflow.com/questions/21277170/postgresql-wrong-converting-from-timestamp-without-time-zone-to-timestamp-with-t
 - https://stackoverflow.com/questions/25456465/postgres-timestamp-with-timezone
 - http://www.craigkerstiens.com/2013/02/21/more-out-of-psql/
