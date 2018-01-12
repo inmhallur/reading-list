@@ -5,7 +5,6 @@ Stuff I want to read
 ## Priority
 
 - https://www.dwheeler.com/essays/filenames-in-shell.html
-- https://www.youtube.com/watch?v=HlAXp0-M6SY (Kubernetes for Sysadmins - Kelsey Hightower at PuppetConf 2016)
 - https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
 - https://www.youtube.com/watch?v=YkOY7DgXKyw (Building a Bank with Kubernetes by Oliver Beattie, Monzo)
 - https://www.youtube.com/watch?v=-czp0Y4Z36Y (Microservices Practitioner Summit - Don't Build a Distributed Monolith - Ben Christensen)
