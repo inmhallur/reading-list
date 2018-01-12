@@ -5,8 +5,6 @@ Stuff I want to read
 ## Priority
 
 - https://www.dwheeler.com/essays/filenames-in-shell.html
-- https://stripe.com/blog/game-day-exercises-at-stripe
-- https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/95
 - https://www.youtube.com/watch?v=HlAXp0-M6SY (Kubernetes for Sysadmins - Kelsey Hightower at PuppetConf 2016)
 - https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
 - https://securityboulevard.com/2018/01/blockchains-hype-hope-transactional-security/
@@ -54,6 +52,7 @@ Stuff I want to read
 - https://markkarpov.com/post/free-monad-considered-harmful.html
 - https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
 - https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell
+- https://github.com/jlevy/the-art-of-command-line
 
 
 ## Recent
@@ -92,7 +91,6 @@ Stuff I want to read
 - https://blog.jle.im/entry/streaming-huffman-compression-in-haskell-part-1-trees.html
 - https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts
 - https://haskell-lang.org/documentation
-- https://wiki.haskell.org/Arrow_tutorial#Kleisli_Arrows
 - https://en.wikibooks.org/wiki/Haskell/Continuation_passing_style
 - https://wiki.haskell.org/MonadCont_under_the_hood
 - https://haskell-lang.org/libraries
@@ -219,7 +217,6 @@ Stuff I want to read
 ## command line
 
 - http://www.drbunsen.org/the-text-triumvirate/
-- https://github.com/jlevy/the-art-of-command-line
 - http://xon.sh
 - https://github.com/nvbn/thefuck
 - https://news.ycombinator.com/item?id=14321213
