@@ -7,6 +7,9 @@ Stuff I want to read
 - https://www.dwheeler.com/essays/filenames-in-shell.html
 - https://www.youtube.com/watch?v=HlAXp0-M6SY (Kubernetes for Sysadmins - Kelsey Hightower at PuppetConf 2016)
 - https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
+- https://www.youtube.com/watch?v=YkOY7DgXKyw (Building a Bank with Kubernetes by Oliver Beattie, Monzo)
+- https://www.youtube.com/watch?v=-czp0Y4Z36Y (Microservices Practitioner Summit - Don't Build a Distributed Monolith - Ben Christensen)
+- https://github.com/open-guides/og-aws
 - https://securityboulevard.com/2018/01/blockchains-hype-hope-transactional-security/
 - https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
 - https://www.digitalocean.com/community/tutorials/gathering-metrics-from-your-infrastructure-and-applications
@@ -81,6 +84,7 @@ Stuff I want to read
 
 ## Haskell
 
+- https://www.quora.com/To-what-extent-do-people-use-Haskell-at-their-work-place-How-do-they-use-it/answer/Edward-Kmett
 - https://stackoverflow.com/a/16951/732396 (Beginners Guide to Haskell?)
 - https://stackoverflow.com/a/1016986/732396
 - http://hao.codes/lenses-heart-json.html
@@ -153,6 +157,7 @@ Stuff I want to read
 - https://stackoverflow.com/questions/47829007/why-do-i-need-so-much-memory-for-writert-state/47839335#47839335
 - https://wiki.haskell.org/Random_shuffle
 - https://www.fpcomplete.com/haskell-syllabus
+- http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf
 
 
 ## Creative
@@ -169,6 +174,12 @@ Stuff I want to read
 - https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
 
 
+## Kubernetes / Microservices
+
+- https://linkerd.io/
+- https://twitter.github.io/finagle/guide/
+
+
 ## Developer tools / Libraries
 
 - https://github.com/thumbtack/pgdoctor
@@ -178,6 +189,7 @@ Stuff I want to read
 - https://github.com/junegunn/fzf
 - https://github.com/facebook/PathPicker
 - https://github.com/BurntSushi/ripgrep
+- https://github.com/simeji/jid
 
 
 ## Tech blogs / similar
