@@ -56,9 +56,6 @@ Stuff I want to read
 
 ## Recent
 
-- http://redsymbol.net/resume/
-- http://redsymbol.net/articles/
-- http://redsymbol.net/articles/does-it-take-money-to-make-money/
 - https://github.com/alebcay/awesome-shell
 - http://www.catonmat.net/blog/ldd-arbitrary-code-execution/
 - https://stackoverflow.com/questions/21277170/postgresql-wrong-converting-from-timestamp-without-time-zone-to-timestamp-with-t
@@ -76,6 +73,7 @@ Stuff I want to read
 - https://twitter.com/Neovim/status/942479640144351232?s=03
 - http://degoes.net/articles/modern-fp-part-2
 - https://news.ycombinator.com/item?id=16017969 (No boundaries for user identities: Web trackers exploit browser login managers)
+- http://marshallbrain.com/million10.htm
 
 
 ## Haskell
