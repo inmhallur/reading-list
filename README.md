@@ -11,7 +11,6 @@ Stuff I want to read
 - https://github.com/open-guides/og-aws
 - https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
 - https://www.digitalocean.com/community/tutorials/gathering-metrics-from-your-infrastructure-and-applications
-- https://en.wikibooks.org/wiki/Haskell/GADT
 - https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/
 - https://github.com/safarijv/ncsa-logparse
 - https://mail.haskell.org/pipermail/libraries/2012-October/018599.html
@@ -19,7 +18,6 @@ Stuff I want to read
 - https://hackage.haskell.org/package/monad-unlift
 - https://stackoverflow.com/questions/42284879/is-the-composition-of-an-arbitrary-monad-with-a-traversable-always-a-monad/42298943#42298943
 - https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
-- https://news.ycombinator.com/item?id=15127912 (Ask HN: 6-figure freelancers of HN, what do you do?)
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
