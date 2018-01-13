@@ -231,7 +231,7 @@ Stuff I want to read
 
 - http://www.drbunsen.org/the-text-triumvirate/
 - http://xon.sh
-- https://news.ycombinator.com/item?id=14321213
+- https://news.ycombinator.com/item?id=14321213 (When Bash scripts bite - janestreet.com)
 - https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
 
 
@@ -253,7 +253,7 @@ Stuff I want to read
 
 ## Security
 
-- https://news.ycombinator.com/item?id=14321498
+- https://news.ycombinator.com/item?id=14321498 (Ask HN: How do you manage SSH keys and SSL certificates in your company?)
 - https://news.ycombinator.com/item?id=8826024 (Environment Variables Considered Harmful for your secrets)
 - https://www.troyhunt.com/how-to-build-and-how-not-to-build/  (How to build and how not to build a secure "remember me" feature)
 
