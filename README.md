@@ -178,6 +178,8 @@ Stuff I want to read
 
 ## Developer tools / Libraries
 
+- https://github.com/nvbn/thefuck
+- https://news.ycombinator.com/item?id=13936792 (tmuxp)
 - https://github.com/thumbtack/pgdoctor
 - https://www.gnu.org/software/libmicrohttpd/
 - https://mosh.org/
@@ -186,6 +188,10 @@ Stuff I want to read
 - https://github.com/facebook/PathPicker
 - https://github.com/BurntSushi/ripgrep
 - https://github.com/simeji/jid
+- https://github.com/vifm/vifm
+- https://github.com/FedeDP/ncursesFM
+- https://github.com/ranger/ranger
+- https://midnight-commander.org/
 
 
 ## Tech blogs / similar
@@ -225,14 +231,8 @@ Stuff I want to read
 
 - http://www.drbunsen.org/the-text-triumvirate/
 - http://xon.sh
-- https://github.com/nvbn/thefuck
 - https://news.ycombinator.com/item?id=14321213
-- https://news.ycombinator.com/item?id=13936792 (tmuxp)
 - https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
-- https://github.com/vifm/vifm
-- https://github.com/FedeDP/ncursesFM
-- https://github.com/ranger/ranger
-- https://midnight-commander.org/
 
 
 ## Computer Networks
