@@ -190,6 +190,7 @@ Stuff I want to read
 - https://github.com/FedeDP/ncursesFM
 - https://github.com/ranger/ranger
 - https://midnight-commander.org/
+- https://www.gnu.org/software/global/  (there's hothasktags on links page: https://www.gnu.org/software/global/links.html)
 
 
 ## Tech blogs / similar
@@ -217,12 +218,21 @@ Stuff I want to read
 - https://twitter.com/VimLinks/status/921350660137930758  (If you enjoy looking at other people's Vim setups, check out this thread)
 - https://twitter.com/MasteringVim/status/921294208564191232  (Everything I missed in "Vim after 11 years")
 - https://bluz71.github.io/2017/06/14/a-few-vim-tmux-mappings.html
-- https://geoffreyenglish.wordpress.com/2017/11/03/a-very-brief-introduction-to-the-leader-key/
 - https://twitter.com/MasteringVim/status/928362140108455939  (Vim code break game)
 - https://twitter.com/monicalent/status/932220114317037568
 - https://github.com/junegunn/vim-easy-align
 - https://twitter.com/bertvanvreckem/status/926146879603265536 (Vim cheatsheets)
 - http://www.drbunsen.org/vim-croquet/
+- https://raw.githubusercontent.com/dahu/LearnVim/master/doc/learnvim.txt
+
+### vim plugins
+
+- https://github.com/dahu/vim-fanfingtastic
+- http://vim-taglist.sourceforge.net/
+
+### full fledged vim "frameworks"
+
+- https://valloric.github.io/YouCompleteMe/
 
 
 ## command line
@@ -231,6 +241,10 @@ Stuff I want to read
 - http://xon.sh
 - https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
 - http://amoffat.github.io/sh/index.html (sh.py - a full fledged subprocess replacement for Python that allows you to call any bash program as if it were a function)
+
+### zsh plugins
+
+- https://github.com/chauncey-garrett/zsh-prompt-garrett
 
 
 ## Computer Networks
