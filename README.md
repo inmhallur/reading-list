@@ -229,8 +229,8 @@ Stuff I want to read
 
 - http://www.drbunsen.org/the-text-triumvirate/
 - http://xon.sh
-- https://news.ycombinator.com/item?id=14321213 (When Bash scripts bite - janestreet.com)
 - https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
+- http://amoffat.github.io/sh/index.html (sh.py - a full fledged subprocess replacement for Python that allows you to call any bash program as if it were a function)
 
 
 ## Computer Networks
