@@ -56,6 +56,7 @@ Stuff I want to read
 - https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
 - https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell
 - https://github.com/jlevy/the-art-of-command-line
+- https://github.com/scrooloose/nerdcommenter (vim plugin for intensely orgasmic commenting)
 
 
 ## Recent
@@ -232,6 +233,8 @@ Stuff I want to read
 
 - https://github.com/dahu/vim-fanfingtastic
 - http://vim-taglist.sourceforge.net/
+- https://github.com/chrisbra/NrrwRgn (Narrow region plugin for vim)
+- https://github.com/Raimondi/delimitMate (auto close quotes, parens, brackets, etc)
 
 ### full fledged vim "frameworks"
 
