@@ -4,6 +4,10 @@ Stuff I want to read
 
 ## Priority
 
+- https://news.ycombinator.com/item?id=16147356 (Stanford CS9: Problem-Solving for the CS Technical Interview)
+- https://news.ycombinator.com/item?id=16145586 (Using a Yubikey for GPG and SSH)
+- https://news.ycombinator.com/item?id=5244752 (Vim after 11 years - HN discussion)
+- https://www.reddit.com/r/vim/comments/18tp84/vim_after_11_years/ (Vim after 11 years - reddit discussion)
 - https://www.dwheeler.com/essays/filenames-in-shell.html
 - https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
 - https://www.youtube.com/watch?v=YkOY7DgXKyw (Building a Bank with Kubernetes by Oliver Beattie, Monzo)
@@ -216,7 +220,6 @@ Stuff I want to read
 - https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7
 - https://twitter.com/MasteringVim/status/911207162319425536?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=fddfb58c14624ed58a20365c9533fcb4&uid=2570069203&nid=244+272699393
 - https://twitter.com/VimLinks/status/921350660137930758  (If you enjoy looking at other people's Vim setups, check out this thread)
-- https://twitter.com/MasteringVim/status/921294208564191232  (Everything I missed in "Vim after 11 years")
 - https://bluz71.github.io/2017/06/14/a-few-vim-tmux-mappings.html
 - https://twitter.com/MasteringVim/status/928362140108455939  (Vim code break game)
 - https://twitter.com/monicalent/status/932220114317037568
