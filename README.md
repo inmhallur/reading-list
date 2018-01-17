@@ -4,11 +4,12 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.dwheeler.com/encodef/index.html
+- https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
 - https://news.ycombinator.com/item?id=16147356 (Stanford CS9: Problem-Solving for the CS Technical Interview)
 - https://news.ycombinator.com/item?id=16145586 (Using a Yubikey for GPG and SSH)
 - https://news.ycombinator.com/item?id=5244752 (Vim after 11 years - HN discussion)
 - https://www.reddit.com/r/vim/comments/18tp84/vim_after_11_years/ (Vim after 11 years - reddit discussion)
-- https://www.dwheeler.com/essays/filenames-in-shell.html
 - https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
 - https://www.youtube.com/watch?v=YkOY7DgXKyw (Building a Bank with Kubernetes by Oliver Beattie, Monzo)
 - https://www.youtube.com/watch?v=-czp0Y4Z36Y (Microservices Practitioner Summit - Don't Build a Distributed Monolith - Ben Christensen)
@@ -58,6 +59,7 @@ Stuff I want to read
 - https://github.com/jlevy/the-art-of-command-line
 - https://github.com/scrooloose/nerdcommenter (vim plugin for intensely orgasmic commenting)
 - http://www.moolenaar.net/habits.html (7 habits of effective text editing - Bram Moolenaar)
+- https://www.dwheeler.com/essays/filenames-in-shell.html
 
 
 ## Recent
@@ -80,6 +82,7 @@ Stuff I want to read
 - http://degoes.net/articles/modern-fp-part-2
 - https://news.ycombinator.com/item?id=16017969 (No boundaries for user identities: Web trackers exploit browser login managers)
 - http://marshallbrain.com/million10.htm
+- https://www.dwheeler.com/oss_fs_why.html
 
 
 ## Haskell
