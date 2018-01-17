@@ -57,6 +57,7 @@ Stuff I want to read
 - https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell
 - https://github.com/jlevy/the-art-of-command-line
 - https://github.com/scrooloose/nerdcommenter (vim plugin for intensely orgasmic commenting)
+- http://www.moolenaar.net/habits.html (7 habits of effective text editing - Bram Moolenaar)
 
 
 ## Recent
@@ -216,7 +217,6 @@ Stuff I want to read
 - https://twitter.com/MasteringVim/status/896688760376754176?s=03
 - https://twitter.com/jreybert/status/895639299663593472?s=03
 - https://twitter.com/ethanschoonover/status/884494715491504128?s=03
-- http://www.moolenaar.net/habits.html (7 habits of effective text editing - Bram Moolenaar)
 - https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7
 - https://twitter.com/MasteringVim/status/911207162319425536?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=fddfb58c14624ed58a20365c9533fcb4&uid=2570069203&nid=244+272699393
 - https://twitter.com/VimLinks/status/921350660137930758  (If you enjoy looking at other people's Vim setups, check out this thread)
