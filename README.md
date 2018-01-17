@@ -214,15 +214,13 @@ Stuff I want to read
 - https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
 - https://blog.bugsnag.com/tmux-and-vim/
 - https://twitter.com/trevordmiller/status/897808937310924800?s=03 (Nova color scheme)
-- https://twitter.com/MasteringVim/status/896688760376754176?s=03
-- https://twitter.com/jreybert/status/895639299663593472?s=03
-- https://twitter.com/ethanschoonover/status/884494715491504128?s=03
+- https://twitter.com/jreybert/status/895639299663593472?s=03 (vimagit plugin, seems interesting)
 - https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7
 - https://twitter.com/MasteringVim/status/911207162319425536?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=fddfb58c14624ed58a20365c9533fcb4&uid=2570069203&nid=244+272699393
 - https://twitter.com/VimLinks/status/921350660137930758  (If you enjoy looking at other people's Vim setups, check out this thread)
 - https://bluz71.github.io/2017/06/14/a-few-vim-tmux-mappings.html
 - https://twitter.com/MasteringVim/status/928362140108455939  (Vim code break game)
-- https://twitter.com/monicalent/status/932220114317037568
+- https://twitter.com/monicalent/status/932220114317037568 (configuring vim for writing Haskell)
 - https://github.com/junegunn/vim-easy-align
 - https://twitter.com/bertvanvreckem/status/926146879603265536 (Vim cheatsheets)
 - http://www.drbunsen.org/vim-croquet/
