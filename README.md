@@ -188,7 +188,6 @@ Stuff I want to read
 - https://mosh.org/
 - https://github.com/mooz/percol
 - https://github.com/junegunn/fzf
-- https://github.com/facebook/PathPicker
 - https://github.com/BurntSushi/ripgrep
 - https://github.com/simeji/jid
 - https://github.com/vifm/vifm
