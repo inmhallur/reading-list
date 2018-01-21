@@ -8,8 +8,6 @@ Stuff I want to read
 - https://www.dwheeler.com/encodef/index.html
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
 - https://news.ycombinator.com/item?id=16147356 (Stanford CS9: Problem-Solving for the CS Technical Interview)
-- https://news.ycombinator.com/item?id=5244752 (Vim after 11 years - HN discussion)
-- https://www.reddit.com/r/vim/comments/18tp84/vim_after_11_years/ (Vim after 11 years - reddit discussion)
 - https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
 - https://www.youtube.com/watch?v=YkOY7DgXKyw (Building a Bank with Kubernetes by Oliver Beattie, Monzo)
 - https://www.youtube.com/watch?v=-czp0Y4Z36Y (Microservices Practitioner Summit - Don't Build a Distributed Monolith - Ben Christensen)
