@@ -4,12 +4,10 @@ Stuff I want to read
 
 ## Priority
 
-- https://github.com/kilimchoi/engineering-blogs
 - https://www.cronweekly.com/
 - https://www.dwheeler.com/encodef/index.html
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
 - https://news.ycombinator.com/item?id=16147356 (Stanford CS9: Problem-Solving for the CS Technical Interview)
-- https://news.ycombinator.com/item?id=16145586 (Using a Yubikey for GPG and SSH)
 - https://news.ycombinator.com/item?id=5244752 (Vim after 11 years - HN discussion)
 - https://www.reddit.com/r/vim/comments/18tp84/vim_after_11_years/ (Vim after 11 years - reddit discussion)
 - https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
@@ -27,18 +25,7 @@ Stuff I want to read
 - https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
-- https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
-- https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
-- https://blog.g3rt.nl/openvpn-security-tips.html#15-use-sha-2-for-message-authentication
-- https://docs.openvpn.net/configuration/site-to-site-routing-explained-in-detail/
-- https://forums.freenas.org/index.php?threads/how-to-install-openvpn-inside-a-jail-in-freenas-9-2-1-6-with-access-to-remote-hosts-via-nat.22873/page-22#post-317425
-- http://newartisans.com/2007/09/how-to-administer-openvpn/
-- http://newartisans.com/2007/09/neat-tricks-with-iptables/
 - https://statico.github.io/vim3.html
-- http://docs.aws.amazon.com/AmazonVPC/latest/PeeringGuide/peering-configurations-partial-access.html#peering-incorrect-response-routing
-- http://docs.aviatrix.com/HowTos/TransPeering_OnPrem.html
-- http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_VPN.html
-- http://docs.aws.amazon.com/AmazonVPC/latest/NetworkAdminGuide/Introduction.html
 - http://chrisdone.com/posts/hindent
 - http://paxos.systems/
 - https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
@@ -71,15 +58,12 @@ Stuff I want to read
 - https://stackoverflow.com/questions/21277170/postgresql-wrong-converting-from-timestamp-without-time-zone-to-timestamp-with-t
 - https://stackoverflow.com/questions/25456465/postgres-timestamp-with-timezone
 - http://www.craigkerstiens.com/2013/02/21/more-out-of-psql/
-- https://github.com/jakubroztocil/httpie
-- http://httpd.apache.org/docs/2.4/programs/ab.html
 - https://github.com/i0natan/nodebestpractices
 - https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
 - https://news.ycombinator.com/item?id=15919115 (Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to)
 - https://news.ycombinator.com/item?id=15988867 (Learn CSS Grid through interactive screencasts)
 - https://news.ycombinator.com/item?id=15980239 (Start your open source career)
 - https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
-- https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04
 - https://twitter.com/Neovim/status/942479640144351232?s=03
 - http://degoes.net/articles/modern-fp-part-2
 - https://news.ycombinator.com/item?id=16017969 (No boundaries for user identities: Web trackers exploit browser login managers)
@@ -202,6 +186,8 @@ Stuff I want to read
 - https://github.com/ranger/ranger
 - https://midnight-commander.org/
 - https://www.gnu.org/software/global/  (there's hothasktags on links page: https://www.gnu.org/software/global/links.html)
+- https://github.com/jakubroztocil/httpie
+- http://httpd.apache.org/docs/2.4/programs/ab.html
 
 
 ## Tech blogs / similar
@@ -270,6 +256,25 @@ Stuff I want to read
 - http://lartc.org/howto/index.html  (Linux Advanced Routing & Traffic Control HOWTO)
 - https://rlworkman.net/howtos/iptables/chunkyhtml/index.html  (Iptables Tutorial 1.2.1)
 - https://www.netfilter.org/documentation/HOWTO/networking-concepts-HOWTO.html
+
+
+## IPTables
+
+- https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
+- http://newartisans.com/2007/09/neat-tricks-with-iptables/
+
+
+## OpenVPN
+
+- https://blog.g3rt.nl/openvpn-security-tips.html#15-use-sha-2-for-message-authentication
+- http://newartisans.com/2007/09/how-to-administer-openvpn/
+- https://forums.freenas.org/index.php?threads/how-to-install-openvpn-inside-a-jail-in-freenas-9-2-1-6-with-access-to-remote-hosts-via-nat.22873/page-22#post-317425
+
+
+## General VPN
+
+- https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
+- https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04
 
 
 ## Business
