@@ -4,6 +4,8 @@ Stuff I want to read
 
 ## Priority
 
+- https://github.com/kilimchoi/engineering-blogs
+- https://www.cronweekly.com/
 - https://www.dwheeler.com/encodef/index.html
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
 - https://news.ycombinator.com/item?id=16147356 (Stanford CS9: Problem-Solving for the CS Technical Interview)
@@ -83,6 +85,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=16017969 (No boundaries for user identities: Web trackers exploit browser login managers)
 - http://marshallbrain.com/million10.htm
 - https://www.dwheeler.com/oss_fs_why.html
+- https://hackernoon.com/transfer-learning-with-mxnet-gluon-8203005afafe
 
 
 ## Haskell
@@ -209,6 +212,11 @@ Stuff I want to read
 - http://abailly.github.io/
 - http://blog.ssanj.net/archive.html
 - http://teh.id.au/index.html
+
+
+## Developer community sites (Stackoverflow alternatives)
+
+- https://hashnode.com/
 - https://dev.to/
 
 
@@ -411,6 +419,7 @@ Stuff I want to read
 - http://a.co/chnzFLU (The Power of Full Engagement: Managing Energy Not Time, Is the Key to High Performance)
 - http://a.co/6Bfislz (Learned Optimism: How to Change Your Mind and Your Life)
 - http://a.co/cagzhAr (Give and Take: Why Helping Others Drives Our Success)
+- http://leadingsnowflakes.com/
 
 
 ## Food
