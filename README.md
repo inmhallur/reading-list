@@ -4,11 +4,11 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.quora.com/What-are-some-interesting-but-uncommon-instances-of-Monad/answer/Tikhon-Jelvis
 - https://www.cronweekly.com/
 - https://www.dwheeler.com/encodef/index.html
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
 - https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
-- https://www.youtube.com/watch?v=YkOY7DgXKyw (Building a Bank with Kubernetes by Oliver Beattie, Monzo)
 - https://www.youtube.com/watch?v=-czp0Y4Z36Y (Microservices Practitioner Summit - Don't Build a Distributed Monolith - Ben Christensen)
 - https://github.com/open-guides/og-aws
 - https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
@@ -28,6 +28,7 @@ Stuff I want to read
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
 - https://github.com/Chalarangelo/30-seconds-of-code
 - https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
+- https://monzo.com/blog/2017/11/29/very-robust-etcd/
 
 
 ## Read again
@@ -419,6 +420,7 @@ Stuff I want to read
 - http://a.co/6Bfislz (Learned Optimism: How to Change Your Mind and Your Life)
 - http://a.co/cagzhAr (Give and Take: Why Helping Others Drives Our Success)
 - http://leadingsnowflakes.com/
+- http://a.co/adkOzY5 (The Like Switch: An Ex-FBI Agent's Guide to Influencing, Attracing and Winning People Over)
 
 
 ## Food
