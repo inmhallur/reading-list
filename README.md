@@ -162,6 +162,13 @@ Stuff I want to read
 
 ## Kubernetes / Microservices
 
+- https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
+- https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
+- https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/
+- https://kubernetes.io/docs/reference/kubectl/overview/
+- https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/#what-is-a-replicationcontroller
+- https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://linkerd.io/
 - https://twitter.github.io/finagle/guide/
 
