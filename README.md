@@ -148,6 +148,7 @@ Stuff I want to read
 - https://wiki.haskell.org/Random_shuffle
 - https://www.fpcomplete.com/haskell-syllabus
 - http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf
+- https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis
 
 
 ## Creative
