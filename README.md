@@ -163,6 +163,7 @@ Stuff I want to read
 ## Kubernetes / Microservices
 
 - https://blog.alexellis.io/kubernetes-in-10-minutes/
+- http://kubernetesbyexample.com/
 - https://blog.jorgecastro.org/2017/07/21/tldring-your-way-to-a-kubernetes-bare-metal-cluster/
 - https://www.techrepublic.com/article/how-to-quickly-install-kubernetes-on-ubuntu/
 - https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
