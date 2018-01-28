@@ -29,6 +29,7 @@ Stuff I want to read
 - https://github.com/Chalarangelo/30-seconds-of-code
 - https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
 - https://monzo.com/blog/2017/11/29/very-robust-etcd/
+- https://news.ycombinator.com/item?id=16237462 (A practitioner's guide to reading programming language papers)
 
 
 ## Read again
@@ -70,6 +71,9 @@ Stuff I want to read
 - https://github.com/alexellis/handsondocker/
 - https://gist.github.com/jvns/26dbe9b84694362d9fc6c6fccbd05048 (Julia Evans list of tech blog followed)
 - https://www.openfaas.com/
+- https://news.ycombinator.com/item?id=16245817 (Terraforming 1Password)
+- https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
+- https://news.ycombinator.com/item?id=16244580 (VM escape vulnerabilities patched in VirtualBox)
 
 
 ## Haskell
