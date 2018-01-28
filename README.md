@@ -33,6 +33,7 @@ Stuff I want to read
 
 ## Read again
 
+- https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
 - https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
 - https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/
 - http://www.stephendiehl.com/posts/haskell_2018.html
@@ -66,6 +67,9 @@ Stuff I want to read
 - http://marshallbrain.com/million10.htm
 - https://www.dwheeler.com/oss_fs_why.html
 - https://hackernoon.com/transfer-learning-with-mxnet-gluon-8203005afafe
+- https://github.com/alexellis/handsondocker/
+- https://gist.github.com/jvns/26dbe9b84694362d9fc6c6fccbd05048 (Julia Evans list of tech blog followed)
+- https://www.openfaas.com/
 
 
 ## Haskell
@@ -162,11 +166,9 @@ Stuff I want to read
 
 ## Kubernetes / Microservices
 
-- https://blog.alexellis.io/kubernetes-in-10-minutes/
+- https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 - http://kubernetesbyexample.com/
-- https://blog.jorgecastro.org/2017/07/21/tldring-your-way-to-a-kubernetes-bare-metal-cluster/
 - https://www.techrepublic.com/article/how-to-quickly-install-kubernetes-on-ubuntu/
-- https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/
 - https://kubernetes.io/docs/reference/kubectl/overview/
@@ -175,6 +177,7 @@ Stuff I want to read
 https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://linkerd.io/
 - https://twitter.github.io/finagle/guide/
+- https://www.weave.works/docs/net/latest/kubernetes/kube-addon/
 
 
 ## Developer tools / Libraries
