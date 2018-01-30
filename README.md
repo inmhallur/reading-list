@@ -74,6 +74,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=16245817 (Terraforming 1Password)
 - https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
 - https://news.ycombinator.com/item?id=16244580 (VM escape vulnerabilities patched in VirtualBox)
+- http://opentracing.io/
 
 
 ## Haskell
