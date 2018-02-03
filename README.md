@@ -76,6 +76,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
 - https://news.ycombinator.com/item?id=16244580 (VM escape vulnerabilities patched in VirtualBox)
 - http://opentracing.io/
+- https://twitter.com/rothgar/status/959286363781611524?s=03 (SPIFFEio: An Open Standard for Identity in Cloud Native environments)
 
 
 ## Haskell
@@ -155,6 +156,7 @@ Stuff I want to read
 - https://www.fpcomplete.com/haskell-syllabus
 - http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf
 - https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis
+- https://twitter.com/owickstrom/status/959508996565667840?s=03 (YouTube video: Haskell at Work - Accumulating with WriterT)
 
 
 ## Creative
