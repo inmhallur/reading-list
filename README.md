@@ -30,6 +30,7 @@ Stuff I want to read
 - https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
 - https://monzo.com/blog/2017/11/29/very-robust-etcd/
 - https://news.ycombinator.com/item?id=16237462 (A practitioner's guide to reading programming language papers)
+- https://www.cisco.com/c/en/us/support/docs/ip/dynamic-address-allocation-resolution/13711-40.html
 
 
 ## Read again
@@ -441,6 +442,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/cagzhAr (Give and Take: Why Helping Others Drives Our Success)
 - http://leadingsnowflakes.com/
 - http://a.co/adkOzY5 (The Like Switch: An Ex-FBI Agent's Guide to Influencing, Attracing and Winning People Over)
+- http://a.co/2PG5r7A (Great at Work: How Top Performers Do Less, Work Better, and Achieve More)
 
 
 ## Food
