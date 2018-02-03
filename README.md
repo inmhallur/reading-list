@@ -77,6 +77,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=16244580 (VM escape vulnerabilities patched in VirtualBox)
 - http://opentracing.io/
 - https://twitter.com/rothgar/status/959286363781611524?s=03 (SPIFFEio: An Open Standard for Identity in Cloud Native environments)
+- https://news.ycombinator.com/item?id=16165042 (Some thoughts on Spectre and Meltdown)
 
 
 ## Haskell
@@ -157,6 +158,7 @@ Stuff I want to read
 - http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf
 - https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis
 - https://twitter.com/owickstrom/status/959508996565667840?s=03 (YouTube video: Haskell at Work - Accumulating with WriterT)
+- https://www.haskell.org/communities/11-2017/html/report.html (Haskell Communities and Activities Report: 33rd edition - Nov 2017)
 
 
 ## Creative
