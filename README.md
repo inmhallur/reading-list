@@ -25,12 +25,18 @@ Stuff I want to read
 - http://paxos.systems/
 - https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
 - http://ifeanyi.co/posts/understanding-consensus/
-- http://mattwetmore.me/posts/hakyll-custom-writer.html
 - https://github.com/Chalarangelo/30-seconds-of-code
 - https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
 - https://monzo.com/blog/2017/11/29/very-robust-etcd/
 - https://news.ycombinator.com/item?id=16237462 (A practitioner's guide to reading programming language papers)
 - https://www.cisco.com/c/en/us/support/docs/ip/dynamic-address-allocation-resolution/13711-40.html
+
+
+## Talks
+
+- https://www.youtube.com/watch?v=o3m2NkusI9k (CUFP 2013: Edward Kmett: Functional Reporting)
+- https://twitter.com/tweagio/status/942701229305679873 (FPConf 2017 talk video of "Using Haskell to Great Effect" by Arnaud Spiwack explains why Haskell's purity ends up (maybe surprisingly) helping us to test I/O functionality)
+- https://twitter.com/owickstrom/status/959508996565667840?s=03 (YouTube video: Haskell at Work - Accumulating with WriterT)
 
 
 ## Read again
@@ -82,82 +88,115 @@ Stuff I want to read
 
 ## Haskell
 
-- https://www.quora.com/To-what-extent-do-people-use-Haskell-at-their-work-place-How-do-they-use-it/answer/Edward-Kmett
-- https://stackoverflow.com/a/16951/732396 (Beginners Guide to Haskell?)
-- https://stackoverflow.com/a/1016986/732396
-- http://hao.codes/lenses-heart-json.html
-- https://artyom.me/aeson
-- https://two-wrongs.com/haskell-time-library-tutorial
-- http://howistart.org/posts/haskell/1/
+- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions
 - https://blog.jle.im/entry/streaming-huffman-compression-in-haskell-part-1-trees.html
-- https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts
 - https://haskell-lang.org/documentation
+- https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#ghc-flag--XRank2Types
+- http://www.haskellforall.com/2017/09/type-driven-strictness.html
+- https://www.quora.com/Whats-a-good-scripting-functional-programming-language-for-quick-and-dirty-tasks-like-scraping-a-website-or-parsing-logs-that-is-fast-to-prototype-in-and-has-lots-of-easy-to-use-libraries/answer/Tikhon-Jelvis
+- http://comonad.com/reader/2011/free-monads-for-less-3/
+- http://www.haskellforall.com/2013/12/equational-reasoning.html
+- http://www.haskellforall.com/2012/08/the-category-design-pattern.html
+- http://wiki.haskell.org/Existential_type
+- https://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form
+- http://reasonablypolymorphic.com/blog/recursion-schemes
+- http://www.parsonsmatt.org/2015/09/24/recursion.html
+- https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html
+- https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/
+- https://stackoverflow.com/questions/20870432/type-family-vs-data-family-in-brief
+- https://leonmergen.com/
 - https://en.wikibooks.org/wiki/Haskell/Continuation_passing_style
 - https://wiki.haskell.org/MonadCont_under_the_hood
+- https://news.ycombinator.com/item?id=1566704 ("very haskell ways" of writing directory traversals)
+- https://stackoverflow.com/questions/13352205/what-are-free-monads
+- https://twitter.com/k0001/status/942196512544706560 (safe-money: Money in the type system where it belongs)
+- https://blog.jle.im/entry/unique-sample-drawing-searches-with-list-and-statet.html
+- https://stackoverflow.com/questions/47829007/why-do-i-need-so-much-memory-for-writert-state/47839335#47839335
+- https://wiki.haskell.org/Random_shuffle
+- https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis
+
+### Mine the resources here
+
+- https://stackoverflow.com/a/16951/732396 (Beginners Guide to Haskell?)
+- https://stackoverflow.com/a/1016986/732396
+- https://userpages.uni-koblenz.de/~laemmel/paradigms1011/resources/pdf/haskell.pdf (There are other resources on the site)
+- https://www.fpcomplete.com/haskell-syllabus (can look at this and create a custom syllabus of sorts)
+
+### Performance
+
+- https://twitter.com/StephenPiment/status/942988464647127040 (The Haskell Performance Checklist)
+- https://twitter.com/mattoflambda/status/942831984564248576 (Haskell performance debugging)
+
+### Beginner tutorials
+
+- http://howistart.org/posts/haskell/1/
+- https://www.fpcomplete.com/blog/2016/08/bitrot-free-scripts
+- https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell
+
+### JSON Parsing
+
+- http://hao.codes/lenses-heart-json.html
+- https://artyom.me/aeson
+
+### Libraries
+
 - https://haskell-lang.org/libraries
+- https://two-wrongs.com/haskell-time-library-tutorial
+
+### Monad Transformers
+
 - https://www.reddit.com/r/haskellquestions/comments/3w9knl/resources_to_understand_monad_transformers/
 - http://catamorph.de/publications/2004-10-01-monad-transformers.html
 - https://ocharles.org.uk/blog/posts/2016-01-26-transformers-free-monads-mtl-laws.html
-- https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#ghc-flag--XRank2Types
+
+### Conduit
+
 - https://docs.google.com/presentation/d/1RBefOCZ7AKOo4f1yiF4mtKPAT3l5vY9ky2SR02O4Vvg/edit#slide=id.p16
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/conduit-overview
 - https://haskell-lang.org/library/conduit
 - https://github.com/snoyberg/conduit (Stopped at `Primitives` section)
-- http://www.haskellforall.com/2017/09/type-driven-strictness.html
-- https://www.quora.com/What-is-the-coolest-snippet-of-Haskell-code/answer/Dan-Piponi
-- https://github.com/serokell/importify
-- https://www.quora.com/Whats-a-good-scripting-functional-programming-language-for-quick-and-dirty-tasks-like-scraping-a-website-or-parsing-logs-that-is-fast-to-prototype-in-and-has-lots-of-easy-to-use-libraries/answer/Tikhon-Jelvis
+
+### Dependency injection
+
 - https://github.com/toddaaro/haskell-di
 - https://www.reddit.com/r/haskell/comments/6fn09r/dependency_injection_in_haskellfeedback_wanted/
-- https://userpages.uni-koblenz.de/~laemmel/paradigms1011/resources/pdf/haskell.pdf (There are other resources on the site)
-- http://comonad.com/reader/2011/free-monads-for-less-3/
+
+### Testing
+
 - https://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html
 - https://www.reddit.com/r/haskell/comments/5mrk20/haskell_testing_frameworks_what_do_you_use/
+- https://stackoverflow.com/questions/17615138/haskell-quickcheck-to-generate-and-test-rose-trees
+
+### Tools
+
+- https://github.com/serokell/importify
+- https://twitter.com/HaskellLibHunt/status/934695048582533120 (neovim-ghci: a fast-feedback interactive Haskell editing experience)
+- https://twitter.com/github_haskell/status/942527852565671936 (dumbwaiter - Extensible HTTP Web server configured entirely by a yaml file)
+
+### Style / indentation
+
 - https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md
 - https://github.com/jaspervdj/stylish-haskell/blob/master/README.markdown
-- http://planet.haskell.org/
-- https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
-- http://www.stephendiehl.com/posts/essential_haskell.html
-- https://blog.jle.im/entry/verified-instances-in-haskell.html
-- http://www.haskellforall.com/2013/12/equational-reasoning.html
-- http://www.haskellforall.com/2012/08/the-category-design-pattern.html
-- http://wiki.haskell.org/Existential_type
-- https://wiki.haskell.org/Category_theory/Natural_transformation
-- https://wiki.haskell.org/Category_theory/Monads
-- https://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form
+
+### Hakyll
+
+- https://www.blaenkdenum.com/posts/post-feed-in-hakyll/
+- http://mattwetmore.me/posts/hakyll-custom-writer.html
+
+### Harder stuff
+
 - https://news.ycombinator.com/item?id=15440108 (Functor-Oriented Programming responses on HN)
 - https://lobste.rs/s/walsxp/functor_oriented_programming (Functor-Oriented Programming responses on lobsters)
 - https://www.reddit.com/r/haskell/comments/75fo8k/functor_oriented_programming/ (Functor-Oriented Programming responses on Reddit)
-- http://reasonablypolymorphic.com/blog/recursion-schemes
-- https://twitter.com/HaskellLibHunt/status/934695048582533120
-- http://www.parsonsmatt.org/2015/09/24/recursion.html
-- https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell
-- https://www.blaenkdenum.com/posts/post-feed-in-hakyll/
 - https://github.com/lexi-lambda/freer-simple
-- https://a-tour-of-go-in-haskell.syocy.net/en_US/index.html
-- https://www.reddit.com/r/haskell/comments/4f47ou/why_does_haskell_in_your_opinion_suck/
-- https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/
-- https://stackoverflow.com/questions/20870432/type-family-vs-data-family-in-brief
-- https://leonmergen.com/
-- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions
-- https://news.ycombinator.com/item?id=1566704 ("very haskell ways" of writing directory traversals)
 - https://www.reddit.com/r/haskellquestions/comments/7jssi5/what_are_free_monoids/
-- https://stackoverflow.com/questions/13352205/what-are-free-monads
-- https://stackoverflow.com/questions/17615138/haskell-quickcheck-to-generate-and-test-rose-trees
-- https://twitter.com/k0001/status/942196512544706560 (safe-money: Money in the type system where it belongs)
 - https://twitter.com/GabrielG439/status/942233323077754881 (Apparently an import sanity check that Dhall inherited from Morte accidentally doubles as a security feature)
-- https://twitter.com/github_haskell/status/942527852565671936 (dumbwaiter - Extensible HTTP Web server configured entirely by a yaml file)
 - https://twitter.com/BartoszMilewski/status/942786660512751616 (Category Theory Crash Course from Lyon @ScalaIO_FR)
-- https://twitter.com/tweagio/status/942701229305679873 (FPConf 2017 talk video of "Using Haskell to Great Effect" by Arnaud Spiwack explains why Haskell's purity ends up (maybe surprisingly) helping us to test I/O functionality)
-- https://twitter.com/StephenPiment/status/942988464647127040 (The Haskell Performance Checklist)
+
+### Needs time
+
 - https://twitter.com/mstk/status/943260409250791424 (Justin Le advent of code StateT  + List + 'many')
-- https://twitter.com/mattoflambda/status/942831984564248576 (Haskell performance debugging)
-- https://stackoverflow.com/questions/47829007/why-do-i-need-so-much-memory-for-writert-state/47839335#47839335
-- https://wiki.haskell.org/Random_shuffle
-- https://www.fpcomplete.com/haskell-syllabus
 - http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf
-- https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis
-- https://twitter.com/owickstrom/status/959508996565667840?s=03 (YouTube video: Haskell at Work - Accumulating with WriterT)
 - https://www.haskell.org/communities/11-2017/html/report.html (Haskell Communities and Activities Report: 33rd edition - Nov 2017)
 
 
@@ -173,6 +212,8 @@ Stuff I want to read
 - https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
 - https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-probleⅿ
 - https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
+- https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+- http://www.stephendiehl.com/posts/essential_haskell.html (Collection of papers)
 
 
 ## Kubernetes / Microservices
