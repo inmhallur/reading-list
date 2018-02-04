@@ -338,6 +338,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
 - https://news.ycombinator.com/item?id=16017969 (No boundaries for user identities: Web trackers exploit browser login managers)
 - https://news.ycombinator.com/item?id=16244580 (VM escape vulnerabilities patched in VirtualBox)
+- https://firejail.wordpress.com/
+- https://wiki.archlinux.org/index.php/Firejail
 
 
 ## PostgreSQL
