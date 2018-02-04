@@ -2,41 +2,49 @@
 
 Stuff I want to read
 
+
 ## Priority
 
 - https://www.quora.com/What-are-some-interesting-but-uncommon-instances-of-Monad/answer/Tikhon-Jelvis
-- https://www.cronweekly.com/
-- https://www.dwheeler.com/encodef/index.html
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
-- https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
-- https://www.youtube.com/watch?v=-czp0Y4Z36Y (Microservices Practitioner Summit - Don't Build a Distributed Monolith - Ben Christensen)
+- https://www.dwheeler.com/encodef/index.html
 - https://github.com/open-guides/og-aws
-- https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
-- https://collegeinfogeek.com/about/meet-the-author/my-impossible-list/
-- https://github.com/safarijv/ncsa-logparse
-- https://mail.haskell.org/pipermail/libraries/2012-October/018599.html
-- https://github.com/koalaman/shellcheck
-- https://hackage.haskell.org/package/monad-unlift
-- https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
-- https://www.example42.com/tutorials/PuppetTutorial
-- https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read, just bookmark the interesting stuff)
 - https://statico.github.io/vim3.html
-- http://chrisdone.com/posts/hindent
-- http://paxos.systems/
-- https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
-- http://ifeanyi.co/posts/understanding-consensus/
-- https://github.com/Chalarangelo/30-seconds-of-code
-- https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
-- https://monzo.com/blog/2017/11/29/very-robust-etcd/
-- https://news.ycombinator.com/item?id=16237462 (A practitioner's guide to reading programming language papers)
 - https://www.cisco.com/c/en/us/support/docs/ip/dynamic-address-allocation-resolution/13711-40.html
+- https://news.ycombinator.com/item?id=16245817 (Terraforming 1Password)
+
+
+## Essays
+
+- http://marshallbrain.com/million10.htm
+- https://www.dwheeler.com/oss_fs_why.html
+- https://news.ycombinator.com/item?id=15980239 (Start your open source career)
+- https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
+- https://news.ycombinator.com/item?id=16237462 (A practitioner's guide to reading programming language papers)
+
+
+## Code to study
+
+- https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
+- https://github.com/safarijv/ncsa-logparse
+- https://monzo.com/blog/2017/11/29/very-robust-etcd/
+- http://opentracing.io/
+
+
+## Follow up work to do
+
+- https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read; note down the interesting stuff)
 
 
 ## Talks
 
+- https://www.youtube.com/watch?v=-czp0Y4Z36Y (Microservices Practitioner Summit - Don't Build a Distributed Monolith - Ben Christensen)
+- https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
 - https://www.youtube.com/watch?v=o3m2NkusI9k (CUFP 2013: Edward Kmett: Functional Reporting)
 - https://twitter.com/tweagio/status/942701229305679873 (FPConf 2017 talk video of "Using Haskell to Great Effect" by Arnaud Spiwack explains why Haskell's purity ends up (maybe surprisingly) helping us to test I/O functionality)
 - https://twitter.com/owickstrom/status/959508996565667840?s=03 (YouTube video: Haskell at Work - Accumulating with WriterT)
+- https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
+- https://twitter.com/rothgar/status/959286363781611524?s=03 (SPIFFEio: An Open Standard for Identity in Cloud Native environments)
 
 
 ## Read again
@@ -54,36 +62,6 @@ Stuff I want to read
 - https://github.com/scrooloose/nerdcommenter (vim plugin for intensely orgasmic commenting)
 - http://www.moolenaar.net/habits.html (7 habits of effective text editing - Bram Moolenaar)
 - https://www.dwheeler.com/essays/filenames-in-shell.html
-
-
-## Recent
-
-- https://github.com/alebcay/awesome-shell
-- http://www.catonmat.net/blog/ldd-arbitrary-code-execution/
-- https://stackoverflow.com/questions/21277170/postgresql-wrong-converting-from-timestamp-without-time-zone-to-timestamp-with-t
-- https://stackoverflow.com/questions/25456465/postgres-timestamp-with-timezone
-- http://www.craigkerstiens.com/2013/02/21/more-out-of-psql/
-- https://github.com/i0natan/nodebestpractices
-- https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
-- https://news.ycombinator.com/item?id=15919115 (Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to)
-- https://news.ycombinator.com/item?id=15988867 (Learn CSS Grid through interactive screencasts)
-- https://news.ycombinator.com/item?id=15980239 (Start your open source career)
-- https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
-- https://twitter.com/Neovim/status/942479640144351232?s=03
-- http://degoes.net/articles/modern-fp-part-2
-- https://news.ycombinator.com/item?id=16017969 (No boundaries for user identities: Web trackers exploit browser login managers)
-- http://marshallbrain.com/million10.htm
-- https://www.dwheeler.com/oss_fs_why.html
-- https://hackernoon.com/transfer-learning-with-mxnet-gluon-8203005afafe
-- https://github.com/alexellis/handsondocker/
-- https://gist.github.com/jvns/26dbe9b84694362d9fc6c6fccbd05048 (Julia Evans list of tech blog followed)
-- https://www.openfaas.com/
-- https://news.ycombinator.com/item?id=16245817 (Terraforming 1Password)
-- https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
-- https://news.ycombinator.com/item?id=16244580 (VM escape vulnerabilities patched in VirtualBox)
-- http://opentracing.io/
-- https://twitter.com/rothgar/status/959286363781611524?s=03 (SPIFFEio: An Open Standard for Identity in Cloud Native environments)
-- https://news.ycombinator.com/item?id=16165042 (Some thoughts on Spectre and Meltdown)
 
 
 ## Haskell
@@ -114,6 +92,9 @@ Stuff I want to read
 - https://stackoverflow.com/questions/47829007/why-do-i-need-so-much-memory-for-writert-state/47839335#47839335
 - https://wiki.haskell.org/Random_shuffle
 - https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis
+- https://hackage.haskell.org/package/monad-unlift
+- https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
+- http://degoes.net/articles/modern-fp-part-2
 
 ### Mine the resources here
 
@@ -175,6 +156,7 @@ Stuff I want to read
 
 ### Style / indentation
 
+- http://chrisdone.com/posts/hindent
 - https://github.com/tibbe/haskell-style-guide/blob/master/haskell-style.md
 - https://github.com/jaspervdj/stylish-haskell/blob/master/README.markdown
 
@@ -200,20 +182,13 @@ Stuff I want to read
 - https://www.haskell.org/communities/11-2017/html/report.html (Haskell Communities and Activities Report: 33rd edition - Nov 2017)
 
 
-## Creative
+## DevOps / SRE / Systems
 
-- https://github.com/toddmotto/public-apis (Collective List of public JSON APIs for use in web development)
-
-
-## Haskell backburner
-
-- http://www.stephendiehl.com/posts/strings.html
-- http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
-- https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
-- https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-probleⅿ
-- https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
-- https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
-- http://www.stephendiehl.com/posts/essential_haskell.html (Collection of papers)
+- https://www.example42.com/tutorials/PuppetTutorial
+- https://github.com/alexellis/handsondocker/
+- https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
+- https://news.ycombinator.com/item?id=16165042 (Some thoughts on Spectre and Meltdown)
+- https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates (How to Use Certbot Standalone Mode for Let's Encrypt Certificates)
 
 
 ## Kubernetes / Microservices
@@ -234,6 +209,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 ## Developer tools / Libraries
 
+- https://github.com/koalaman/shellcheck
 - https://github.com/nvbn/thefuck
 - https://news.ycombinator.com/item?id=13936792 (tmuxp)
 - https://github.com/thumbtack/pgdoctor
@@ -250,6 +226,16 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.gnu.org/software/global/  (there's hothasktags on links page: https://www.gnu.org/software/global/links.html)
 - https://github.com/jakubroztocil/httpie
 - http://httpd.apache.org/docs/2.4/programs/ab.html
+
+
+## Creative
+
+- https://github.com/toddmotto/public-apis (Collective List of public JSON APIs for use in web development)
+
+
+## Lists
+
+- https://github.com/alebcay/awesome-shell
 
 
 ## Tech blogs / similar
@@ -348,13 +334,17 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://news.ycombinator.com/item?id=14321498 (Ask HN: How do you manage SSH keys and SSL certificates in your company?)
 - https://news.ycombinator.com/item?id=8826024 (Environment Variables Considered Harmful for your secrets)
 - https://www.troyhunt.com/how-to-build-and-how-not-to-build/  (How to build and how not to build a secure "remember me" feature)
+- http://www.catonmat.net/blog/ldd-arbitrary-code-execution/
+- https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
+- https://news.ycombinator.com/item?id=16017969 (No boundaries for user identities: Web trackers exploit browser login managers)
+- https://news.ycombinator.com/item?id=16244580 (VM escape vulnerabilities patched in VirtualBox)
 
 
-## JavaScript
+## PostgreSQL
 
-- https://github.com/bpesquet/thejsway (The JavaScript Way book)
-- https://github.com/babel/babel
-- https://github.com/webpack/webpack
+- https://stackoverflow.com/questions/21277170/postgresql-wrong-converting-from-timestamp-without-time-zone-to-timestamp-with-t
+- https://stackoverflow.com/questions/25456465/postgres-timestamp-with-timezone
+- http://www.craigkerstiens.com/2013/02/21/more-out-of-psql/
 
 
 ## Python
@@ -378,14 +368,9 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 
 
-## Systems
+## CSS
 
-- https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates (How to Use Certbot Standalone Mode for Let's Encrypt Certificates)
-
-
-## Share with friends
-
-- https://www.quora.com/Do-Chinese-people-have-creativity/answer/Michelle-Zhou-28
+- https://news.ycombinator.com/item?id=15988867 (Learn CSS Grid through interactive screencasts)
 
 
 ## Real examples of data analysis
@@ -466,11 +451,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - ftp://ftp.sas.com/pub/neural/illcond/illcond.html
 
 
-## Read if we have too much time
-
-- https://news.ycombinator.com/item?id=15131981 (Reducing Python's startup time)
-
-
 ## Books to check out
 
 - http://a.co/42wFrXo (Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort)
@@ -490,7 +470,41 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/2PG5r7A (Great at Work: How Top Performers Do Less, Work Better, and Achieve More)
 
 
+## Resource Mining (may be time consuming)
+
+- https://www.cronweekly.com/
+
+
 ## Food
 
 - https://www.quora.com/Whats-the-best-way-to-make-a-grilled-cheese-sandwich/answer/MJ-Wesner-1
 - https://www.quora.com/Why-do-Italians-never-use-chicken-in-pasta-and-blame-people-who-do-it/answer/Stefano-Petri
+
+
+## JavaScript
+
+- https://github.com/bpesquet/thejsway (The JavaScript Way book)
+- https://github.com/babel/babel
+- https://github.com/webpack/webpack
+- https://github.com/Chalarangelo/30-seconds-of-code
+- https://github.com/i0natan/nodebestpractices
+
+
+## Backburner
+
+- http://paxos.systems/
+- https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
+- http://ifeanyi.co/posts/understanding-consensus/
+- https://news.ycombinator.com/item?id=15919115 (Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to)
+- https://news.ycombinator.com/item?id=15131981 (Reducing Python's startup time)
+
+
+## Haskell backburner
+
+- http://www.stephendiehl.com/posts/strings.html
+- http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
+- https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
+- https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-probleⅿ
+- https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
+- https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+- http://www.stephendiehl.com/posts/essential_haskell.html (Collection of papers)
