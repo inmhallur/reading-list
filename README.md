@@ -12,6 +12,9 @@ Stuff I want to read
 - https://statico.github.io/vim3.html
 - https://www.cisco.com/c/en/us/support/docs/ip/dynamic-address-allocation-resolution/13711-40.html
 - https://news.ycombinator.com/item?id=16245817 (Terraforming 1Password)
+- https://www.quora.com/Why-do-I-feel-like-a-failure-How-can-I-stop-feeling-this-way/answer/James-Altucher
+- https://www.quora.com/How-do-I-get-my-life-back-on-track/answer/Nancy-Hua?srid=X3Zc&share=1
+- https://www.quora.com/How-do-large-service-oriented-web-services-such-as-Amazon-Facebook-Twitter-others-do-integration-testing-across-services/answer/Kah-Seng-Tay
 
 
 ## Essays
@@ -269,6 +272,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://twitter.com/bertvanvreckem/status/926146879603265536 (Vim cheatsheets)
 - http://www.drbunsen.org/vim-croquet/
 - https://raw.githubusercontent.com/dahu/LearnVim/master/doc/learnvim.txt
+- https://mislav.net/2011/12/vim-revisited/
 
 ### vim plugins
 
