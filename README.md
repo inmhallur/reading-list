@@ -15,6 +15,7 @@ Stuff I want to read
 - https://www.quora.com/Why-do-I-feel-like-a-failure-How-can-I-stop-feeling-this-way/answer/James-Altucher
 - https://www.quora.com/How-do-I-get-my-life-back-on-track/answer/Nancy-Hua?srid=X3Zc&share=1
 - https://www.quora.com/How-do-large-service-oriented-web-services-such-as-Amazon-Facebook-Twitter-others-do-integration-testing-across-services/answer/Kah-Seng-Tay
+- https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
 
 
 ## Essays
@@ -98,6 +99,7 @@ Stuff I want to read
 - https://hackage.haskell.org/package/monad-unlift
 - https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
 - http://degoes.net/articles/modern-fp-part-2
+- https://www.snoyman.com/blog/2018/02/conduitpocalypse (there are many links here, bookmark them)
 
 ### Mine the resources here
 
