@@ -100,6 +100,8 @@ Stuff I want to read
 - https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
 - http://degoes.net/articles/modern-fp-part-2
 - https://www.snoyman.com/blog/2018/02/conduitpocalypse (there are many links here, bookmark them)
+- http://www.haskellforall.com/2018/02/the-wizard-monoid.html
+- https://www.tweag.io/posts/2018-02-05-free-monads.html
 
 ### Mine the resources here
 
