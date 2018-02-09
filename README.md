@@ -484,6 +484,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://leadingsnowflakes.com/
 - http://a.co/adkOzY5 (The Like Switch: An Ex-FBI Agent's Guide to Influencing, Attracing and Winning People Over)
 - http://a.co/2PG5r7A (Great at Work: How Top Performers Do Less, Work Better, and Achieve More)
+- https://www.bookdepository.com/Continuous-Delivery-Jez-Humble/9780321601919 (Continuous Delivery: Reliable Software Releases through Build, Test and Deployment Automation)
 
 
 ## Resource Mining (may be time consuming)
