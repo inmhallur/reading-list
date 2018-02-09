@@ -19,8 +19,6 @@ Stuff I want to read
 
 ## top
 
-- http://www.tech-faq.com/how-to-use-the-unix-top-command.html
-- https://www.linode.com/docs/uptime/monitoring/top-htop-iotop/
 - https://coskan.wordpress.com/2008/12/22/how-to-use-top-effectivelly-on-linux-as-a-dba/
 
 
