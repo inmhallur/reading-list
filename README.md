@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages
 - https://www.quora.com/What-are-some-interesting-but-uncommon-instances-of-Monad/answer/Tikhon-Jelvis
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
 - https://www.dwheeler.com/encodef/index.html
@@ -16,10 +17,6 @@ Stuff I want to read
 - https://www.quora.com/How-do-I-get-my-life-back-on-track/answer/Nancy-Hua?srid=X3Zc&share=1
 - https://www.quora.com/How-do-large-service-oriented-web-services-such-as-Amazon-Facebook-Twitter-others-do-integration-testing-across-services/answer/Kah-Seng-Tay
 - https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
-
-## top
-
-- https://coskan.wordpress.com/2008/12/22/how-to-use-top-effectivelly-on-linux-as-a-dba/
 
 
 ## Essays
