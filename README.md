@@ -5,8 +5,6 @@ Stuff I want to read
 
 ## Priority
 
-- http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages
-- https://www.quora.com/What-are-some-interesting-but-uncommon-instances-of-Monad/answer/Tikhon-Jelvis
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
 - https://www.dwheeler.com/encodef/index.html
 - https://github.com/open-guides/og-aws
