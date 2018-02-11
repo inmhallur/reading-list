@@ -9,7 +9,6 @@ Stuff I want to read
 - https://www.dwheeler.com/encodef/index.html
 - https://github.com/open-guides/og-aws
 - https://statico.github.io/vim3.html
-- https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
 - https://www.sec.gov/reportspubs/investor-publications/investorpubsbegfinstmtguidehtm.html
 
 
@@ -62,6 +61,7 @@ Stuff I want to read
 - http://www.moolenaar.net/habits.html (7 habits of effective text editing - Bram Moolenaar)
 - https://www.dwheeler.com/essays/filenames-in-shell.html
 - https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
+- https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
 
 
 ## Haskell
