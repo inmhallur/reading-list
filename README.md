@@ -480,6 +480,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 ## Resource Mining (may be time consuming)
 
 - https://www.cronweekly.com/
+- https://ro-che.info/articles/
 
 
 ## Food
