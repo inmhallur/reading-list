@@ -10,6 +10,7 @@ Stuff I want to read
 - https://github.com/open-guides/og-aws
 - https://statico.github.io/vim3.html
 - https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
+- https://www.sec.gov/reportspubs/investor-publications/investorpubsbegfinstmtguidehtm.html
 
 
 ## Essays
