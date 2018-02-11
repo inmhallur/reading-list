@@ -9,10 +9,6 @@ Stuff I want to read
 - https://www.dwheeler.com/encodef/index.html
 - https://github.com/open-guides/og-aws
 - https://statico.github.io/vim3.html
-- https://www.cisco.com/c/en/us/support/docs/ip/dynamic-address-allocation-resolution/13711-40.html
-- https://www.quora.com/Why-do-I-feel-like-a-failure-How-can-I-stop-feeling-this-way/answer/James-Altucher
-- https://www.quora.com/How-do-I-get-my-life-back-on-track/answer/Nancy-Hua?srid=X3Zc&share=1
-- https://www.quora.com/How-do-large-service-oriented-web-services-such-as-Amazon-Facebook-Twitter-others-do-integration-testing-across-services/answer/Kah-Seng-Tay
 - https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
 - https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
 
