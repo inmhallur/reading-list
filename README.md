@@ -10,6 +10,7 @@ Stuff I want to read
 - https://github.com/open-guides/og-aws
 - https://statico.github.io/vim3.html
 - https://www.sec.gov/reportspubs/investor-publications/investorpubsbegfinstmtguidehtm.html
+- https://news.ycombinator.com/item?id=14444914 (How to improve a legacy codebase)
 
 
 ## Essays
