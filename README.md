@@ -11,6 +11,9 @@ Stuff I want to read
 - https://statico.github.io/vim3.html
 - https://www.sec.gov/reportspubs/investor-publications/investorpubsbegfinstmtguidehtm.html
 - https://news.ycombinator.com/item?id=14444914 (How to improve a legacy codebase)
+- https://docs.docker.com/config/containers/runmetrics/#find-the-cgroup-for-a-given-container
+- https://docs.docker.com/engine/reference/run/#swappiness-constraint
+- https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf (John Hughes: Why Functional Programming matters)
 
 
 ## Essays
@@ -28,6 +31,8 @@ Stuff I want to read
 - https://github.com/safarijv/ncsa-logparse
 - https://monzo.com/blog/2017/11/29/very-robust-etcd/
 - http://opentracing.io/
+- https://github.com/themoritz/diener
+- https://github.com/haskell-servant/example-servant-minimal
 
 
 ## Follow up work to do
@@ -63,6 +68,7 @@ Stuff I want to read
 - https://www.dwheeler.com/essays/filenames-in-shell.html
 - https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
 - https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
+- https://www.quora.com/How-harmful-is-Haskells-error-system-when-it-comes-to-pure-functions-in-the-real-world/answer/Tikhon-Jelvis
 
 
 ## Haskell
@@ -99,6 +105,8 @@ Stuff I want to read
 - https://www.snoyman.com/blog/2018/02/conduitpocalypse (there are many links here, bookmark them)
 - http://www.haskellforall.com/2018/02/the-wizard-monoid.html
 - https://www.tweag.io/posts/2018-02-05-free-monads.html
+- https://stackoverflow.com/questions/3276240/tools-for-analyzing-performance-of-a-haskell-program
+- http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf (Monads for functional programming)
 
 ### Mine the resources here
 
@@ -178,6 +186,10 @@ Stuff I want to read
 - https://www.reddit.com/r/haskellquestions/comments/7jssi5/what_are_free_monoids/
 - https://twitter.com/GabrielG439/status/942233323077754881 (Apparently an import sanity check that Dhall inherited from Morte accidentally doubles as a security feature)
 - https://twitter.com/BartoszMilewski/status/942786660512751616 (Category Theory Crash Course from Lyon @ScalaIO_FR)
+
+### Papers
+
+- https://ncatlab.org/nlab/files/WadlerMonads.pdf (Phil Wadler: Comprehending Monads)
 
 ### Needs time
 
@@ -477,6 +489,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/2PG5r7A (Great at Work: How Top Performers Do Less, Work Better, and Achieve More)
 - https://www.bookdepository.com/Continuous-Delivery-Jez-Humble/9780321601919 (Continuous Delivery: Reliable Software Releases through Build, Test and Deployment Automation)
 - https://www.goodreads.com/book/show/32708206-algorithms-to-live-by
+- http://a.co/c5VxFGo (The Medici Effect: What Elephants and Epidemics can teach us about innovation)
 
 
 ## Resource Mining (may be time consuming)
