@@ -69,6 +69,7 @@ Stuff I want to read
 - https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
 - https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
 - https://www.quora.com/How-harmful-is-Haskells-error-system-when-it-comes-to-pure-functions-in-the-real-world/answer/Tikhon-Jelvis
+- https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/
 
 
 ## Haskell
