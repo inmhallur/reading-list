@@ -14,6 +14,7 @@ Stuff I want to read
 - https://docs.docker.com/config/containers/runmetrics/#find-the-cgroup-for-a-given-container
 - https://docs.docker.com/engine/reference/run/#swappiness-constraint
 - https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf (John Hughes: Why Functional Programming matters)
+- https://www.reddit.com/r/haskell/comments/7xlx41/i_wrote_something_while_trying_to_learn_type/
 
 
 ## Essays
