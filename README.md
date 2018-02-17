@@ -9,12 +9,12 @@ Stuff I want to read
 - https://www.dwheeler.com/encodef/index.html
 - https://github.com/open-guides/og-aws
 - https://statico.github.io/vim3.html
-- https://www.sec.gov/reportspubs/investor-publications/investorpubsbegfinstmtguidehtm.html
-- https://news.ycombinator.com/item?id=14444914 (How to improve a legacy codebase)
 - https://docs.docker.com/config/containers/runmetrics/#find-the-cgroup-for-a-given-container
 - https://docs.docker.com/engine/reference/run/#swappiness-constraint
 - https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf (John Hughes: Why Functional Programming matters)
 - https://www.reddit.com/r/haskell/comments/7xlx41/i_wrote_something_while_trying_to_learn_type/
+- https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html
+- http://siek.blogspot.sg/2012/07/crash-course-on-notation-in-programming.html
 
 
 ## Essays
@@ -23,7 +23,6 @@ Stuff I want to read
 - https://www.dwheeler.com/oss_fs_why.html
 - https://news.ycombinator.com/item?id=15980239 (Start your open source career)
 - https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
-- https://news.ycombinator.com/item?id=16237462 (A practitioner's guide to reading programming language papers)
 
 
 ## Code to study
