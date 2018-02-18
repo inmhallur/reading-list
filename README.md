@@ -9,7 +9,6 @@ Stuff I want to read
 - https://www.dwheeler.com/encodef/index.html
 - https://github.com/open-guides/og-aws
 - https://statico.github.io/vim3.html
-- https://docs.docker.com/config/containers/runmetrics/#find-the-cgroup-for-a-given-container
 - https://docs.docker.com/engine/reference/run/#swappiness-constraint
 - https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf (John Hughes: Why Functional Programming matters)
 - https://www.reddit.com/r/haskell/comments/7xlx41/i_wrote_something_while_trying_to_learn_type/
@@ -497,6 +496,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.bookdepository.com/Continuous-Delivery-Jez-Humble/9780321601919 (Continuous Delivery: Reliable Software Releases through Build, Test and Deployment Automation)
 - https://www.goodreads.com/book/show/32708206-algorithms-to-live-by
 - http://a.co/c5VxFGo (The Medici Effect: What Elephants and Epidemics can teach us about innovation)
+- http://a.co/4iM98al (The Power of Habit: Why We Do What We Do in Life and Business [Charles Duhigg])
 
 
 ## Resource Mining (may be time consuming)
