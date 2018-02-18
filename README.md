@@ -15,6 +15,10 @@ Stuff I want to read
 - https://www.reddit.com/r/haskell/comments/7xlx41/i_wrote_something_while_trying_to_learn_type/
 - https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html
 - http://siek.blogspot.sg/2012/07/crash-course-on-notation-in-programming.html
+- http://blog.scoutapp.com/articles/2014/11/04/restricting-process-cpu-usage-using-nice-cpulimit-and-cgroups
+- http://blog.scalyr.com/2017/11/creating-audit-trail-business/
+- https://www.daedtech.com/want-matter-software-industry-stop-laborer/
+- https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
 
 
 ## Essays
@@ -187,6 +191,7 @@ Stuff I want to read
 - https://www.reddit.com/r/haskellquestions/comments/7jssi5/what_are_free_monoids/
 - https://twitter.com/GabrielG439/status/942233323077754881 (Apparently an import sanity check that Dhall inherited from Morte accidentally doubles as a security feature)
 - https://twitter.com/BartoszMilewski/status/942786660512751616 (Category Theory Crash Course from Lyon @ScalaIO_FR)
+- https://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki
 
 ### Papers
 
@@ -287,6 +292,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://www.drbunsen.org/vim-croquet/
 - https://raw.githubusercontent.com/dahu/LearnVim/master/doc/learnvim.txt
 - https://mislav.net/2011/12/vim-revisited/
+- http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 
 ### vim plugins
 
@@ -497,6 +503,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 - https://www.cronweekly.com/
 - https://ro-che.info/articles/
+- https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read?lq=1
 
 
 ## Food
