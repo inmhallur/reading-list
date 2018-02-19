@@ -193,6 +193,15 @@ Stuff I want to read
 - https://www.haskell.org/communities/11-2017/html/report.html (Haskell Communities and Activities Report: 33rd edition - Nov 2017)
 
 
+## Concurrency
+
+- http://a.co/fn6vB3z (Java Concurrency in Practice)
+- http://a.co/3SGv8kq (The Art of Multiprocessor Programming)
+- https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
+- https://docs.oracle.com/javase/tutorial/essential/concurrency/
+- http://greenteapress.com/wp/semaphores/ (The Little Book of Semaphores)
+
+
 ## DevOps / SRE / Systems
 
 - https://www.example42.com/tutorials/PuppetTutorial
