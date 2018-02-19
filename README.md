@@ -6,24 +6,14 @@ Stuff I want to read
 ## Priority
 
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
-- https://www.dwheeler.com/encodef/index.html
 - https://github.com/open-guides/og-aws
-- https://statico.github.io/vim3.html
-- https://docs.docker.com/engine/reference/run/#swappiness-constraint
-- https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf (John Hughes: Why Functional Programming matters)
 - https://www.reddit.com/r/haskell/comments/7xlx41/i_wrote_something_while_trying_to_learn_type/
 - https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html
 - http://siek.blogspot.sg/2012/07/crash-course-on-notation-in-programming.html
-- http://blog.scoutapp.com/articles/2014/11/04/restricting-process-cpu-usage-using-nice-cpulimit-and-cgroups
-- http://blog.scalyr.com/2017/11/creating-audit-trail-business/
-- https://www.daedtech.com/want-matter-software-industry-stop-laborer/
-- https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
 
 
 ## Essays
 
-- http://marshallbrain.com/million10.htm
-- https://www.dwheeler.com/oss_fs_why.html
 - https://news.ycombinator.com/item?id=15980239 (Start your open source career)
 - https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
 
@@ -236,7 +226,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/thumbtack/pgdoctor
 - https://www.gnu.org/software/libmicrohttpd/
 - https://mosh.org/
-- https://github.com/mooz/percol
 - https://github.com/junegunn/fzf
 - https://github.com/BurntSushi/ripgrep
 - https://github.com/simeji/jid
@@ -292,6 +281,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://raw.githubusercontent.com/dahu/LearnVim/master/doc/learnvim.txt
 - https://mislav.net/2011/12/vim-revisited/
 - http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
+- https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
 
 ### vim plugins
 
@@ -484,7 +474,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/8tVS8Tc (Leaders Eat Last: Why Some Teams Pull Together and Others Don't [Simon Sinek])
 - http://a.co/885xxkp (All Marketers are Liars: The Underground Classic That Explains How Marketing Really Works -- and Why Authenticity is the Best Marketing of All [Seth Godin])
 - http://a.co/7NEo83B (Getting to Yes: Negotiating Agreement Without Giving in)
-- http://a.co/eMXrvTB (The Power of Habit: Why We Do What We Do in Life and Business)
 - http://a.co/8KmP3aP (Where Good Ideas Come From: The Natural History of Innovation)
 - http://a.co/2KU3ux3 (Man's Search for Meaning)
 - http://a.co/chnzFLU (The Power of Full Engagement: Managing Energy Not Time, Is the Key to High Performance)
@@ -497,6 +486,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.goodreads.com/book/show/32708206-algorithms-to-live-by
 - http://a.co/c5VxFGo (The Medici Effect: What Elephants and Epidemics can teach us about innovation)
 - http://a.co/4iM98al (The Power of Habit: Why We Do What We Do in Life and Business [Charles Duhigg])
+- http://a.co/cQ41Ze1 (Developer Hegemony: the future of Labor)
 
 
 ## Resource Mining (may be time consuming)
@@ -504,12 +494,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.cronweekly.com/
 - https://ro-che.info/articles/
 - https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read?lq=1
-
-
-## Food
-
-- https://www.quora.com/Whats-the-best-way-to-make-a-grilled-cheese-sandwich/answer/MJ-Wesner-1
-- https://www.quora.com/Why-do-Italians-never-use-chicken-in-pasta-and-blame-people-who-do-it/answer/Stefano-Petri
 
 
 ## JavaScript
