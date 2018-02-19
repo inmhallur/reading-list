@@ -5,8 +5,6 @@ Stuff I want to read
 
 ## Priority
 
-- https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
-- https://github.com/open-guides/og-aws
 - https://www.reddit.com/r/haskell/comments/7xlx41/i_wrote_something_while_trying_to_learn_type/
 - https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html
 - http://siek.blogspot.sg/2012/07/crash-course-on-notation-in-programming.html
@@ -14,6 +12,7 @@ Stuff I want to read
 
 ## Essays
 
+- https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
 - https://news.ycombinator.com/item?id=15980239 (Start your open source career)
 - https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
 
@@ -51,7 +50,6 @@ Stuff I want to read
 - https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/
 - http://www.stephendiehl.com/posts/haskell_2018.html
 - https://stackoverflow.com/questions/17137111/why-isnt-generalizednewtypederiving-a-safe-haskell
-- https://www.quora.com/What-is-a-Comonad-and-when-should-I-use-them/answer/Bartosz-Milewski
 - https://markkarpov.com/post/free-monad-considered-harmful.html
 - https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
 - https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell
@@ -204,6 +202,7 @@ Stuff I want to read
 
 ## DevOps / SRE / Systems
 
+- https://github.com/open-guides/og-aws
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://github.com/alexellis/handsondocker/
 - https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
