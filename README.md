@@ -8,23 +8,24 @@ Stuff I want to read
 - https://www.reddit.com/r/haskell/comments/7xlx41/i_wrote_something_while_trying_to_learn_type/
 - https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html
 - http://siek.blogspot.sg/2012/07/crash-course-on-notation-in-programming.html
+- https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
+- http://abailly.github.io/posts/cm-infra-1.html
+- http://abailly.github.io/posts/cm-infra-2.html
+- https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
+- https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
+- http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html
 
 
 ## Essays
 
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
-- https://news.ycombinator.com/item?id=15980239 (Start your open source career)
 - https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
 
 
 ## Code to study
 
-- https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
-- https://github.com/safarijv/ncsa-logparse
 - https://monzo.com/blog/2017/11/29/very-robust-etcd/
 - http://opentracing.io/
-- https://github.com/themoritz/diener
-- https://github.com/haskell-servant/example-servant-minimal
 
 
 ## Follow up work to do
@@ -34,13 +35,27 @@ Stuff I want to read
 
 ## Talks
 
-- https://www.youtube.com/watch?v=-czp0Y4Z36Y (Microservices Practitioner Summit - Don't Build a Distributed Monolith - Ben Christensen)
 - https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
 - https://www.youtube.com/watch?v=o3m2NkusI9k (CUFP 2013: Edward Kmett: Functional Reporting)
 - https://twitter.com/tweagio/status/942701229305679873 (FPConf 2017 talk video of "Using Haskell to Great Effect" by Arnaud Spiwack explains why Haskell's purity ends up (maybe surprisingly) helping us to test I/O functionality)
-- https://twitter.com/owickstrom/status/959508996565667840?s=03 (YouTube video: Haskell at Work - Accumulating with WriterT)
 - https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
 - https://twitter.com/rothgar/status/959286363781611524?s=03 (SPIFFEio: An Open Standard for Identity in Cloud Native environments)
+- https://www.youtube.com/watch?v=6COvD8oynmI (Adventure with Types in Haskell - Simon Peyton Jones (Lecture 1))
+- https://www.youtube.com/watch?v=ZhuHCtR3xq8 (Brian Beckman: Don't fear the Monad)
+- https://www.youtube.com/watch?v=b9FagOVqxmI (Haskell Amuse-Bouche)
+- https://www.youtube.com/watch?v=hjpzLXoUu1Y (An Introduction to JVM Performance by Rafael Winterhalter)
+- https://www.youtube.com/watch?v=1D8hyLWMtfM (How to build an event driven, dynamically re configurable micro services platform by Sven Beauprez)
+- https://www.youtube.com/watch?v=fkkFC-t61Mk (The Anatomy of Java Vulnerabilities by Steven Poole)
+- https://www.youtube.com/watch?v=pUA83-e82qI (Troubleshooting and Debugging Production Microservices in Kubernetes by Ray Tsang, Baruch Sadogursky)
+- https://www.youtube.com/watch?v=yaLq88OjfoQ (Blue Team Security Actual Security work for Actual Developers by Siren Hofvander)
+- https://www.youtube.com/watch?v=u8nb_7TW-Ag (Devops @Scale by Baruch Sadogursky)
+- https://www.youtube.com/watch?v=KlfbAneiMNw (Reflecting on 5 years of Haskell in production - Alexander Thiemann)
+- https://www.youtube.com/watch?v=sl2zo7tzrO8 (The Road to Running Haskell at Facebook Scale - Jon Coens)
+- https://www.youtube.com/watch?v=IOiZatlZtGU (Propositions as Types by Philip Wadler)
+- https://www.youtube.com/watch?v=RoXT_Rkg8LA (Intro to gRPC: A Modern Toolkit for Microservice Communication)
+- https://www.youtube.com/watch?v=FnaD4xS_hHY (LambdaConf 2015 - Developing Web Applications with Haskell - Alejandro Serrano Mena)
+- https://www.youtube.com/watch?v=wNa3MMbhwS4 (Dependent Types in Haskell by Stephanie Weirich)
+- https://www.youtube.com/watch?v=3s7h2MHQtxc (Hilbert's Curve: Is Infinite math useful?)
 
 
 ## Read again
@@ -48,7 +63,6 @@ Stuff I want to read
 - https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
 - https://two-wrongs.com/pomohoro-combine-pomodoro-technique-hledger-timeclock-productivity
 - https://lexi-lambda.github.io/blog/2017/04/28/lifts-for-free-making-mtl-typeclasses-derivable/
-- http://www.stephendiehl.com/posts/haskell_2018.html
 - https://stackoverflow.com/questions/17137111/why-isnt-generalizednewtypederiving-a-safe-haskell
 - https://markkarpov.com/post/free-monad-considered-harmful.html
 - https://www.fpcomplete.com/blog/2017/06/readert-design-pattern
@@ -61,6 +75,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
 - https://www.quora.com/How-harmful-is-Haskells-error-system-when-it-comes-to-pure-functions-in-the-real-world/answer/Tikhon-Jelvis
 - https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/
+- http://dev.stephendiehl.com/hask/
 
 
 ## Haskell
@@ -106,6 +121,8 @@ Stuff I want to read
 - https://stackoverflow.com/a/1016986/732396
 - https://userpages.uni-koblenz.de/~laemmel/paradigms1011/resources/pdf/haskell.pdf (There are other resources on the site)
 - https://www.fpcomplete.com/haskell-syllabus (can look at this and create a custom syllabus of sorts)
+- https://github.com/hzlmn/haskell-must-watch
+- https://stackoverflow.com/questions/6398996/good-haskell-source-to-read-and-learn-from
 
 ### Performance
 
@@ -127,6 +144,8 @@ Stuff I want to read
 
 - https://haskell-lang.org/libraries
 - https://two-wrongs.com/haskell-time-library-tutorial
+- https://github.com/Gabriel439/Haskell-Turtle-Library
+- https://github.com/jaspervdj/patat
 
 ### Monad Transformers
 
@@ -157,6 +176,9 @@ Stuff I want to read
 - https://github.com/serokell/importify
 - https://twitter.com/HaskellLibHunt/status/934695048582533120 (neovim-ghci: a fast-feedback interactive Haskell editing experience)
 - https://twitter.com/github_haskell/status/942527852565671936 (dumbwaiter - Extensible HTTP Web server configured entirely by a yaml file)
+- https://github.com/aol/moloch
+- https://github.com/facebook/osquery
+- https://github.com/firehol/netdata
 
 ### Style / indentation
 
@@ -168,6 +190,14 @@ Stuff I want to read
 
 - https://www.blaenkdenum.com/posts/post-feed-in-hakyll/
 - http://mattwetmore.me/posts/hakyll-custom-writer.html
+
+### Haskell code to study
+
+- https://github.com/themoritz/diener
+- https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
+- https://github.com/safarijv/ncsa-logparse
+- https://github.com/haskell-servant/example-servant-minimal
+- https://github.com/lpaste/lpaste
 
 ### Harder stuff
 
@@ -189,6 +219,11 @@ Stuff I want to read
 - https://twitter.com/mstk/status/943260409250791424 (Justin Le advent of code StateT  + List + 'many')
 - http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf
 - https://www.haskell.org/communities/11-2017/html/report.html (Haskell Communities and Activities Report: 33rd edition - Nov 2017)
+
+### Can translate to Haskell
+
+- https://github.com/nomad-software/meme
+- https://github.com/arc90/git-sweep
 
 
 ## Concurrency
@@ -256,16 +291,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/alebcay/awesome-shell
 
 
-## Tech blogs / similar
-
-- https://two-wrongs.com/
-- http://taylor.fausak.me/
-- https://kseo.github.io
-- http://abailly.github.io/
-- http://blog.ssanj.net/archive.html
-- http://teh.id.au/index.html
-
-
 ## Developer community sites (Stackoverflow alternatives)
 
 - https://hashnode.com/
@@ -290,6 +315,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://mislav.net/2011/12/vim-revisited/
 - http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 - https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
+- https://vim.rtorr.com/
 
 ### vim plugins
 
@@ -495,6 +521,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/c5VxFGo (The Medici Effect: What Elephants and Epidemics can teach us about innovation)
 - http://a.co/4iM98al (The Power of Habit: Why We Do What We Do in Life and Business [Charles Duhigg])
 - http://a.co/cQ41Ze1 (Developer Hegemony: the future of Labor)
+- http://99u.adobe.com/book/manage-your-day-to-day-2
 
 
 ## Resource Mining (may be time consuming)
