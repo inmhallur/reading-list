@@ -14,6 +14,7 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html
+- https://www.quora.com/What-are-the-best-travel-hacks/answer/Sarah-Chang
 
 
 ## Essays
@@ -243,6 +244,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
 - https://news.ycombinator.com/item?id=16165042 (Some thoughts on Spectre and Meltdown)
 - https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates (How to Use Certbot Standalone Mode for Let's Encrypt Certificates)
+- https://github.com/bcicen/ctop
 
 
 ## Kubernetes / Microservices
@@ -558,3 +560,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
 - https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 - http://www.stephendiehl.com/posts/essential_haskell.html (Collection of papers)
+
+
+## Food
+
+- https://www.quora.com/What-are-some-good-vegetarian-recipes/answer/Ryan-Goodwin-34
