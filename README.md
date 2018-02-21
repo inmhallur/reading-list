@@ -57,6 +57,8 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=FnaD4xS_hHY (LambdaConf 2015 - Developing Web Applications with Haskell - Alejandro Serrano Mena)
 - https://www.youtube.com/watch?v=wNa3MMbhwS4 (Dependent Types in Haskell by Stephanie Weirich)
 - https://www.youtube.com/watch?v=3s7h2MHQtxc (Hilbert's Curve: Is Infinite math useful?)
+- https://www.youtube.com/watch?v=uNVAmCYL1Jo (Galois Tech Talk: JaVerT: a JavaScript Verification Toolchain)
+- https://www.youtube.com/watch?v=_9NoK1i10P0 (Galois Tech Talk: Datatype Generic Packet Descriptions)
 
 
 ## Read again
