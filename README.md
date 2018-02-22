@@ -15,6 +15,7 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html
 - https://www.quora.com/What-are-the-best-travel-hacks/answer/Sarah-Chang
+- https://www.quora.com/What-is-the-secret-behind-Renaissance-Technologies-Can-mathematics-really-be-used-to-bring-high-returns-to-investors/answer/Laeeth-Isharc
 
 
 ## Essays
@@ -526,6 +527,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/4iM98al (The Power of Habit: Why We Do What We Do in Life and Business [Charles Duhigg])
 - http://a.co/cQ41Ze1 (Developer Hegemony: the future of Labor)
 - http://99u.adobe.com/book/manage-your-day-to-day-2
+- http://a.co/j2FG62c (Deep Work: Rules for Focused Success in a Distracted World [Cal Newport])
 
 
 ## Resource Mining (may be time consuming)
@@ -567,3 +569,4 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 ## Food
 
 - https://www.quora.com/What-are-some-good-vegetarian-recipes/answer/Ryan-Goodwin-34
+- https://www.quora.com/What-are-some-good-cooking-tips-that-chefs-know/answer/Victoria-Zorzoli
