@@ -132,7 +132,6 @@ Stuff I want to read
 - https://stackoverflow.com/a/1016986/732396
 - https://userpages.uni-koblenz.de/~laemmel/paradigms1011/resources/pdf/haskell.pdf (There are other resources on the site)
 - https://www.fpcomplete.com/haskell-syllabus (can look at this and create a custom syllabus of sorts)
-- https://github.com/hzlmn/haskell-must-watch
 - https://stackoverflow.com/questions/6398996/good-haskell-source-to-read-and-learn-from
 
 ### Performance
