@@ -18,10 +18,8 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html
-- https://www.quora.com/What-are-the-best-travel-hacks/answer/Sarah-Chang
 - https://www.quora.com/How-is-this-statement-%E2%80%9CMonad-is-a-monoid-in-the-category-of-endofunctors-%E2%80%9D-useful-in-programming/answer/Bartosz-Milewski
 - https://ocharles.org.uk/blog/posts/2014-12-16-derive-generic.html
-- https://medium.com/@sjsyrek/what-a-haskell-study-group-is-not-470f4aeb9673
 
 
 ## Essays
@@ -394,7 +392,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
 
 
-## Security
+## Security / Infosec
 
 - https://news.ycombinator.com/item?id=14321498 (Ask HN: How do you manage SSH keys and SSL certificates in your company?)
 - https://news.ycombinator.com/item?id=8826024 (Environment Variables Considered Harmful for your secrets)
@@ -405,6 +403,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://news.ycombinator.com/item?id=16244580 (VM escape vulnerabilities patched in VirtualBox)
 - https://firejail.wordpress.com/
 - https://wiki.archlinux.org/index.php/Firejail
+- https://www.owasp.org/index.php/Category:Control
+- https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 
 
 ## PostgreSQL
