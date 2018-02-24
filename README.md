@@ -2,6 +2,10 @@
 
 Stuff I want to read
 
+## Handy References
+
+- https://github.com/sol/hpack (for Haskell package.yaml fields)
+
 
 ## Priority
 
@@ -149,6 +153,7 @@ Stuff I want to read
 
 - http://hao.codes/lenses-heart-json.html
 - https://artyom.me/aeson
+- https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 
 ### Libraries
 
