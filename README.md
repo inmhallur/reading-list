@@ -15,7 +15,6 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html
 - https://www.quora.com/What-are-the-best-travel-hacks/answer/Sarah-Chang
-- https://www.quora.com/What-is-the-secret-behind-Renaissance-Technologies-Can-mathematics-really-be-used-to-bring-high-returns-to-investors/answer/Laeeth-Isharc
 - https://www.quora.com/How-is-this-statement-%E2%80%9CMonad-is-a-monoid-in-the-category-of-endofunctors-%E2%80%9D-useful-in-programming/answer/Bartosz-Milewski
 
 
