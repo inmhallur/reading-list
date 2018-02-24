@@ -20,6 +20,7 @@ Stuff I want to read
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html
 - https://www.quora.com/What-are-the-best-travel-hacks/answer/Sarah-Chang
 - https://www.quora.com/How-is-this-statement-%E2%80%9CMonad-is-a-monoid-in-the-category-of-endofunctors-%E2%80%9D-useful-in-programming/answer/Bartosz-Milewski
+- https://ocharles.org.uk/blog/posts/2014-12-16-derive-generic.html
 
 
 ## Essays
