@@ -60,6 +60,11 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=3s7h2MHQtxc (Hilbert's Curve: Is Infinite math useful?)
 - https://www.youtube.com/watch?v=uNVAmCYL1Jo (Galois Tech Talk: JaVerT: a JavaScript Verification Toolchain)
 - https://www.youtube.com/watch?v=_9NoK1i10P0 (Galois Tech Talk: Datatype Generic Packet Descriptions)
+- https://www.youtube.com/watch?v=4YfkwfZ7AV4 (The Haskell Cast #2 - Don Stewart on Real World Haskell)
+- https://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Laemmel-Advanced-Functional-Programming-The-Expression-Problem (Dr. Ralf Lämmel - Advanced Functional Programming - The Expression Problem)
+- https://vimeo.com/90184695 (Using Lenses to Structure State with Nathan Bouscal)
+- https://www.youtube.com/watch?v=Li6oaO8x2VY (Haskell Development Workflow Demo)
+- https://vimeo.com/112858645 (Types and Testing in Haskell)
 
 
 ## Read again
@@ -118,6 +123,8 @@ Stuff I want to read
 - https://www.tweag.io/posts/2018-02-05-free-monads.html
 - https://stackoverflow.com/questions/3276240/tools-for-analyzing-performance-of-a-haskell-program
 - http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf (Monads for functional programming)
+- https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard
+- https://artyom.me/haskell-ctf
 
 ### Mine the resources here
 
