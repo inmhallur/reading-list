@@ -21,6 +21,7 @@ Stuff I want to read
 - https://www.quora.com/What-are-the-best-travel-hacks/answer/Sarah-Chang
 - https://www.quora.com/How-is-this-statement-%E2%80%9CMonad-is-a-monoid-in-the-category-of-endofunctors-%E2%80%9D-useful-in-programming/answer/Bartosz-Milewski
 - https://ocharles.org.uk/blog/posts/2014-12-16-derive-generic.html
+- https://medium.com/@sjsyrek/what-a-haskell-study-group-is-not-470f4aeb9673
 
 
 ## Essays
