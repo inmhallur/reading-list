@@ -152,7 +152,6 @@ Stuff I want to read
 ### JSON Parsing
 
 - http://hao.codes/lenses-heart-json.html
-- https://artyom.me/aeson
 
 ### Libraries
 
