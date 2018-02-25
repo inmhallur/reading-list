@@ -153,7 +153,6 @@ Stuff I want to read
 
 - http://hao.codes/lenses-heart-json.html
 - https://artyom.me/aeson
-- https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json
 
 ### Libraries
 
@@ -161,6 +160,8 @@ Stuff I want to read
 - https://two-wrongs.com/haskell-time-library-tutorial
 - https://github.com/Gabriel439/Haskell-Turtle-Library
 - https://github.com/jaspervdj/patat
+- https://hackage.haskell.org/package/http-client-0.5.8
+- https://hackage.haskell.org/package/http-conduit
 
 ### Monad Transformers
 
