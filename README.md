@@ -261,6 +261,11 @@ Stuff I want to read
 - https://github.com/bcicen/ctop
 
 
+## AWS
+
+- https://serverfault.com/questions/469094/issues-with-ec2-elastic-load-balancer-dns-and-routing/531662#531662
+
+
 ## Kubernetes / Microservices
 
 - https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
