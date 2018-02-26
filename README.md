@@ -70,6 +70,7 @@ Stuff I want to read
 - https://vimeo.com/90184695 (Using Lenses to Structure State with Nathan Bouscal)
 - https://www.youtube.com/watch?v=Li6oaO8x2VY (Haskell Development Workflow Demo)
 - https://vimeo.com/112858645 (Types and Testing in Haskell)
+- https://skillsmatter.com/skillscasts/3932-a-haskell-lecture-with-leading-expert-andres-loh
 
 
 ## Read again
@@ -338,6 +339,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 - https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
 - https://vim.rtorr.com/
+- https://stackoverflow.com/a/41994024 (Enable modeline)
 
 ### vim plugins
 
@@ -411,6 +413,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://wiki.archlinux.org/index.php/Firejail
 - https://www.owasp.org/index.php/Category:Control
 - https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+- https://www.bleepingcomputer.com/news/security/amazon-aws-servers-might-soon-be-held-for-ransom-similar-to-mongodb/
 
 
 ## PostgreSQL
