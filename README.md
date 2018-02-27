@@ -9,8 +9,6 @@ Stuff I want to read
 
 ## Priority
 
-- https://www.reddit.com/r/haskell/comments/7xlx41/i_wrote_something_while_trying_to_learn_type/
-- https://ocharles.org.uk/blog/posts/2014-12-12-type-families.html
 - http://siek.blogspot.sg/2012/07/crash-course-on-notation-in-programming.html
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 - http://abailly.github.io/posts/cm-infra-1.html
@@ -19,8 +17,8 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html
 - https://www.quora.com/How-is-this-statement-%E2%80%9CMonad-is-a-monoid-in-the-category-of-endofunctors-%E2%80%9D-useful-in-programming/answer/Bartosz-Milewski
-- https://ocharles.org.uk/blog/posts/2014-12-16-derive-generic.html
 - https://www.reddit.com/r/haskell/comments/324vrx/aeson_the_tutorial_which_actually_tries_to/
+- https://news.ycombinator.com/item?id=16458057 (Things I Learnt Managing Site Reliability)
 
 
 ## Essays
