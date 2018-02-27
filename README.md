@@ -69,6 +69,8 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=Li6oaO8x2VY (Haskell Development Workflow Demo)
 - https://vimeo.com/112858645 (Types and Testing in Haskell)
 - https://skillsmatter.com/skillscasts/3932-a-haskell-lecture-with-leading-expert-andres-loh
+- https://www.youtube.com/watch?v=ASz_JTKO4VY (Haskell at work: Domain Modelling with Haskell: Generalizing Foldable and Traversable)
+- https://www.youtube.com/watch?v=pe6S5skZwNE (Haskell at work: Domain Modelling with Haskell: Data Structures)
 
 
 ## Read again
