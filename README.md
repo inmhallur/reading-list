@@ -17,8 +17,9 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html
 - https://www.quora.com/How-is-this-statement-%E2%80%9CMonad-is-a-monoid-in-the-category-of-endofunctors-%E2%80%9D-useful-in-programming/answer/Bartosz-Milewski
-- https://www.reddit.com/r/haskell/comments/324vrx/aeson_the_tutorial_which_actually_tries_to/
 - https://news.ycombinator.com/item?id=16458057 (Things I Learnt Managing Site Reliability)
+- https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
+- https://github.com/jayed/gogurl
 
 
 ## Essays
