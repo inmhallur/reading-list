@@ -15,11 +15,14 @@ Stuff I want to read
 - http://abailly.github.io/posts/cm-infra-2.html
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
-- http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html
 - https://www.quora.com/How-is-this-statement-%E2%80%9CMonad-is-a-monoid-in-the-category-of-endofunctors-%E2%80%9D-useful-in-programming/answer/Bartosz-Milewski
 - https://news.ycombinator.com/item?id=16458057 (Things I Learnt Managing Site Reliability)
 - https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
 - https://github.com/jayed/gogurl
+- https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/
+- https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/
+- https://zwischenzugs.com/2017/12/03/how-i-manage-my-time/
+- https://zwischenzugs.com/2017/04/11/five-books-i-advise-every-devops-engineer-to-read/
 
 
 ## Essays
@@ -37,6 +40,7 @@ Stuff I want to read
 ## Follow up work to do
 
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read; note down the interesting stuff)
+- http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html (verify)
 
 
 ## Talks
@@ -72,6 +76,7 @@ Stuff I want to read
 - https://skillsmatter.com/skillscasts/3932-a-haskell-lecture-with-leading-expert-andres-loh
 - https://www.youtube.com/watch?v=ASz_JTKO4VY (Haskell at work: Domain Modelling with Haskell: Generalizing Foldable and Traversable)
 - https://www.youtube.com/watch?v=pe6S5skZwNE (Haskell at work: Domain Modelling with Haskell: Data Structures)
+- https://www.youtube.com/watch?v=-qHwL8C9UoA (How to manage the changes Docker brings)
 
 
 ## Read again
@@ -551,6 +556,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/cQ41Ze1 (Developer Hegemony: the future of Labor)
 - http://99u.adobe.com/book/manage-your-day-to-day-2
 - http://a.co/j2FG62c (Deep Work: Rules for Focused Success in a Distracted World [Cal Newport])
+- http://atulgawande.com/book/the-checklist-manifesto/ (The Checklist Manifesto: How to Get Things Right [Atul Gawande])
 
 
 ## Resource Mining (may be time consuming)
@@ -558,6 +564,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.cronweekly.com/
 - https://ro-che.info/articles/
 - https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read?lq=1
+- https://zwischenzugs.com/
 
 
 ## JavaScript
