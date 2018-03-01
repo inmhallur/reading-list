@@ -16,7 +16,6 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://www.quora.com/How-is-this-statement-%E2%80%9CMonad-is-a-monoid-in-the-category-of-endofunctors-%E2%80%9D-useful-in-programming/answer/Bartosz-Milewski
-- https://news.ycombinator.com/item?id=16458057 (Things I Learnt Managing Site Reliability)
 - https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
 - https://github.com/jayed/gogurl
 - https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/
@@ -90,10 +89,8 @@ Stuff I want to read
 - https://www.fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell
 - https://github.com/jlevy/the-art-of-command-line
 - https://github.com/scrooloose/nerdcommenter (vim plugin for intensely orgasmic commenting)
-- http://www.moolenaar.net/habits.html (7 habits of effective text editing - Bram Moolenaar)
 - https://www.dwheeler.com/essays/filenames-in-shell.html
 - https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
-- https://news.ycombinator.com/item?id=14873503 (Ask HN: How do you start giving tech talks?)
 - https://www.quora.com/How-harmful-is-Haskells-error-system-when-it-comes-to-pure-functions-in-the-real-world/answer/Tikhon-Jelvis
 - https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/
 - http://dev.stephendiehl.com/hask/
@@ -262,7 +259,6 @@ Stuff I want to read
 
 - https://github.com/open-guides/og-aws
 - https://www.example42.com/tutorials/PuppetTutorial
-- https://github.com/alexellis/handsondocker/
 - https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
 - https://news.ycombinator.com/item?id=16165042 (Some thoughts on Spectre and Meltdown)
 - https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates (How to Use Certbot Standalone Mode for Let's Encrypt Certificates)
@@ -446,91 +442,12 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 - https://news.ycombinator.com/item?id=14429576 (Mathematical Foundations of Computing, pdf)
 - https://news.ycombinator.com/item?id=13620871 (The Essence of Linear Algebra YouTube video)
-- https://news.ycombinator.com/item?id=14669587 (Probabilistic programming from scratch)
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 
 
 ## CSS
 
 - https://news.ycombinator.com/item?id=15988867 (Learn CSS Grid through interactive screencasts)
-
-
-## Real examples of data analysis
-
-- http://lmcinnes.github.io/subreddit_mapping/
-
-
-## Machine Learning
-
-- https://chrisalbon.com/
-- http://sebastianraschka.com/Articles/2014_about_feature_scaling.html
-- https://engineering.quora.com/A-Machine-Learning-Approach-to-Ranking-Answers-on-Quora
-- https://news.ycombinator.com/item?id=14322953
-- https://www.youtube.com/user/shiffman/videos
-- http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning
-- http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
-- https://ml.berkeley.edu/blog/2016/12/03/github/
-- https://lexicon.github.io/#
-- https://news.ycombinator.com/item?id=15036045 (Computer Age Statistical Inference: Algorithms, Evidence and Data Science)
-- http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml (CMU Machine Learning course)
-- https://www.kaggle.com/nirajvermafcb/principal-component-analysis-explained (Kaggle Kernel explaining PCA)
-
-
-## Machine Learning Project Ideas
-
-- http://blog.andrewcantino.com/blog/2012/04/22/machine-learning-project-ideas/
-- https://www.quora.com/What-is-a-good-way-for-a-data-scientist-to-construct-an-online-portfolio/answer/Josh-Devlin-3?share=182f8358&srid=pXGZ
-
-
-## Logistic Regression
-
-- http://www.win-vector.com/blog/tag/logistic-regression/
-- http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
-- https://www.youtube.com/watch?v=jUwjbiBUR-k
-- http://stats.stackexchange.com/q/4799
-- https://www.quora.com/How-can-I-show-that-the-Hessian-for-log-likelihood-for-logistic-regression-is-negative-definite
-- http://sites.stat.psu.edu/~jiali/course/stat597e/notes2/logit.pdf
-
-
-## Error measures
-
-- http://scikit-learn.org/stable/modules/model_evaluation.html#model-evaluation
-- http://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html#sphx-glr-auto-examples-model-selection-plot-precision-recall-py
-- https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf
-
-
-## Data Science
-
-- https://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb
-
-
-## Text Mining
-
-- https://www.datacamp.com/community/blog/text-mining-in-r-and-python-tips
-- https://www.coursera.org/learn/text-mining
-- https://news.ycombinator.com/item?id=13534565 (A gentle introduction to text classification and sentiment analysis)
-
-
-## SVD
-
-- https://www.quora.com/What-is-an-intuitive-explanation-of-singular-value-decomposition-SVD
-- https://jeremykun.com/2016/04/18/singular-value-decomposition-part-1-perspectives-on-linear-algebra/
-- https://www.quora.com/What-is-the-relation-between-singular-value-decomposition-and-principal-component-analysis
-- https://www.quora.com/What-is-an-intuitive-explanation-of-the-relation-between-PCA-and-SVD
-- http://www.ams.org/samplings/feature-column/fcarc-svd
-- https://people.mpi-inf.mpg.de/~bast/ir-seminar-ws04/lecture2.pdf
-- https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-fall-2004/lecture-notes/lecture3.pdf
-
-
-## Statistics
-
-- https://projecteuclid.org/download/pdf_1/euclid.ss/1009213726
-
-
-## Neural Networks
-
-- http://www.faqs.org/faqs/ai-faq/neural-nets/part2/section-16.html
-- ftp://ftp.sas.com/pub/neural/illcond/illcond.html
 
 
 ## Books to check out
@@ -583,17 +500,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://ifeanyi.co/posts/understanding-consensus/
 - https://news.ycombinator.com/item?id=15919115 (Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to)
 - https://news.ycombinator.com/item?id=15131981 (Reducing Python's startup time)
-
-
-## Haskell backburner
-
-- http://www.stephendiehl.com/posts/strings.html
-- http://blog.sigfpe.com/2008/06/categories-of-polynomials-and-comonadic.html
-- https://ryanglscott.github.io/2017/04/12/improvements-to-deriving-in-ghc-82/
-- https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-probleⅿ
-- https://bartoszmilewski.com/2017/02/09/monoids-on-steroids/
-- https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
-- http://www.stephendiehl.com/posts/essential_haskell.html (Collection of papers)
 
 
 ## Food
