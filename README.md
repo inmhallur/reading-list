@@ -15,7 +15,6 @@ Stuff I want to read
 - http://abailly.github.io/posts/cm-infra-2.html
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
-- https://www.quora.com/How-is-this-statement-%E2%80%9CMonad-is-a-monoid-in-the-category-of-endofunctors-%E2%80%9D-useful-in-programming/answer/Bartosz-Milewski
 - https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
 - https://github.com/jayed/gogurl
 - https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/
@@ -27,7 +26,6 @@ Stuff I want to read
 ## Essays
 
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
-- https://d0.awsstatic.com/whitepapers/microservices-on-aws.pdf
 
 
 ## Code to study
@@ -265,11 +263,6 @@ Stuff I want to read
 - https://github.com/bcicen/ctop
 
 
-## AWS
-
-- https://serverfault.com/questions/469094/issues-with-ec2-elastic-load-balancer-dns-and-routing/531662#531662
-
-
 ## Kubernetes / Microservices
 
 - https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
@@ -404,6 +397,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 ## Security / Infosec
 
+- https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
 - https://news.ycombinator.com/item?id=14321498 (Ask HN: How do you manage SSH keys and SSL certificates in your company?)
 - https://news.ycombinator.com/item?id=8826024 (Environment Variables Considered Harmful for your secrets)
 - https://www.troyhunt.com/how-to-build-and-how-not-to-build/  (How to build and how not to build a secure "remember me" feature)
