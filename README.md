@@ -9,7 +9,6 @@ Stuff I want to read
 
 ## Priority
 
-- http://siek.blogspot.sg/2012/07/crash-course-on-notation-in-programming.html
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 - http://abailly.github.io/posts/cm-infra-1.html
 - http://abailly.github.io/posts/cm-infra-2.html
@@ -17,10 +16,6 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
 - https://github.com/jayed/gogurl
-- https://zwischenzugs.com/2018/02/24/5-things-i-did-to-change-a-teams-culture/
-- https://zwischenzugs.com/2018/01/26/how-and-why-i-run-my-own-dns-servers/
-- https://zwischenzugs.com/2017/12/03/how-i-manage-my-time/
-- https://zwischenzugs.com/2017/04/11/five-books-i-advise-every-devops-engineer-to-read/
 
 
 ## Essays
@@ -352,8 +347,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 - http://www.drbunsen.org/the-text-triumvirate/
 - http://xon.sh
-- https://news.ycombinator.com/item?id=13537515 (Using Vim as a Python IDE, liuchengxu)
-- http://amoffat.github.io/sh/index.html (sh.py - a full fledged subprocess replacement for Python that allows you to call any bash program as if it were a function)
 
 ### zsh plugins
 
@@ -399,7 +392,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 - https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
 - https://news.ycombinator.com/item?id=14321498 (Ask HN: How do you manage SSH keys and SSL certificates in your company?)
-- https://news.ycombinator.com/item?id=8826024 (Environment Variables Considered Harmful for your secrets)
 - https://www.troyhunt.com/how-to-build-and-how-not-to-build/  (How to build and how not to build a secure "remember me" feature)
 - http://www.catonmat.net/blog/ldd-arbitrary-code-execution/
 - https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
@@ -468,6 +460,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://99u.adobe.com/book/manage-your-day-to-day-2
 - http://a.co/j2FG62c (Deep Work: Rules for Focused Success in a Distracted World [Cal Newport])
 - http://atulgawande.com/book/the-checklist-manifesto/ (The Checklist Manifesto: How to Get Things Right [Atul Gawande])
+- http://a.co/2i2JN82 (The Goal: A Process of Ongoing Improvement [Eliyahu M. Goldratt, Jeff Cox])
+- http://a.co/gzncekw (Getting Things Done: The Art of Stress-Free Productivity [David Allen, James Fallows])
 
 
 ## Resource Mining (may be time consuming)
