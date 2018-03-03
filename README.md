@@ -16,6 +16,9 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
 - https://github.com/jayed/gogurl
+- https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+- https://www.oreilly.com/ideas/an-introduction-to-immutable-infrastructure
 
 
 ## Essays
@@ -37,7 +40,6 @@ Stuff I want to read
 
 ## Talks
 
-- https://vimeo.com/173610242 (Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside)
 - https://www.youtube.com/watch?v=o3m2NkusI9k (CUFP 2013: Edward Kmett: Functional Reporting)
 - https://twitter.com/tweagio/status/942701229305679873 (FPConf 2017 talk video of "Using Haskell to Great Effect" by Arnaud Spiwack explains why Haskell's purity ends up (maybe surprisingly) helping us to test I/O functionality)
 - https://skillsmatter.com/skillscasts/10522-keynote-a-monoid-for-all-seasons (watch if free)
@@ -338,10 +340,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/chrisbra/NrrwRgn (Narrow region plugin for vim)
 - https://github.com/Raimondi/delimitMate (auto close quotes, parens, brackets, etc)
 
-### full fledged vim "frameworks"
-
-- https://valloric.github.io/YouCompleteMe/
-
 
 ## command line
 
@@ -403,6 +401,13 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 - https://www.bleepingcomputer.com/news/security/amazon-aws-servers-might-soon-be-held-for-ransom-similar-to-mongodb/
 
+### AWS security
+
+- https://github.com/Netflix/security_monkey
+- https://github.com/nccgroup/Scout2
+- https://aws.amazon.com/waf/
+- https://aws.amazon.com/inspector/
+
 
 ## PostgreSQL
 
@@ -413,7 +418,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 ## Python
 
-- https://news.ycombinator.com/item?id=13825225 (CPython Internals: A ten-hour codewalk through the Python Interpreter [2015])
 - https://www.quora.com/How-do-I-learn-Python-in-depth (How do I learn Python in depth?)
 - https://wiki.python.org/moin/PythonDecoratorLibrary
 
@@ -472,6 +476,11 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://zwischenzugs.com/
 
 
+## SaaS / PaaS
+
+- https://oauth.io/
+
+
 ## JavaScript
 
 - https://github.com/bpesquet/thejsway (The JavaScript Way book)
@@ -486,8 +495,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://paxos.systems/
 - https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
 - http://ifeanyi.co/posts/understanding-consensus/
-- https://news.ycombinator.com/item?id=15919115 (Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to)
-- https://news.ycombinator.com/item?id=15131981 (Reducing Python's startup time)
 
 
 ## Food
