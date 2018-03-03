@@ -19,6 +19,8 @@ Stuff I want to read
 - https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 - https://www.oreilly.com/ideas/an-introduction-to-immutable-infrastructure
+- https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
+- https://brandur.org/kinesis-in-production
 
 
 ## Essays
