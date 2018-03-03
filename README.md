@@ -18,9 +18,7 @@ Stuff I want to read
 - https://github.com/jayed/gogurl
 - https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
-- https://www.oreilly.com/ideas/an-introduction-to-immutable-infrastructure
 - https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
-- https://brandur.org/kinesis-in-production
 
 
 ## Essays
@@ -258,7 +256,6 @@ Stuff I want to read
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
 - https://news.ycombinator.com/item?id=16165042 (Some thoughts on Spectre and Meltdown)
-- https://www.digitalocean.com/community/tutorials/how-to-use-certbot-standalone-mode-to-retrieve-let-s-encrypt-ssl-certificates (How to Use Certbot Standalone Mode for Let's Encrypt Certificates)
 - https://github.com/bcicen/ctop
 
 
@@ -283,14 +280,12 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/koalaman/shellcheck
 - https://github.com/nvbn/thefuck
 - https://news.ycombinator.com/item?id=13936792 (tmuxp)
-- https://github.com/thumbtack/pgdoctor
 - https://www.gnu.org/software/libmicrohttpd/
 - https://mosh.org/
 - https://github.com/junegunn/fzf
 - https://github.com/BurntSushi/ripgrep
 - https://github.com/simeji/jid
 - https://github.com/vifm/vifm
-- https://github.com/FedeDP/ncursesFM
 - https://github.com/ranger/ranger
 - https://midnight-commander.org/
 - https://www.gnu.org/software/global/  (there's hothasktags on links page: https://www.gnu.org/software/global/links.html)
@@ -320,7 +315,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://blog.bugsnag.com/tmux-and-vim/
 - https://twitter.com/trevordmiller/status/897808937310924800?s=03 (Nova color scheme)
 - https://twitter.com/jreybert/status/895639299663593472?s=03 (vimagit plugin, seems interesting)
-- https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7
 - https://twitter.com/MasteringVim/status/911207162319425536?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=fddfb58c14624ed58a20365c9533fcb4&uid=2570069203&nid=244+272699393
 - https://twitter.com/VimLinks/status/921350660137930758  (If you enjoy looking at other people's Vim setups, check out this thread)
 - https://bluz71.github.io/2017/06/14/a-few-vim-tmux-mappings.html
@@ -333,11 +327,9 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 - https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
 - https://vim.rtorr.com/
-- https://stackoverflow.com/a/41994024 (Enable modeline)
 
 ### vim plugins
 
-- https://github.com/dahu/vim-fanfingtastic
 - http://vim-taglist.sourceforge.net/
 - https://github.com/chrisbra/NrrwRgn (Narrow region plugin for vim)
 - https://github.com/Raimondi/delimitMate (auto close quotes, parens, brackets, etc)
@@ -394,14 +386,13 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://news.ycombinator.com/item?id=14321498 (Ask HN: How do you manage SSH keys and SSL certificates in your company?)
 - https://www.troyhunt.com/how-to-build-and-how-not-to-build/  (How to build and how not to build a secure "remember me" feature)
 - http://www.catonmat.net/blog/ldd-arbitrary-code-execution/
-- https://news.ycombinator.com/item?id=15986100 (Ask HN: How can I learn computer security)
 - https://news.ycombinator.com/item?id=16017969 (No boundaries for user identities: Web trackers exploit browser login managers)
-- https://news.ycombinator.com/item?id=16244580 (VM escape vulnerabilities patched in VirtualBox)
 - https://firejail.wordpress.com/
 - https://wiki.archlinux.org/index.php/Firejail
 - https://www.owasp.org/index.php/Category:Control
 - https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 - https://www.bleepingcomputer.com/news/security/amazon-aws-servers-might-soon-be-held-for-ransom-similar-to-mongodb/
+- https://www.hacksplaining.com/
 
 ### AWS security
 
@@ -472,7 +463,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 ## Resource Mining (may be time consuming)
 
-- https://www.cronweekly.com/
 - https://ro-che.info/articles/
 - https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read?lq=1
 - https://zwischenzugs.com/
