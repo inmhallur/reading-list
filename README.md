@@ -16,9 +16,9 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
 - https://github.com/jayed/gogurl
-- https://start.jcolemorrison.com/aws-iam-policies-in-a-nutshell/
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 - https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
+- https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/
 
 
 ## Essays
@@ -71,6 +71,7 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=ASz_JTKO4VY (Haskell at work: Domain Modelling with Haskell: Generalizing Foldable and Traversable)
 - https://www.youtube.com/watch?v=pe6S5skZwNE (Haskell at work: Domain Modelling with Haskell: Data Structures)
 - https://www.youtube.com/watch?v=-qHwL8C9UoA (How to manage the changes Docker brings)
+- https://www.youtube.com/watch?v=-X1vrxQUETM (HaskellerZ - Feb 2018 - Getting things done in Haskell and Zurich Friends of Haskell)
 
 
 ## Read again
