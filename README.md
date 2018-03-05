@@ -14,11 +14,11 @@ Stuff I want to read
 - http://abailly.github.io/posts/cm-infra-2.html
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
-- https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
 - https://github.com/jayed/gogurl
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 - https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
-- https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/
+- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/older-but-still-interesting/deamortized-st
+- http://www.cs.ox.ac.uk/ralf.hinze/publications/HW03.pdf
 
 
 ## Essays
@@ -90,6 +90,7 @@ Stuff I want to read
 - https://www.quora.com/How-harmful-is-Haskells-error-system-when-it-comes-to-pure-functions-in-the-real-world/answer/Tikhon-Jelvis
 - https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/
 - http://dev.stephendiehl.com/hask/
+- https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
 
 
 ## Haskell
@@ -130,6 +131,7 @@ Stuff I want to read
 - http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf (Monads for functional programming)
 - https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard
 - https://artyom.me/haskell-ctf
+- https://haskell-lang.org/library/async
 
 ### Mine the resources here
 
@@ -192,9 +194,6 @@ Stuff I want to read
 - https://github.com/serokell/importify
 - https://twitter.com/HaskellLibHunt/status/934695048582533120 (neovim-ghci: a fast-feedback interactive Haskell editing experience)
 - https://twitter.com/github_haskell/status/942527852565671936 (dumbwaiter - Extensible HTTP Web server configured entirely by a yaml file)
-- https://github.com/aol/moloch
-- https://github.com/facebook/osquery
-- https://github.com/firehol/netdata
 
 ### Style / indentation
 
@@ -292,6 +291,10 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.gnu.org/software/global/  (there's hothasktags on links page: https://www.gnu.org/software/global/links.html)
 - https://github.com/jakubroztocil/httpie
 - http://httpd.apache.org/docs/2.4/programs/ab.html
+- https://github.com/aol/moloch
+- https://github.com/facebook/osquery
+- https://github.com/firehol/netdata
+- http://chapiapp.com/
 
 
 ## Creative
