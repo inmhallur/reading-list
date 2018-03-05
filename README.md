@@ -19,6 +19,7 @@ Stuff I want to read
 - https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/older-but-still-interesting/deamortized-st
 - http://www.cs.ox.ac.uk/ralf.hinze/publications/HW03.pdf
+- https://purelyfunctional.org/posts/2018-03-04-monadfix-lazy-strict-state.html
 
 
 ## Essays
