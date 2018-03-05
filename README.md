@@ -2,10 +2,6 @@
 
 Stuff I want to read
 
-## Handy References
-
-- https://github.com/sol/hpack (for Haskell package.yaml fields)
-
 
 ## Priority
 
@@ -15,11 +11,11 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://github.com/jayed/gogurl
-- https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
-- https://aws.amazon.com/blogs/security/how-to-add-dns-filtering-to-your-nat-instance-with-squid/
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/older-but-still-interesting/deamortized-st
 - http://www.cs.ox.ac.uk/ralf.hinze/publications/HW03.pdf
 - https://purelyfunctional.org/posts/2018-03-04-monadfix-lazy-strict-state.html
+- https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
+- https://www.youtube.com/watch?v=_wiGpBQGCjU (AWS re:Invent 2015: IAM Best Practices to Live By)
 
 
 ## Essays
@@ -255,7 +251,6 @@ Stuff I want to read
 
 - https://github.com/open-guides/og-aws
 - https://www.example42.com/tutorials/PuppetTutorial
-- https://news.ycombinator.com/item?id=16244194 (Increased Network Bandwith for EC2 instances)
 - https://news.ycombinator.com/item?id=16165042 (Some thoughts on Spectre and Meltdown)
 - https://github.com/bcicen/ctop
 
@@ -428,7 +423,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 ## Mathematics
 
-- https://news.ycombinator.com/item?id=14429576 (Mathematical Foundations of Computing, pdf)
 - https://news.ycombinator.com/item?id=13620871 (The Essence of Linear Algebra YouTube video)
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
 
@@ -485,13 +479,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/webpack/webpack
 - https://github.com/Chalarangelo/30-seconds-of-code
 - https://github.com/i0natan/nodebestpractices
-
-
-## Backburner
-
-- http://paxos.systems/
-- https://news.ycombinator.com/item?id=11716547 (Understanding consensus and Paxos in distributed systems)
-- http://ifeanyi.co/posts/understanding-consensus/
 
 
 ## Food
