@@ -16,6 +16,8 @@ Stuff I want to read
 - https://purelyfunctional.org/posts/2018-03-04-monadfix-lazy-strict-state.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://www.youtube.com/watch?v=_wiGpBQGCjU (AWS re:Invent 2015: IAM Best Practices to Live By)
+- https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
+- https://forums.aws.amazon.com/thread.jspa?messageID=503805
 
 
 ## Essays
