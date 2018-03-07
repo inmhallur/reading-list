@@ -17,7 +17,8 @@ Stuff I want to read
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://www.youtube.com/watch?v=_wiGpBQGCjU (AWS re:Invent 2015: IAM Best Practices to Live By)
 - https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
-- https://forums.aws.amazon.com/thread.jspa?messageID=503805
+- https://www.fpcomplete.com/blog/2016/11/covariance-contravariance
+- https://www.stackage.org/package/unliftio
 
 
 ## Essays
@@ -467,6 +468,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://ro-che.info/articles/
 - https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read?lq=1
 - https://zwischenzugs.com/
+- https://bencane.com/
 
 
 ## SaaS / PaaS
