@@ -21,6 +21,8 @@ Stuff I want to read
 - https://www.stackage.org/package/unliftio
 - https://dev.to/heroku/using-http-headers-to-secure-your-site-2no0
 - https://dev.to/heroku/a-house-of-cards-an-exploration-of-security-when-building-docker-containers--33in
+- https://medium.com/personal-growth/youre-not-lazy-7e357516c007
+- http://alltopstartups.com/2017/01/20/free-entrepreneurship-courses/
 
 
 ## Essays
