@@ -19,6 +19,8 @@ Stuff I want to read
 - https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
 - https://www.fpcomplete.com/blog/2016/11/covariance-contravariance
 - https://www.stackage.org/package/unliftio
+- https://dev.to/heroku/using-http-headers-to-secure-your-site-2no0
+- https://dev.to/heroku/a-house-of-cards-an-exploration-of-security-when-building-docker-containers--33in
 
 
 ## Essays
