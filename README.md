@@ -20,10 +20,11 @@ Stuff I want to read
 - https://www.fpcomplete.com/blog/2016/11/covariance-contravariance
 - https://www.stackage.org/package/unliftio
 - https://dev.to/heroku/using-http-headers-to-secure-your-site-2no0
-- https://dev.to/heroku/a-house-of-cards-an-exploration-of-security-when-building-docker-containers--33in
 - https://medium.com/personal-growth/youre-not-lazy-7e357516c007
 - http://alltopstartups.com/2017/01/20/free-entrepreneurship-courses/
-- https://www.fpcomplete.com/blog/10-common-mistakes-to-avoid-in-fintech-software-development
+- https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351
+- https://twitter.com/danclien/status/972212552313778177?s=03
+- https://twitter.com/b0rk/status/972213881836834818?s=03
 
 
 ## Essays
