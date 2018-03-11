@@ -21,7 +21,7 @@ Stuff I want to read
 - http://alltopstartups.com/2017/01/20/free-entrepreneurship-courses/
 - https://twitter.com/b0rk/status/972213881836834818?s=03
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
-- https://soupi.github.io/rfc/writing_simple_haskell/
+- https://making.pusher.com/per-ip-rate-limiting-with-iptables/
 
 
 ## Essays
@@ -136,11 +136,11 @@ Stuff I want to read
 - https://www.schoolofhaskell.com/school/starting-with-haskell/haskell-fast-hard
 - https://artyom.me/haskell-ctf
 - https://haskell-lang.org/library/async
+- https://wiki.haskell.org/Performance/Monads
 
 ### Modelling effects (mainly mtl style typeclasses)
 
 - https://www.reddit.com/r/haskell/comments/36e45c/mtl_is_not_a_monad_transformer_library/
-- https://making.pusher.com/3-approaches-to-monadic-api-design-in-haskell/
 - https://stackoverflow.com/questions/2769487/mtl-transformers-monads-fd-monadlib-and-the-paradox-of-choice?rq=1
 - https://stackoverflow.com/questions/48392810/limiting-effects-like-with-freer-using-mtl-style
 
