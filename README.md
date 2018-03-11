@@ -22,6 +22,11 @@ Stuff I want to read
 - https://twitter.com/b0rk/status/972213881836834818?s=03
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
 - https://making.pusher.com/per-ip-rate-limiting-with-iptables/
+- https://news.ycombinator.com/item?id=16559004 (Literate Devops with Emacs Org-Mode)
+- https://news.ycombinator.com/item?id=16561956 (Ask HN: Does anybody still use jQuery?)
+- https://news.ycombinator.com/item?id=16551696 (Show HN: Devstream.tv - watch developers code live)
+- https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
+- https://news.ycombinator.com/item?id=16542603 (Unexpected challenges of making money on the internet)
 
 
 ## Essays
