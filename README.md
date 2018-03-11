@@ -348,6 +348,11 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://vim-taglist.sourceforge.net/
 - https://github.com/chrisbra/NrrwRgn (Narrow region plugin for vim)
 - https://github.com/Raimondi/delimitMate (auto close quotes, parens, brackets, etc)
+- https://github.com/tpope/vim-fugitive
+- https://vimawesome.com/plugin/vim-gitgutter (show which lines are added, removed, modified)
+- https://vimawesome.com/plugin/vim-polyglot (programming language packs for vim, loaded on demand)
+- https://vimawesome.com/plugin/vim-polyglot (asynchronous lint engine - runs linter asynchronously. Requires vim 8 / neovim)
+- https://vimawesome.com/plugin/goyo-vim (distraction free writing in vim)
 
 
 ## command line
