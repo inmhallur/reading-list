@@ -8,22 +8,17 @@ Stuff I want to read
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 - http://abailly.github.io/posts/cm-infra-1.html
 - http://abailly.github.io/posts/cm-infra-2.html
-- https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
+- https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://github.com/jayed/gogurl
-- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/older-but-still-interesting/deamortized-st
 - http://www.cs.ox.ac.uk/ralf.hinze/publications/HW03.pdf
 - https://purelyfunctional.org/posts/2018-03-04-monadfix-lazy-strict-state.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://www.youtube.com/watch?v=_wiGpBQGCjU (AWS re:Invent 2015: IAM Best Practices to Live By)
 - https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
-- https://www.fpcomplete.com/blog/2016/11/covariance-contravariance
 - https://www.stackage.org/package/unliftio
 - https://dev.to/heroku/using-http-headers-to-secure-your-site-2no0
-- https://medium.com/personal-growth/youre-not-lazy-7e357516c007
 - http://alltopstartups.com/2017/01/20/free-entrepreneurship-courses/
-- https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351
-- https://twitter.com/danclien/status/972212552313778177?s=03
 - https://twitter.com/b0rk/status/972213881836834818?s=03
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
 - https://soupi.github.io/rfc/writing_simple_haskell/
@@ -38,6 +33,7 @@ Stuff I want to read
 
 - https://monzo.com/blog/2017/11/29/very-robust-etcd/
 - http://opentracing.io/
+- https://github.com/lexi-lambda/mtl-style-example
 
 
 ## Follow up work to do
@@ -141,6 +137,13 @@ Stuff I want to read
 - https://artyom.me/haskell-ctf
 - https://haskell-lang.org/library/async
 
+### Modelling effects (mainly mtl style typeclasses)
+
+- https://www.reddit.com/r/haskell/comments/36e45c/mtl_is_not_a_monad_transformer_library/
+- https://making.pusher.com/3-approaches-to-monadic-api-design-in-haskell/
+- https://stackoverflow.com/questions/2769487/mtl-transformers-monads-fd-monadlib-and-the-paradox-of-choice?rq=1
+- https://stackoverflow.com/questions/48392810/limiting-effects-like-with-freer-using-mtl-style
+
 ### Mine the resources here
 
 - https://stackoverflow.com/a/16951/732396 (Beginners Guide to Haskell?)
@@ -236,6 +239,7 @@ Stuff I want to read
 ### Papers
 
 - https://ncatlab.org/nlab/files/WadlerMonads.pdf (Phil Wadler: Comprehending Monads)
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.2237&rep=rep1&type=pdf (Lazy Functional State Threads)
 
 ### Needs time
 
@@ -424,6 +428,11 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 - https://www.quora.com/How-do-I-learn-Python-in-depth (How do I learn Python in depth?)
 - https://wiki.python.org/moin/PythonDecoratorLibrary
+
+
+## Discussions
+
+- https://www.reddit.com/r/programming/comments/80jykv/too_many_coders_work_in_environments_where_they/
 
 
 ## General Computing
