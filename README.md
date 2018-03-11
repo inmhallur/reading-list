@@ -26,6 +26,7 @@ Stuff I want to read
 - https://twitter.com/danclien/status/972212552313778177?s=03
 - https://twitter.com/b0rk/status/972213881836834818?s=03
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
+- https://soupi.github.io/rfc/writing_simple_haskell/
 
 
 ## Essays
