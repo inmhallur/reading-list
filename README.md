@@ -27,6 +27,9 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=16551696 (Show HN: Devstream.tv - watch developers code live)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 - https://news.ycombinator.com/item?id=16542603 (Unexpected challenges of making money on the internet)
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+- https://www.owasp.org/index.php/HttpOnly
+- https://appliedgo.net/di/
 
 
 ## Essays
@@ -418,6 +421,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 - https://www.bleepingcomputer.com/news/security/amazon-aws-servers-might-soon-be-held-for-ransom-similar-to-mongodb/
 - https://www.hacksplaining.com/
+- http://seclab.stanford.edu/websec/csrf/csrf.pdf
 
 ### AWS security
 
