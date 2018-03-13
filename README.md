@@ -17,7 +17,6 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=_wiGpBQGCjU (AWS re:Invent 2015: IAM Best Practices to Live By)
 - https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
 - https://www.stackage.org/package/unliftio
-- https://dev.to/heroku/using-http-headers-to-secure-your-site-2no0
 - http://alltopstartups.com/2017/01/20/free-entrepreneurship-courses/
 - https://twitter.com/b0rk/status/972213881836834818?s=03
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
@@ -27,9 +26,16 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=16551696 (Show HN: Devstream.tv - watch developers code live)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 - https://news.ycombinator.com/item?id=16542603 (Unexpected challenges of making money on the internet)
-- https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
-- https://www.owasp.org/index.php/HttpOnly
-- https://appliedgo.net/di/
+- https://github.com/adrianco/slides (Adrian Cockcroft Microservices)
+- https://jakearchibald.com/2016/caching-best-practices/
+- https://scotthelme.co.uk/hpkp-http-public-key-pinning/
+- https://www.html5rocks.com/en/tutorials/security/content-security-policy/
+- https://www.owasp.org/index.php/OWASP_Secure_Headers_Project
+
+
+## Study these products
+
+- https://checkvist.com/
 
 
 ## Essays
@@ -183,6 +189,8 @@ Stuff I want to read
 - https://github.com/jaspervdj/patat
 - https://hackage.haskell.org/package/http-client-0.5.8
 - https://hackage.haskell.org/package/http-conduit
+- https://hackage.haskell.org/package/optional-args-1.0.2/docs/Data-Optional.html
+- https://hackage.haskell.org/package/managed-1.0.6/docs/Control-Monad-Managed.html
 
 ### Monad Transformers
 
@@ -500,6 +508,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://cstheory.stackexchange.com/questions/3253/what-books-should-everyone-read?lq=1
 - https://zwischenzugs.com/
 - https://bencane.com/
+- https://codewithoutrules.com
 
 
 ## SaaS / PaaS
