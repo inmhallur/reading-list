@@ -11,7 +11,6 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://github.com/jayed/gogurl
-- http://www.cs.ox.ac.uk/ralf.hinze/publications/HW03.pdf
 - https://purelyfunctional.org/posts/2018-03-04-monadfix-lazy-strict-state.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://www.youtube.com/watch?v=_wiGpBQGCjU (AWS re:Invent 2015: IAM Best Practices to Live By)
@@ -22,7 +21,6 @@ Stuff I want to read
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
 - https://making.pusher.com/per-ip-rate-limiting-with-iptables/
 - https://news.ycombinator.com/item?id=16559004 (Literate Devops with Emacs Org-Mode)
-- https://news.ycombinator.com/item?id=16561956 (Ask HN: Does anybody still use jQuery?)
 - https://news.ycombinator.com/item?id=16551696 (Show HN: Devstream.tv - watch developers code live)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 - https://news.ycombinator.com/item?id=16542603 (Unexpected challenges of making money on the internet)
@@ -31,6 +29,7 @@ Stuff I want to read
 - https://scotthelme.co.uk/hpkp-http-public-key-pinning/
 - https://www.html5rocks.com/en/tutorials/security/content-security-policy/
 - https://www.owasp.org/index.php/OWASP_Secure_Headers_Project
+- https://twitter.com/nixcraft/status/973221066012229633?s=03
 
 
 ## Study these products
