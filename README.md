@@ -30,6 +30,7 @@ Stuff I want to read
 - https://www.html5rocks.com/en/tutorials/security/content-security-policy/
 - https://www.owasp.org/index.php/OWASP_Secure_Headers_Project
 - https://twitter.com/nixcraft/status/973221066012229633?s=03
+- https://www.quora.com/What-is-continuation-passing-style-in-functional-programming/answer/Tikhon-Jelvis
 
 
 ## Study these products
@@ -53,6 +54,8 @@ Stuff I want to read
 
 - https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read; note down the interesting stuff)
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html (verify)
+- https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929 (Check out the tools mentioned)
+- https://www.quora.com/What-are-some-time-saving-tips-that-every-Vim-user-should-know/answer/Sam-Tetruashvili (`q:` and `q/`)
 
 
 ## Talks
