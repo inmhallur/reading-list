@@ -31,6 +31,8 @@ Stuff I want to read
 - https://www.owasp.org/index.php/OWASP_Secure_Headers_Project
 - https://twitter.com/nixcraft/status/973221066012229633?s=03
 - https://www.quora.com/What-is-continuation-passing-style-in-functional-programming/answer/Tikhon-Jelvis
+- https://twitter.com/VimLinks/status/974303200382734337?s=03 (what not to do with vim)
+- https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
 
 
 ## Study these products
