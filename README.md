@@ -33,6 +33,7 @@ Stuff I want to read
 - https://www.quora.com/What-is-continuation-passing-style-in-functional-programming/answer/Tikhon-Jelvis
 - https://twitter.com/VimLinks/status/974303200382734337?s=03 (what not to do with vim)
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
+- https://scotthelme.co.uk/debunking-the-fallacy-that-paid-certificates-are-better-than-free-certificates-and-other-related-nonsense/
 
 
 ## Study these products
@@ -288,6 +289,11 @@ Stuff I want to read
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://news.ycombinator.com/item?id=16165042 (Some thoughts on Spectre and Meltdown)
 - https://github.com/bcicen/ctop
+
+### Docker
+
+- https://docs.docker.com/config/containers/live-restore/
+- https://medium.com/@gchudnov/trapping-signals-in-docker-containers-7a57fdda7d86
 
 
 ## Kubernetes / Microservices
