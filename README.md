@@ -33,9 +33,10 @@ Stuff I want to read
 - https://www.quora.com/What-is-continuation-passing-style-in-functional-programming/answer/Tikhon-Jelvis
 - https://twitter.com/VimLinks/status/974303200382734337?s=03 (what not to do with vim)
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- https://scotthelme.co.uk/debunking-the-fallacy-that-paid-certificates-are-better-than-free-certificates-and-other-related-nonsense/
 - https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824
 - https://github.com/OJ/gobuster (Directory/file and DNS busting tool written in Go)
+- https://scotthelme.co.uk/are-ev-certificates-worth-the-paper-theyre-written-on/
+- https://scotthelme.co.uk/do-ssl-warranties-protect-you-as-much-as-rocks-keep-tigers-away/
 
 
 ## Study these products
