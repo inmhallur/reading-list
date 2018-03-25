@@ -35,8 +35,9 @@ Stuff I want to read
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
 - https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824
 - https://github.com/OJ/gobuster (Directory/file and DNS busting tool written in Go)
-- https://scotthelme.co.uk/are-ev-certificates-worth-the-paper-theyre-written-on/
-- https://scotthelme.co.uk/do-ssl-warranties-protect-you-as-much-as-rocks-keep-tigers-away/
+- https://scotthelme.co.uk/certificate-transparency-an-introduction/
+- https://scotthelme.co.uk/certificate-authority-authorization/
+- https://scotthelme.co.uk/ocsp-expect-staple/
 
 
 ## Study these products
