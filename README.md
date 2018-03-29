@@ -38,6 +38,25 @@ Stuff I want to read
 - https://scotthelme.co.uk/certificate-transparency-an-introduction/
 - https://scotthelme.co.uk/certificate-authority-authorization/
 - https://scotthelme.co.uk/ocsp-expect-staple/
+- http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
+- https://github.com/webflow/leadership/blob/master/tech_lead.md
+- https://twitter.com/smdiehl/status/979031581678587904?s=03
+- https://twitter.com/ReinH/status/979048517393039360?s=03
+- https://www.atlassian.com/team-playbook/plays/daci
+- https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9
+- https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn
+- https://dev.to/sandordargo/8-books-every-junior-developer-should-read--4p5h
+- https://vimeo.com/131502993 (Running Game Days at Stripe)
+- https://medium.com/startup-grind/developing-warrior-like-mental-toughness-11-easy-steps-c9437ce5fb22
+- https://medium.com/the-mission/why-most-people-will-remain-in-mediocrity-6c7e24c48d12
+- https://medium.com/swlh/why-startups-are-dying-left-and-right-bbb4b1122e8e
+- https://medium.com/@jasisrad/journey-into-the-dark-8c7922a48265
+- https://howwegettonext.com/persisting-in-dark-times-lessons-from-a-war-crimes-researcher-8b3504f4b169
+- https://medium.com/@melodywilding/the-productivity-subculture-that-wont-quit-cabe3a0b7074
+- https://medium.com/@caspervonb/a-brief-totally-accurate-history-of-programming-languages-cd93ec806124
+- https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7
+- https://dev.to/jjaimelr/im-developing-software-and-i-dont-google-any-more-3ecb
+- https://dev.to/drminnaar/choosing-a-programming-language-493h
 
 
 ## Study these products
@@ -160,6 +179,10 @@ Stuff I want to read
 - https://artyom.me/haskell-ctf
 - https://haskell-lang.org/library/async
 - https://wiki.haskell.org/Performance/Monads
+- https://twitter.com/HaskellLibHunt/status/977275577504706561?s=03 (CLI file manager using brick; Haskell)
+- https://twitter.com/mattoflambda/status/977369704154017792?s=03 (ghcid command to rebuild project and run tests)
+- https://twitter.com/HaskellLibHunt/status/978332510345035779?s=03 (Applied Category Theory - Online course)
+- http://www.scs.stanford.edu/~dbg/readings/haskell-history.pdf
 
 ### Modelling effects (mainly mtl style typeclasses)
 
@@ -285,6 +308,11 @@ Stuff I want to read
 - https://pragprog.com/book/pb7con/seven-concurrency-models-in-seven-weeks
 - https://docs.oracle.com/javase/tutorial/essential/concurrency/
 - http://greenteapress.com/wp/semaphores/ (The Little Book of Semaphores)
+
+
+## Programming Languages
+
+- http://papl.cs.brown.edu/2016/
 
 
 ## DevOps / SRE / Systems
@@ -523,6 +551,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://zwischenzugs.com/
 - https://bencane.com/
 - https://codewithoutrules.com
+- https://twitter.com/smdiehl/status/977494657293783040?s=03 (Scifi literature)
 
 
 ## SaaS / PaaS
