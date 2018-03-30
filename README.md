@@ -57,6 +57,8 @@ Stuff I want to read
 - https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7
 - https://dev.to/jjaimelr/im-developing-software-and-i-dont-google-any-more-3ecb
 - https://dev.to/drminnaar/choosing-a-programming-language-493h
+- https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
+- https://betterhumans.coach.me/the-complete-guide-to-remembering-what-you-read-1ffb74b4e04a
 
 
 ## Study these products
