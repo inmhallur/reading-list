@@ -21,7 +21,6 @@ Stuff I want to read
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
 - https://making.pusher.com/per-ip-rate-limiting-with-iptables/
 - https://news.ycombinator.com/item?id=16559004 (Literate Devops with Emacs Org-Mode)
-- https://news.ycombinator.com/item?id=16551696 (Show HN: Devstream.tv - watch developers code live)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 - https://news.ycombinator.com/item?id=16542603 (Unexpected challenges of making money on the internet)
 - https://github.com/adrianco/slides (Adrian Cockcroft Microservices)
@@ -31,16 +30,12 @@ Stuff I want to read
 - https://www.owasp.org/index.php/OWASP_Secure_Headers_Project
 - https://twitter.com/nixcraft/status/973221066012229633?s=03
 - https://www.quora.com/What-is-continuation-passing-style-in-functional-programming/answer/Tikhon-Jelvis
-- https://twitter.com/VimLinks/status/974303200382734337?s=03 (what not to do with vim)
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824
-- https://github.com/OJ/gobuster (Directory/file and DNS busting tool written in Go)
 - https://scotthelme.co.uk/certificate-transparency-an-introduction/
 - https://scotthelme.co.uk/certificate-authority-authorization/
 - https://scotthelme.co.uk/ocsp-expect-staple/
 - http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
 - https://twitter.com/ReinH/status/979048517393039360?s=03
-- https://vimeo.com/131502993 (Running Game Days at Stripe)
 
 
 ## Study these products
@@ -62,7 +57,6 @@ Stuff I want to read
 
 ## Follow up work to do
 
-- https://www.reddit.com/r/sysadmin/comments/r6zfv/we_are_sysadmins_reddit_ask_us_anything/ (Read; note down the interesting stuff)
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html (verify)
 - https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929 (Check out the tools mentioned)
 - https://www.quora.com/What-are-some-time-saving-tips-that-every-Vim-user-should-know/answer/Sam-Tetruashvili (`q:` and `q/`)
@@ -305,6 +299,7 @@ Stuff I want to read
 - https://www.example42.com/tutorials/PuppetTutorial
 - https://news.ycombinator.com/item?id=16165042 (Some thoughts on Spectre and Meltdown)
 - https://github.com/bcicen/ctop
+- https://github.com/OJ/gobuster (Directory/file and DNS busting tool written in Go)
 
 ### Docker
 
@@ -390,6 +385,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
 - https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
 - https://vim.rtorr.com/
+- https://www.reddit.com/r/vim/comments/83y4y4/antipatterns_what_not_to_do/
 
 ### vim plugins
 
@@ -462,6 +458,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.bleepingcomputer.com/news/security/amazon-aws-servers-might-soon-be-held-for-ransom-similar-to-mongodb/
 - https://www.hacksplaining.com/
 - http://seclab.stanford.edu/websec/csrf/csrf.pdf
+- https://github.com/OJ/gobuster (Directory/file and DNS busting tool written in Go)
 
 ### AWS security
 
