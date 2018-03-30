@@ -39,26 +39,8 @@ Stuff I want to read
 - https://scotthelme.co.uk/certificate-authority-authorization/
 - https://scotthelme.co.uk/ocsp-expect-staple/
 - http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
-- https://github.com/webflow/leadership/blob/master/tech_lead.md
-- https://twitter.com/smdiehl/status/979031581678587904?s=03
 - https://twitter.com/ReinH/status/979048517393039360?s=03
-- https://www.atlassian.com/team-playbook/plays/daci
-- https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9
-- https://dev.to/sobolevn/i-am-a-mediocre-developer--30hn
-- https://dev.to/sandordargo/8-books-every-junior-developer-should-read--4p5h
 - https://vimeo.com/131502993 (Running Game Days at Stripe)
-- https://medium.com/startup-grind/developing-warrior-like-mental-toughness-11-easy-steps-c9437ce5fb22
-- https://medium.com/the-mission/why-most-people-will-remain-in-mediocrity-6c7e24c48d12
-- https://medium.com/swlh/why-startups-are-dying-left-and-right-bbb4b1122e8e
-- https://medium.com/@jasisrad/journey-into-the-dark-8c7922a48265
-- https://howwegettonext.com/persisting-in-dark-times-lessons-from-a-war-crimes-researcher-8b3504f4b169
-- https://medium.com/@melodywilding/the-productivity-subculture-that-wont-quit-cabe3a0b7074
-- https://medium.com/@caspervonb/a-brief-totally-accurate-history-of-programming-languages-cd93ec806124
-- https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7
-- https://dev.to/jjaimelr/im-developing-software-and-i-dont-google-any-more-3ecb
-- https://dev.to/drminnaar/choosing-a-programming-language-493h
-- https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
-- https://betterhumans.coach.me/the-complete-guide-to-remembering-what-you-read-1ffb74b4e04a
 
 
 ## Study these products
@@ -366,6 +348,12 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/facebook/osquery
 - https://github.com/firehol/netdata
 - http://chapiapp.com/
+- https://github.com/tldr-pages/tldr
+- https://github.com/gokcehan/lf
+- https://github.com/knqyf263/pet
+- https://github.com/minbrowser/min
+- https://cerebroapp.com/
+- https://github.com/santinic/how2
 
 
 ## Creative
@@ -554,6 +542,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://bencane.com/
 - https://codewithoutrules.com
 - https://twitter.com/smdiehl/status/977494657293783040?s=03 (Scifi literature)
+- https://dev.to/sandordargo/8-books-every-junior-developer-should-read--4p5h
 
 
 ## SaaS / PaaS
