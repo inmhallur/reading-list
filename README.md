@@ -161,6 +161,7 @@ Stuff I want to read
 - https://twitter.com/mattoflambda/status/977369704154017792?s=03 (ghcid command to rebuild project and run tests)
 - https://twitter.com/HaskellLibHunt/status/978332510345035779?s=03 (Applied Category Theory - Online course)
 - http://www.scs.stanford.edu/~dbg/readings/haskell-history.pdf
+- https://www.benjamin.pizza/posts/2017-12-15-functor-functors.html
 
 ### Modelling effects (mainly mtl style typeclasses)
 
@@ -529,6 +530,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://atulgawande.com/book/the-checklist-manifesto/ (The Checklist Manifesto: How to Get Things Right [Atul Gawande])
 - http://a.co/2i2JN82 (The Goal: A Process of Ongoing Improvement [Eliyahu M. Goldratt, Jeff Cox])
 - http://a.co/gzncekw (Getting Things Done: The Art of Stress-Free Productivity [David Allen, James Fallows])
+- http://a.co/8hzCJbU (The Personal MA: Master the Art of Business [Josh Kaufman]
 
 
 ## Resource Mining (may be time consuming)
