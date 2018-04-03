@@ -36,6 +36,8 @@ Stuff I want to read
 - https://scotthelme.co.uk/ocsp-expect-staple/
 - http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
 - https://twitter.com/ReinH/status/979048517393039360?s=03
+- https://twitter.com/b0rk/status/980955984402272257?s=03 (Unix domain sockets)
+- https://twitter.com/tikhonjelvis/status/981040608994209792?s=03 (Tikhon Jelvis wrote about optimizing compilers and how they will use program synthesis in the future)
 
 
 ## Study these products
