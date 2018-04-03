@@ -533,6 +533,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/2i2JN82 (The Goal: A Process of Ongoing Improvement [Eliyahu M. Goldratt, Jeff Cox])
 - http://a.co/gzncekw (Getting Things Done: The Art of Stress-Free Productivity [David Allen, James Fallows])
 - http://a.co/8hzCJbU (The Personal MA: Master the Art of Business [Josh Kaufman]
+- http://a.co/cGrH5Pr (Rework [Jason Fried]; recommended by Jason; about 37 signals; urgent = bad, avoid OT)
 
 
 ## Resource Mining (may be time consuming)
