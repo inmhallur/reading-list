@@ -38,6 +38,7 @@ Stuff I want to read
 - https://twitter.com/ReinH/status/979048517393039360?s=03
 - https://twitter.com/b0rk/status/980955984402272257?s=03 (Unix domain sockets)
 - https://twitter.com/tikhonjelvis/status/981040608994209792?s=03 (Tikhon Jelvis wrote about optimizing compilers and how they will use program synthesis in the future)
+- https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 
 
 ## Study these products
