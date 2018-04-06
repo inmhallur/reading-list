@@ -39,6 +39,7 @@ Stuff I want to read
 - https://twitter.com/b0rk/status/980955984402272257?s=03 (Unix domain sockets)
 - https://twitter.com/tikhonjelvis/status/981040608994209792?s=03 (Tikhon Jelvis wrote about optimizing compilers and how they will use program synthesis in the future)
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
+- https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
 
 
 ## Study these products
@@ -450,6 +451,9 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 ## Security / Infosec
 
+- https://www.reddit.com/r/netsecstudents/
+- https://www.reddit.com/r/HowToHack/
+- https://www.reddit.com/r/xss/comments/736wv8/where_to_start_with_xss/
 - https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project
 - https://news.ycombinator.com/item?id=14321498 (Ask HN: How do you manage SSH keys and SSL certificates in your company?)
 - https://www.troyhunt.com/how-to-build-and-how-not-to-build/  (How to build and how not to build a secure "remember me" feature)
@@ -463,6 +467,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.hacksplaining.com/
 - http://seclab.stanford.edu/websec/csrf/csrf.pdf
 - https://github.com/OJ/gobuster (Directory/file and DNS busting tool written in Go)
+- https://www.owasp.org/index.php/REST_Assessment_Cheat_Sheet
+- https://www.owasp.org/index.php/REST_Security_Cheat_Sheet
 
 ### AWS security
 
