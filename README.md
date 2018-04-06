@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://twitter.com/puffnfresh/status/982031045112418304?s=03 (Haskell recommended libraries, etc)
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 - http://abailly.github.io/posts/cm-infra-1.html
 - http://abailly.github.io/posts/cm-infra-2.html
