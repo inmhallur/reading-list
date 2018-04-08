@@ -23,26 +23,18 @@ Stuff I want to read
 - https://making.pusher.com/per-ip-rate-limiting-with-iptables/
 - https://news.ycombinator.com/item?id=16559004 (Literate Devops with Emacs Org-Mode)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
-- https://news.ycombinator.com/item?id=16542603 (Unexpected challenges of making money on the internet)
 - https://github.com/adrianco/slides (Adrian Cockcroft Microservices)
 - https://jakearchibald.com/2016/caching-best-practices/
-- https://scotthelme.co.uk/hpkp-http-public-key-pinning/
-- https://www.html5rocks.com/en/tutorials/security/content-security-policy/
 - https://www.owasp.org/index.php/OWASP_Secure_Headers_Project
 - https://twitter.com/nixcraft/status/973221066012229633?s=03
 - https://www.quora.com/What-is-continuation-passing-style-in-functional-programming/answer/Tikhon-Jelvis
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- https://scotthelme.co.uk/certificate-transparency-an-introduction/
-- https://scotthelme.co.uk/certificate-authority-authorization/
-- https://scotthelme.co.uk/ocsp-expect-staple/
 - http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
-- https://twitter.com/ReinH/status/979048517393039360?s=03
-- https://twitter.com/b0rk/status/980955984402272257?s=03 (Unix domain sockets)
 - https://twitter.com/tikhonjelvis/status/981040608994209792?s=03 (Tikhon Jelvis wrote about optimizing compilers and how they will use program synthesis in the future)
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
 - http://abailly.github.io/posts/cm-arch-design.html
-- https://twitter.com/b0rk/status/982641594305273856?s=03 (Unix Permissions)
+- https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
 
 
 ## Study these products
