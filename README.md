@@ -41,6 +41,8 @@ Stuff I want to read
 - https://twitter.com/tikhonjelvis/status/981040608994209792?s=03 (Tikhon Jelvis wrote about optimizing compilers and how they will use program synthesis in the future)
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
+- http://abailly.github.io/posts/cm-arch-design.html
+- https://twitter.com/b0rk/status/982641594305273856?s=03 (Unix Permissions)
 
 
 ## Study these products
