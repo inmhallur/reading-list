@@ -29,12 +29,13 @@ Stuff I want to read
 - https://twitter.com/nixcraft/status/973221066012229633?s=03
 - https://www.quora.com/What-is-continuation-passing-style-in-functional-programming/answer/Tikhon-Jelvis
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- http://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html
 - https://twitter.com/tikhonjelvis/status/981040608994209792?s=03 (Tikhon Jelvis wrote about optimizing compilers and how they will use program synthesis in the future)
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
 - http://abailly.github.io/posts/cm-arch-design.html
 - https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
+- https://twitter.com/tikhonjelvis/status/983192976405901317?s=03 (Great overview of modern GC technology)
+- https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
 
 
 ## Study these products
@@ -125,7 +126,6 @@ Stuff I want to read
 - http://www.haskellforall.com/2017/09/type-driven-strictness.html
 - https://www.quora.com/Whats-a-good-scripting-functional-programming-language-for-quick-and-dirty-tasks-like-scraping-a-website-or-parsing-logs-that-is-fast-to-prototype-in-and-has-lots-of-easy-to-use-libraries/answer/Tikhon-Jelvis
 - http://comonad.com/reader/2011/free-monads-for-less-3/
-- http://www.haskellforall.com/2013/12/equational-reasoning.html
 - http://www.haskellforall.com/2012/08/the-category-design-pattern.html
 - http://wiki.haskell.org/Existential_type
 - https://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form
