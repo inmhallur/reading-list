@@ -29,13 +29,12 @@ Stuff I want to read
 - https://twitter.com/nixcraft/status/973221066012229633?s=03
 - https://www.quora.com/What-is-continuation-passing-style-in-functional-programming/answer/Tikhon-Jelvis
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- https://twitter.com/tikhonjelvis/status/981040608994209792?s=03 (Tikhon Jelvis wrote about optimizing compilers and how they will use program synthesis in the future)
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
 - http://abailly.github.io/posts/cm-arch-design.html
 - https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
-- https://twitter.com/tikhonjelvis/status/983192976405901317?s=03 (Great overview of modern GC technology)
 - https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
+- https://dev.to/presto412/how-i-cracked-the-captcha-on-my-universitys-website-237j
 
 
 ## Study these products
