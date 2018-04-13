@@ -36,6 +36,10 @@ Stuff I want to read
 - https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
 - https://dev.to/presto412/how-i-cracked-the-captcha-on-my-universitys-website-237j
 - https://twitter.com/b0rk/status/983705730036285441?s=03 (What's in a process?)
+- https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices
+- https://news.ycombinator.com/item?id=16810092 (A Taxonomy of Technical Debt)
+- https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69
+- https://docs.oracle.com/javase/tutorial/essential/index.html
 
 
 ## Study these products
