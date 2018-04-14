@@ -20,7 +20,6 @@ Stuff I want to read
 - http://alltopstartups.com/2017/01/20/free-entrepreneurship-courses/
 - https://twitter.com/b0rk/status/972213881836834818?s=03
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
-- https://making.pusher.com/per-ip-rate-limiting-with-iptables/
 - https://news.ycombinator.com/item?id=16559004 (Literate Devops with Emacs Org-Mode)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 - https://github.com/adrianco/slides (Adrian Cockcroft Microservices)
@@ -31,7 +30,6 @@ Stuff I want to read
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
-- http://abailly.github.io/posts/cm-arch-design.html
 - https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
 - https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
 - https://dev.to/presto412/how-i-cracked-the-captcha-on-my-universitys-website-237j
@@ -164,7 +162,7 @@ Stuff I want to read
 - https://twitter.com/mattoflambda/status/977369704154017792?s=03 (ghcid command to rebuild project and run tests)
 - https://twitter.com/HaskellLibHunt/status/978332510345035779?s=03 (Applied Category Theory - Online course)
 - http://www.scs.stanford.edu/~dbg/readings/haskell-history.pdf
-- https://www.benjamin.pizza/posts/2017-12-15-functor-functors.html
+- https://www.fpcomplete.com/blog/2017/06/tale-of-two-brackets
 
 ### Modelling effects (mainly mtl style typeclasses)
 
