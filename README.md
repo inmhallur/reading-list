@@ -38,6 +38,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=16810092 (A Taxonomy of Technical Debt)
 - https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69
 - https://docs.oracle.com/javase/tutorial/essential/index.html
+- https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0
 
 
 ## Study these products
