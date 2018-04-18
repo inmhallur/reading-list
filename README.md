@@ -39,6 +39,9 @@ Stuff I want to read
 - https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69
 - https://docs.oracle.com/javase/tutorial/essential/index.html
 - https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0
+- https://engineering.riotgames.com/news/determinism-league-legends-unified-clock
+- https://engineering.riotgames.com/news/game-data-server
+- https://websec.ca/kb/sql_injection#MySQL_Default_Databases
 
 
 ## Study these products
@@ -352,6 +355,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/minbrowser/min
 - https://cerebroapp.com/
 - https://github.com/santinic/how2
+- https://github.com/haad/proxychains
 
 
 ## Creative
