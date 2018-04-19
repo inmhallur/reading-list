@@ -42,6 +42,7 @@ Stuff I want to read
 - https://engineering.riotgames.com/news/determinism-league-legends-unified-clock
 - https://engineering.riotgames.com/news/game-data-server
 - https://websec.ca/kb/sql_injection#MySQL_Default_Databases
+- http://matt.might.net/articles/what-cs-majors-should-know/
 
 
 ## Study these products
