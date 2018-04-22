@@ -174,6 +174,7 @@ Stuff I want to read
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/a-little-lens-starter-tutorial
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing
 - https://blog.jakuba.net/2014/07/14/lens-tutorial-introduction-part-1.html
+- https://blog.jakuba.net/2014/08/06/lens-tutorial-stab-traversal-part-2.html
 - https://en.wikibooks.org/wiki/Haskell/Lenses_and_functional_references
 - http://lens.github.io/tutorial.html
 
