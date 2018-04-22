@@ -26,7 +26,6 @@ Stuff I want to read
 - https://jakearchibald.com/2016/caching-best-practices/
 - https://www.owasp.org/index.php/OWASP_Secure_Headers_Project
 - https://twitter.com/nixcraft/status/973221066012229633?s=03
-- https://www.quora.com/What-is-continuation-passing-style-in-functional-programming/answer/Tikhon-Jelvis
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
@@ -35,7 +34,6 @@ Stuff I want to read
 - https://dev.to/presto412/how-i-cracked-the-captcha-on-my-universitys-website-237j
 - https://twitter.com/b0rk/status/983705730036285441?s=03 (What's in a process?)
 - https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices
-- https://news.ycombinator.com/item?id=16810092 (A Taxonomy of Technical Debt)
 - https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69
 - https://docs.oracle.com/javase/tutorial/essential/index.html
 - https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0
@@ -142,12 +140,8 @@ Stuff I want to read
 - https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/
 - https://stackoverflow.com/questions/20870432/type-family-vs-data-family-in-brief
 - https://leonmergen.com/
-- https://en.wikibooks.org/wiki/Haskell/Continuation_passing_style
-- https://wiki.haskell.org/MonadCont_under_the_hood
 - https://news.ycombinator.com/item?id=1566704 ("very haskell ways" of writing directory traversals)
 - https://stackoverflow.com/questions/13352205/what-are-free-monads
-- https://twitter.com/k0001/status/942196512544706560 (safe-money: Money in the type system where it belongs)
-- https://blog.jle.im/entry/unique-sample-drawing-searches-with-list-and-statet.html
 - https://stackoverflow.com/questions/47829007/why-do-i-need-so-much-memory-for-writert-state/47839335#47839335
 - https://wiki.haskell.org/Random_shuffle
 - https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis
@@ -155,7 +149,6 @@ Stuff I want to read
 - https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
 - http://degoes.net/articles/modern-fp-part-2
 - https://www.snoyman.com/blog/2018/02/conduitpocalypse (there are many links here, bookmark them)
-- http://www.haskellforall.com/2018/02/the-wizard-monoid.html
 - https://www.tweag.io/posts/2018-02-05-free-monads.html
 - https://stackoverflow.com/questions/3276240/tools-for-analyzing-performance-of-a-haskell-program
 - http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf (Monads for functional programming)
