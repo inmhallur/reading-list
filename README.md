@@ -168,6 +168,15 @@ Stuff I want to read
 - https://stackoverflow.com/questions/2769487/mtl-transformers-monads-fd-monadlib-and-the-paradox-of-choice?rq=1
 - https://stackoverflow.com/questions/48392810/limiting-effects-like-with-freer-using-mtl-style
 
+### Lenses
+
+- http://hackage.haskell.org/package/lens-tutorial-1.0.3/docs/Control-Lens-Tutorial.html
+- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/a-little-lens-starter-tutorial
+- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing
+- https://blog.jakuba.net/2014/07/14/lens-tutorial-introduction-part-1.html
+- https://en.wikibooks.org/wiki/Haskell/Lenses_and_functional_references
+- http://lens.github.io/tutorial.html
+
 ### Mine the resources here
 
 - https://stackoverflow.com/a/16951/732396 (Beginners Guide to Haskell?)
