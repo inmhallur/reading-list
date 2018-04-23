@@ -41,6 +41,8 @@ Stuff I want to read
 - https://engineering.riotgames.com/news/game-data-server
 - https://websec.ca/kb/sql_injection#MySQL_Default_Databases
 - http://matt.might.net/articles/what-cs-majors-should-know/
+- http://matt.might.net/articles/ssh-hacks/
+- http://matt.might.net/articles/programmers-resolutions/
 
 
 ## Study these products
