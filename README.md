@@ -43,6 +43,7 @@ Stuff I want to read
 - http://matt.might.net/articles/what-cs-majors-should-know/
 - http://matt.might.net/articles/ssh-hacks/
 - http://matt.might.net/articles/programmers-resolutions/
+- http://randsinrepose.com/archives/category/management/
 
 
 ## Study these products
@@ -103,6 +104,9 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=pe6S5skZwNE (Haskell at work: Domain Modelling with Haskell: Data Structures)
 - https://www.youtube.com/watch?v=-qHwL8C9UoA (How to manage the changes Docker brings)
 - https://www.youtube.com/watch?v=-X1vrxQUETM (HaskellerZ - Feb 2018 - Getting things done in Haskell and Zurich Friends of Haskell)
+- https://www.youtube.com/watch?v=MXQmrZPH1vg (Commons Host - Dawn of the Hybrid CDN - Web Performance)
+- https://skillsmatter.com/skillscasts/4251-lenses-compositional-data-access-and-manipulation (Lenses: compositional data access and manipulation - Simon Peyton Jones)
+- https://www.youtube.com/watch?v=cefnmjtAolY (Lenses, Folds and Traversals - Edward Kmett)
 
 
 ## Read again
@@ -179,6 +183,7 @@ Stuff I want to read
 - https://blog.jakuba.net/2014/08/06/lens-tutorial-stab-traversal-part-2.html
 - https://en.wikibooks.org/wiki/Haskell/Lenses_and_functional_references
 - http://lens.github.io/tutorial.html
+- https://lens.github.io/
 
 ### Mine the resources here
 
@@ -560,6 +565,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://codewithoutrules.com
 - https://twitter.com/smdiehl/status/977494657293783040?s=03 (Scifi literature)
 - https://dev.to/sandordargo/8-books-every-junior-developer-should-read--4p5h
+- https://www.quora.com/What-are-the-5-most-honest-World-War-II-films/answer/John-DIsselt
 
 
 ## SaaS / PaaS
