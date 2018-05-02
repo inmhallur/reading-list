@@ -44,6 +44,24 @@ Stuff I want to read
 - http://matt.might.net/articles/ssh-hacks/
 - http://matt.might.net/articles/programmers-resolutions/
 - http://randsinrepose.com/archives/category/management/
+- https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439
+- https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
+- https://twitter.com/b0rk/status/988647486951739392?s=03
+- https://twitter.com/b0rk/status/988259255428972545?s=03
+- http://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/
+- https://medium.com/the-mission/15-things-you-need-to-be-successful-that-your-loser-ass-friends-dont-do-a3152dfd42a3
+- https://hackernoon.com/what-could-you-build-with-just-10-000-67e91f65dd4b
+- https://entrepreneurshandbook.co/i-sat-down-with-a-millionaire-who-operates-10-businesses-while-sailing-around-the-world-with-his-338929c4e8c9
+- https://medium.com/thrive-global/i-read-one-book-100-times-over-10-years-here-are-100-life-changing-lessons-i-learned-6b8499f89b
+- https://medium.com/darius-foroux/how-to-beat-procrastination-backed-by-science-969115e4e389
+- https://medium.com/darius-foroux/what-i-do-when-i-cant-focus-46747298c681
+- https://medium.com/the-mission/the-only-ten-things-that-have-given-me-success-39df9f5a916a
+- https://initiate.andela.com/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6
+- https://dev.to/aspittel/blogging-as-a-developer--5h0m
+- https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell
+- https://twitter.com/kmett/status/990410254763651077?s=03
+- https://dev.to/nikoheikkila/the-impractical-continuous-delivery-4gel
+
 
 
 ## Study these products
