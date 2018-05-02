@@ -61,6 +61,7 @@ Stuff I want to read
 - https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell
 - https://twitter.com/kmett/status/990410254763651077?s=03
 - https://dev.to/nikoheikkila/the-impractical-continuous-delivery-4gel
+- https://www.quora.com/How-can-you-get-rid-of-cockroaches-in-a-microwave
 
 
 
