@@ -44,11 +44,7 @@ Stuff I want to read
 - http://matt.might.net/articles/ssh-hacks/
 - http://matt.might.net/articles/programmers-resolutions/
 - http://randsinrepose.com/archives/category/management/
-- https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439
 - https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
-- https://twitter.com/b0rk/status/988647486951739392?s=03
-- https://twitter.com/b0rk/status/988259255428972545?s=03
-- http://blog.pragmaticengineer.com/distributed-architecture-concepts-i-have-learned-while-building-payments-systems/
 - https://medium.com/the-mission/15-things-you-need-to-be-successful-that-your-loser-ass-friends-dont-do-a3152dfd42a3
 - https://hackernoon.com/what-could-you-build-with-just-10-000-67e91f65dd4b
 - https://entrepreneurshandbook.co/i-sat-down-with-a-millionaire-who-operates-10-businesses-while-sailing-around-the-world-with-his-338929c4e8c9
@@ -62,6 +58,7 @@ Stuff I want to read
 - https://twitter.com/kmett/status/990410254763651077?s=03
 - https://dev.to/nikoheikkila/the-impractical-continuous-delivery-4gel
 - https://www.quora.com/How-can-you-get-rid-of-cockroaches-in-a-microwave
+- https://www.lightbend.com/blog/understand-reactive-architecture-design-and-programming-in-less-than-12-minutes
 
 
 
