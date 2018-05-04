@@ -64,6 +64,7 @@ Stuff I want to read
 - https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22
 - https://hackernoon.com/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93
 - https://medium.com/swlh/how-to-learn-108-new-skills-in-the-next-3-years-ded0d46fda55
+- https://twitter.com/engineersftw/status/923850563741106176
 
 
 
