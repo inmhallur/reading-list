@@ -59,6 +59,11 @@ Stuff I want to read
 - https://dev.to/nikoheikkila/the-impractical-continuous-delivery-4gel
 - https://www.quora.com/How-can-you-get-rid-of-cockroaches-in-a-microwave
 - https://www.lightbend.com/blog/understand-reactive-architecture-design-and-programming-in-less-than-12-minutes
+- https://twitter.com/wm/status/991688245368016896?s=03
+- https://twitter.com/bos31337/status/991685114244550656?s=03
+- https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22
+- https://hackernoon.com/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93
+- https://medium.com/swlh/how-to-learn-108-new-skills-in-the-next-3-years-ded0d46fda55
 
 
 
