@@ -32,11 +32,8 @@ Stuff I want to read
 - https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
 - https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
 - https://dev.to/presto412/how-i-cracked-the-captcha-on-my-universitys-website-237j
-- https://twitter.com/b0rk/status/983705730036285441?s=03 (What's in a process?)
 - https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices
-- https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69
 - https://docs.oracle.com/javase/tutorial/essential/index.html
-- https://medium.com/@elleluna/the-crossroads-of-should-and-must-90c75eb7c5b0
 - https://engineering.riotgames.com/news/determinism-league-legends-unified-clock
 - https://engineering.riotgames.com/news/game-data-server
 - https://websec.ca/kb/sql_injection#MySQL_Default_Databases
@@ -90,6 +87,8 @@ Stuff I want to read
 - http://www.daemonology.net/blog/2016-10-09-EC2s-most-dangerous-feature.html (verify)
 - https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929 (Check out the tools mentioned)
 - https://www.quora.com/What-are-some-time-saving-tips-that-every-Vim-user-should-know/answer/Sam-Tetruashvili (`q:` and `q/`)
+- http://hackage.haskell.org/package/lens-tutorial-1.0.3/docs/Control-Lens-Tutorial.html
+- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/a-little-lens-starter-tutorial
 
 
 ## Talks
@@ -159,7 +158,6 @@ Stuff I want to read
 - http://www.haskellforall.com/2017/09/type-driven-strictness.html
 - https://www.quora.com/Whats-a-good-scripting-functional-programming-language-for-quick-and-dirty-tasks-like-scraping-a-website-or-parsing-logs-that-is-fast-to-prototype-in-and-has-lots-of-easy-to-use-libraries/answer/Tikhon-Jelvis
 - http://comonad.com/reader/2011/free-monads-for-less-3/
-- http://www.haskellforall.com/2012/08/the-category-design-pattern.html
 - http://wiki.haskell.org/Existential_type
 - https://stackoverflow.com/questions/6872898/haskell-what-is-weak-head-normal-form
 - http://reasonablypolymorphic.com/blog/recursion-schemes
@@ -198,8 +196,6 @@ Stuff I want to read
 
 ### Lenses
 
-- http://hackage.haskell.org/package/lens-tutorial-1.0.3/docs/Control-Lens-Tutorial.html
-- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/a-little-lens-starter-tutorial
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing
 - https://blog.jakuba.net/2014/07/14/lens-tutorial-introduction-part-1.html
 - https://blog.jakuba.net/2014/08/06/lens-tutorial-stab-traversal-part-2.html
@@ -308,7 +304,6 @@ Stuff I want to read
 
 ### Needs time
 
-- https://twitter.com/mstk/status/943260409250791424 (Justin Le advent of code StateT  + List + 'many')
 - http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf
 - https://www.haskell.org/communities/11-2017/html/report.html (Haskell Communities and Activities Report: 33rd edition - Nov 2017)
 
