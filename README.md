@@ -20,7 +20,6 @@ Stuff I want to read
 - http://alltopstartups.com/2017/01/20/free-entrepreneurship-courses/
 - https://twitter.com/b0rk/status/972213881836834818?s=03
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
-- https://news.ycombinator.com/item?id=16559004 (Literate Devops with Emacs Org-Mode)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 - https://github.com/adrianco/slides (Adrian Cockcroft Microservices)
 - https://jakearchibald.com/2016/caching-best-practices/
@@ -31,7 +30,6 @@ Stuff I want to read
 - https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
 - https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
 - https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
-- https://dev.to/presto412/how-i-cracked-the-captcha-on-my-universitys-website-237j
 - https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices
 - https://docs.oracle.com/javase/tutorial/essential/index.html
 - https://engineering.riotgames.com/news/determinism-league-legends-unified-clock
@@ -42,8 +40,6 @@ Stuff I want to read
 - http://matt.might.net/articles/programmers-resolutions/
 - http://randsinrepose.com/archives/category/management/
 - https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
-- https://medium.com/the-mission/15-things-you-need-to-be-successful-that-your-loser-ass-friends-dont-do-a3152dfd42a3
-- https://hackernoon.com/what-could-you-build-with-just-10-000-67e91f65dd4b
 - https://entrepreneurshandbook.co/i-sat-down-with-a-millionaire-who-operates-10-businesses-while-sailing-around-the-world-with-his-338929c4e8c9
 - https://medium.com/thrive-global/i-read-one-book-100-times-over-10-years-here-are-100-life-changing-lessons-i-learned-6b8499f89b
 - https://medium.com/darius-foroux/how-to-beat-procrastination-backed-by-science-969115e4e389
@@ -62,6 +58,7 @@ Stuff I want to read
 - https://hackernoon.com/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93
 - https://medium.com/swlh/how-to-learn-108-new-skills-in-the-next-3-years-ded0d46fda55
 - https://twitter.com/engineersftw/status/923850563741106176
+- https://basecamp.com/bootstrapped
 
 
 
@@ -73,6 +70,7 @@ Stuff I want to read
 ## Essays
 
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
+- https://news.ycombinator.com/item?id=16559004 (Literate Devops with Emacs Org-Mode)
 
 
 ## Code to study
