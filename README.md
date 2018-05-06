@@ -29,7 +29,6 @@ Stuff I want to read
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
 - https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
-- https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
 - https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices
 - https://docs.oracle.com/javase/tutorial/essential/index.html
 - https://engineering.riotgames.com/news/determinism-league-legends-unified-clock
@@ -37,7 +36,6 @@ Stuff I want to read
 - https://websec.ca/kb/sql_injection#MySQL_Default_Databases
 - http://matt.might.net/articles/what-cs-majors-should-know/
 - http://matt.might.net/articles/programmers-resolutions/
-- http://randsinrepose.com/archives/category/management/
 - https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
 - https://medium.com/thrive-global/i-read-one-book-100-times-over-10-years-here-are-100-life-changing-lessons-i-learned-6b8499f89b
 - https://medium.com/the-mission/the-only-ten-things-that-have-given-me-success-39df9f5a916a
@@ -179,6 +177,7 @@ Stuff I want to read
 - https://twitter.com/HaskellLibHunt/status/978332510345035779?s=03 (Applied Category Theory - Online course)
 - http://www.scs.stanford.edu/~dbg/readings/haskell-history.pdf
 - https://www.fpcomplete.com/blog/2017/06/tale-of-two-brackets
+- https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
 
 ### Modelling effects (mainly mtl style typeclasses)
 
@@ -575,6 +574,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://twitter.com/smdiehl/status/977494657293783040?s=03 (Scifi literature)
 - https://dev.to/sandordargo/8-books-every-junior-developer-should-read--4p5h
 - https://www.quora.com/What-are-the-5-most-honest-World-War-II-films/answer/John-DIsselt
+- http://randsinrepose.com/archives/category/management/
 
 
 ## SaaS / PaaS
