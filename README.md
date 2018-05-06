@@ -36,7 +36,6 @@ Stuff I want to read
 - https://engineering.riotgames.com/news/game-data-server
 - https://websec.ca/kb/sql_injection#MySQL_Default_Databases
 - http://matt.might.net/articles/what-cs-majors-should-know/
-- http://matt.might.net/articles/ssh-hacks/
 - http://matt.might.net/articles/programmers-resolutions/
 - http://randsinrepose.com/archives/category/management/
 - https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
@@ -165,10 +164,8 @@ Stuff I want to read
 - https://stackoverflow.com/questions/13352205/what-are-free-monads
 - https://stackoverflow.com/questions/47829007/why-do-i-need-so-much-memory-for-writert-state/47839335#47839335
 - https://wiki.haskell.org/Random_shuffle
-- https://www.quora.com/Why-do-we-need-Monad-to-encapsulate-side-effects-in-Haskell/answer/Tikhon-Jelvis
 - https://hackage.haskell.org/package/monad-unlift
 - https://lukepalmer.wordpress.com/2013/03/04/how-gadts-inhibit-abstraction/
-- http://degoes.net/articles/modern-fp-part-2
 - https://www.snoyman.com/blog/2018/02/conduitpocalypse (there are many links here, bookmark them)
 - https://www.tweag.io/posts/2018-02-05-free-monads.html
 - https://stackoverflow.com/questions/3276240/tools-for-analyzing-performance-of-a-haskell-program
