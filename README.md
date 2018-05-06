@@ -41,7 +41,6 @@ Stuff I want to read
 - http://randsinrepose.com/archives/category/management/
 - https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
 - https://medium.com/thrive-global/i-read-one-book-100-times-over-10-years-here-are-100-life-changing-lessons-i-learned-6b8499f89b
-- https://medium.com/darius-foroux/what-i-do-when-i-cant-focus-46747298c681
 - https://medium.com/the-mission/the-only-ten-things-that-have-given-me-success-39df9f5a916a
 - https://initiate.andela.com/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6
 - https://dev.to/aspittel/blogging-as-a-developer--5h0m
