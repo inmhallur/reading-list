@@ -38,7 +38,6 @@ Stuff I want to read
 - http://matt.might.net/articles/programmers-resolutions/
 - https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
 - https://medium.com/thrive-global/i-read-one-book-100-times-over-10-years-here-are-100-life-changing-lessons-i-learned-6b8499f89b
-- https://medium.com/the-mission/the-only-ten-things-that-have-given-me-success-39df9f5a916a
 - https://initiate.andela.com/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6
 - https://dev.to/aspittel/blogging-as-a-developer--5h0m
 - https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell
@@ -53,6 +52,7 @@ Stuff I want to read
 - https://medium.com/swlh/how-to-learn-108-new-skills-in-the-next-3-years-ded0d46fda55
 - https://twitter.com/engineersftw/status/923850563741106176
 - https://basecamp.com/bootstrapped
+- https://news.ycombinator.com/item?id=16997272 (Please stop using Adblock (But Not Why You Think))
 
 
 
@@ -120,6 +120,7 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=MXQmrZPH1vg (Commons Host - Dawn of the Hybrid CDN - Web Performance)
 - https://skillsmatter.com/skillscasts/4251-lenses-compositional-data-access-and-manipulation (Lenses: compositional data access and manipulation - Simon Peyton Jones)
 - https://www.youtube.com/watch?v=cefnmjtAolY (Lenses, Folds and Traversals - Edward Kmett)
+- https://www.youtube.com/watch?v=OUYTNywPk-s (Oliver Beattie - Anatomy of a Production Kubernetes Outage)
 
 
 ## Read again
