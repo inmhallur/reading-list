@@ -47,14 +47,13 @@ Stuff I want to read
 - https://www.lightbend.com/blog/understand-reactive-architecture-design-and-programming-in-less-than-12-minutes
 - https://twitter.com/wm/status/991688245368016896?s=03
 - https://twitter.com/bos31337/status/991685114244550656?s=03
-- https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22
 - https://hackernoon.com/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93
 - https://medium.com/swlh/how-to-learn-108-new-skills-in-the-next-3-years-ded0d46fda55
 - https://twitter.com/engineersftw/status/923850563741106176
 - https://basecamp.com/bootstrapped
 - https://news.ycombinator.com/item?id=16997272 (Please stop using Adblock (But Not Why You Think))
-- https://dev.to/ben/what-are-some-fundamentals-of-security-every-developer-should-understand-3ki3
-
+- https://www.reddit.com/r/webdev/comments/87smdo/as_a_full_stack_web_developer_ive_recently_taken/?st=JFC3OLDT&sh=91daa7ed
+- https://dev.to/powerdowncloud/web-developer-security-checklist-1knh
 
 
 ## Study these products
