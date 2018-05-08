@@ -54,10 +54,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=16997272 (Please stop using Adblock (But Not Why You Think))
 - https://www.reddit.com/r/webdev/comments/87smdo/as_a_full_stack_web_developer_ive_recently_taken/?st=JFC3OLDT&sh=91daa7ed
 - https://dev.to/powerdowncloud/web-developer-security-checklist-1knh
-- https://medium.com/architecting-a-life/why-developing-serious-relationships-in-your-20s-matters-cff4161f551c
-- https://medium.com/taking-note/the-real-cost-of-burnout-and-how-to-avoid-it-a77c45a4328f
 - https://twitter.com/kmett/status/993262362961547264?s=03
-- https://dev.to/amandasopkin/are-technical-interviews-a-good-measure-of-software-engineering-ability-1cp9
 - https://dev.to/ivancrneto/what-id-like-to-hear-from-an-experienced-developer-when-i-was-a-beginner-438g
 
 
