@@ -54,6 +54,7 @@ Stuff I want to read
 - https://www.reddit.com/r/webdev/comments/87smdo/as_a_full_stack_web_developer_ive_recently_taken/?st=JFC3OLDT&sh=91daa7ed
 - https://dev.to/powerdowncloud/web-developer-security-checklist-1knh
 - https://twitter.com/kmett/status/993262362961547264?s=03
+- https://twitter.com/mstk/status/993936521240571904?s=03
 
 
 ## Study these products
@@ -447,6 +448,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://lartc.org/howto/index.html  (Linux Advanced Routing & Traffic Control HOWTO)
 - https://rlworkman.net/howtos/iptables/chunkyhtml/index.html  (Iptables Tutorial 1.2.1)
 - https://www.netfilter.org/documentation/HOWTO/networking-concepts-HOWTO.html
+- https://twitter.com/b0rk/status/993939745305702400?s=03
 
 
 ## IPTables
