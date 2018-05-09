@@ -29,7 +29,6 @@ Stuff I want to read
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
 - https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
-- https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices
 - https://docs.oracle.com/javase/tutorial/essential/index.html
 - https://engineering.riotgames.com/news/determinism-league-legends-unified-clock
 - https://engineering.riotgames.com/news/game-data-server
@@ -55,7 +54,6 @@ Stuff I want to read
 - https://www.reddit.com/r/webdev/comments/87smdo/as_a_full_stack_web_developer_ive_recently_taken/?st=JFC3OLDT&sh=91daa7ed
 - https://dev.to/powerdowncloud/web-developer-security-checklist-1knh
 - https://twitter.com/kmett/status/993262362961547264?s=03
-- https://dev.to/ivancrneto/what-id-like-to-hear-from-an-experienced-developer-when-i-was-a-beginner-438g
 
 
 ## Study these products
