@@ -54,6 +54,11 @@ Stuff I want to read
 - https://dev.to/powerdowncloud/web-developer-security-checklist-1knh
 - https://twitter.com/kmett/status/993262362961547264?s=03
 - https://twitter.com/mstk/status/993936521240571904?s=03
+- https://twitter.com/FPComplete/status/994299066937888770?s=03
+- https://dev.to/benhayehudi/tips-for-maintaining-a-side-project-with-a-full-time-developer-job-5e71
+- https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c
+- https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472
+- https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440
 
 
 ## Study these products
@@ -179,6 +184,7 @@ Stuff I want to read
 - http://www.scs.stanford.edu/~dbg/readings/haskell-history.pdf
 - https://www.fpcomplete.com/blog/2017/06/tale-of-two-brackets
 - https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
+- https://www.fpcomplete.com/blog/2018/05/pinpointing-deadlocks-in-haskell
 
 ### Modelling effects (mainly mtl style typeclasses)
 
