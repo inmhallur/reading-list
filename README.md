@@ -36,7 +36,6 @@ Stuff I want to read
 - http://matt.might.net/articles/what-cs-majors-should-know/
 - http://matt.might.net/articles/programmers-resolutions/
 - https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
-- https://medium.com/thrive-global/i-read-one-book-100-times-over-10-years-here-are-100-life-changing-lessons-i-learned-6b8499f89b
 - https://initiate.andela.com/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6
 - https://dev.to/aspittel/blogging-as-a-developer--5h0m
 - https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell
