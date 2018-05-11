@@ -86,6 +86,7 @@ Stuff I want to read
 - https://www.quora.com/What-are-some-time-saving-tips-that-every-Vim-user-should-know/answer/Sam-Tetruashvili (`q:` and `q/`)
 - http://hackage.haskell.org/package/lens-tutorial-1.0.3/docs/Control-Lens-Tutorial.html
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/a-little-lens-starter-tutorial
+- https://medium.com/@jeremy.trinka/five-pentesting-tools-and-techniques-that-sysadmins-should-know-about-4ceca1488bff
 
 
 ## Talks
@@ -126,6 +127,7 @@ Stuff I want to read
 - https://skillsmatter.com/skillscasts/4251-lenses-compositional-data-access-and-manipulation (Lenses: compositional data access and manipulation - Simon Peyton Jones)
 - https://www.youtube.com/watch?v=cefnmjtAolY (Lenses, Folds and Traversals - Edward Kmett)
 - https://www.youtube.com/watch?v=OUYTNywPk-s (Oliver Beattie - Anatomy of a Production Kubernetes Outage)
+- https://www.youtube.com/watch?v=RUYPd7SjI-Y (Galois Tech Talk: Tree-Sitter: A New Parsing System for Programming Tools)
 
 
 ## Read again
