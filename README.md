@@ -59,6 +59,7 @@ Stuff I want to read
 - https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c
 - https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472
 - https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440
+- https://news.ycombinator.com/item?id=17043513 (Interviews vs. Auditions)
 
 
 ## Study these products
@@ -187,6 +188,7 @@ Stuff I want to read
 - https://www.fpcomplete.com/blog/2017/06/tale-of-two-brackets
 - https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
 - https://www.fpcomplete.com/blog/2018/05/pinpointing-deadlocks-in-haskell
+- https://news.ycombinator.com/item?id=17044595 (Haskell's Missing Concurrency Basics (2016))
 
 ### Modelling effects (mainly mtl style typeclasses)
 
