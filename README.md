@@ -284,7 +284,6 @@ Stuff I want to read
 
 - https://github.com/themoritz/diener
 - https://github.com/metabrainz/CAA-indexer/blob/4fb2f260f1b5dd66d3dcaef1a188818a89705002/src/Main.hs
-- https://github.com/safarijv/ncsa-logparse
 - https://github.com/haskell-servant/example-servant-minimal
 - https://github.com/lpaste/lpaste
 
