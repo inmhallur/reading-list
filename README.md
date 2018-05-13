@@ -45,7 +45,6 @@ Stuff I want to read
 - https://www.lightbend.com/blog/understand-reactive-architecture-design-and-programming-in-less-than-12-minutes
 - https://twitter.com/wm/status/991688245368016896?s=03
 - https://twitter.com/bos31337/status/991685114244550656?s=03
-- https://hackernoon.com/10-things-infosec-professionals-need-to-know-about-networking-d159946efc93
 - https://medium.com/swlh/how-to-learn-108-new-skills-in-the-next-3-years-ded0d46fda55
 - https://twitter.com/engineersftw/status/923850563741106176
 - https://basecamp.com/bootstrapped
@@ -60,7 +59,8 @@ Stuff I want to read
 - https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472
 - https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440
 - https://news.ycombinator.com/item?id=17043513 (Interviews vs. Auditions)
-- https://medium.com/the-mission/5-essential-investments-every-human-being-should-make-in-themselves-121771565384
+- http://packetlife.net/blog/2010/jun/7/understanding-tcp-sequence-acknowledgment-numbers/
+- https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 
 
 ## Study these products
