@@ -60,6 +60,7 @@ Stuff I want to read
 - https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472
 - https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440
 - https://news.ycombinator.com/item?id=17043513 (Interviews vs. Auditions)
+- https://medium.com/the-mission/5-essential-investments-every-human-being-should-make-in-themselves-121771565384
 
 
 ## Study these products
