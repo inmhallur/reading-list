@@ -61,6 +61,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17043513 (Interviews vs. Auditions)
 - http://packetlife.net/blog/2010/jun/7/understanding-tcp-sequence-acknowledgment-numbers/
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
+- https://jakewharton.com/
 
 
 ## Study these products
