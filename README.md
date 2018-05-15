@@ -191,6 +191,7 @@ Stuff I want to read
 - https://twitter.com/DiazCarrete/status/982917515662839808?s=03 (Why you should use Backpack)
 - https://www.fpcomplete.com/blog/2018/05/pinpointing-deadlocks-in-haskell
 - https://news.ycombinator.com/item?id=17044595 (Haskell's Missing Concurrency Basics (2016))
+- https://twitter.com/welltyped/status/996274931171241984?s=03 (Objects with special collection routines in GHC's garbage collector)
 
 ### Modelling effects (mainly mtl style typeclasses)
 
