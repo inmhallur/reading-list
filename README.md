@@ -62,6 +62,7 @@ Stuff I want to read
 - http://packetlife.net/blog/2010/jun/7/understanding-tcp-sequence-acknowledgment-numbers/
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 - https://jakewharton.com/
+- https://github.com/danistefanovic/build-your-own-x
 
 
 ## Study these products
@@ -390,6 +391,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://cerebroapp.com/
 - https://github.com/santinic/how2
 - https://github.com/haad/proxychains
+- https://github.com/gojektech/proctor
 
 
 ## Creative
