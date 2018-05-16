@@ -63,6 +63,8 @@ Stuff I want to read
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 - https://jakewharton.com/
 - https://github.com/danistefanovic/build-your-own-x
+- https://twitter.com/mstk/status/996114822386343936?s=03 (A purely functional typed approach to Trainable Models -- 3 part series on Differentiable Programming in Haskell)
+- https://www.haskell.org/communities/05-2018/html/report.html
 
 
 ## Study these products
