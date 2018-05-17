@@ -394,6 +394,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/santinic/how2
 - https://github.com/haad/proxychains
 - https://github.com/gojektech/proctor
+- https://github.com/sstephenson/bats
 
 
 ## Creative
