@@ -50,7 +50,6 @@ Stuff I want to read
 - https://basecamp.com/bootstrapped
 - https://news.ycombinator.com/item?id=16997272 (Please stop using Adblock (But Not Why You Think))
 - https://www.reddit.com/r/webdev/comments/87smdo/as_a_full_stack_web_developer_ive_recently_taken/?st=JFC3OLDT&sh=91daa7ed
-- https://dev.to/powerdowncloud/web-developer-security-checklist-1knh
 - https://twitter.com/kmett/status/993262362961547264?s=03
 - https://twitter.com/mstk/status/993936521240571904?s=03
 - https://twitter.com/FPComplete/status/994299066937888770?s=03
