@@ -583,6 +583,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/2i2JN82 (The Goal: A Process of Ongoing Improvement [Eliyahu M. Goldratt, Jeff Cox])
 - http://a.co/gzncekw (Getting Things Done: The Art of Stress-Free Productivity [David Allen, James Fallows])
 - http://a.co/8hzCJbU (The Personal MA: Master the Art of Business [Josh Kaufman]
+- https://moderncto.io/book/ (Modern CTO)
 
 
 ## Resource Mining (may be time consuming)
@@ -596,6 +597,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://dev.to/sandordargo/8-books-every-junior-developer-should-read--4p5h
 - https://www.quora.com/What-are-the-5-most-honest-World-War-II-films/answer/John-DIsselt
 - http://randsinrepose.com/archives/category/management/
+- http://chadfowler.com/posts/
+- https://moderncto.io/podcast/
 
 
 ## SaaS / PaaS
