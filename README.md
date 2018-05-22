@@ -66,6 +66,7 @@ Stuff I want to read
 - https://www.haskell.org/communities/05-2018/html/report.html
 - https://stackshare.io/raygun/how-raygun-processes-millions-of-error-events-per-second
 - https://dev.to/nickjj/how-to-start-and-finish-any-web-app-project-3bad
+- https://medium.com/the-mission/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27
 
 
 ## Study these products
