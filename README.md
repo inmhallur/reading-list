@@ -67,6 +67,7 @@ Stuff I want to read
 - https://stackshare.io/raygun/how-raygun-processes-millions-of-error-events-per-second
 - https://dev.to/nickjj/how-to-start-and-finish-any-web-app-project-3bad
 - https://medium.com/the-mission/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27
+- https://medium.com/@jeremy.trinka/7-resources-to-get-you-started-in-operational-cybersecurity-a53e374fded9
 
 
 ## Study these products
@@ -585,6 +586,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/gzncekw (Getting Things Done: The Art of Stress-Free Productivity [David Allen, James Fallows])
 - http://a.co/8hzCJbU (The Personal MA: Master the Art of Business [Josh Kaufman]
 - https://moderncto.io/book/ (Modern CTO)
+- http://a.co/8cRiEgE (Java SE8 for the really impatient)
+- http://a.co/4lDxxY3 (Effective Java, 3rd edition)
 
 
 ## Resource Mining (may be time consuming)
