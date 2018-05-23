@@ -68,6 +68,7 @@ Stuff I want to read
 - https://dev.to/nickjj/how-to-start-and-finish-any-web-app-project-3bad
 - https://medium.com/the-mission/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27
 - https://medium.com/@jeremy.trinka/7-resources-to-get-you-started-in-operational-cybersecurity-a53e374fded9
+- https://medium.com/netflix-techblog/starting-the-avalanche-640e69b14a06
 
 
 ## Study these products
