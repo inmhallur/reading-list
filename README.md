@@ -69,6 +69,17 @@ Stuff I want to read
 - https://medium.com/the-mission/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27
 - https://medium.com/@jeremy.trinka/7-resources-to-get-you-started-in-operational-cybersecurity-a53e374fded9
 - https://medium.com/netflix-techblog/starting-the-avalanche-640e69b14a06
+- https://blog.digitalocean.com/how-we-support-remote-employees-at-digitalocean/
+- https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/
+- https://blog.digitalocean.com/mentoring-engineers-through-an-engineering-fellowship-program/
+- https://dev.to/interviewcake/coding-interview-tips-1h02
+- https://dev.to/bosepchuk/how-i-intend-to-become-a-better-software-developer-2pjp
+- https://dev.to/annarankin/how-art-school-prepared-me-for-programming-33l2
+- https://thebelladonnacomedy.com/parenting-tips-for-raising-a-confident-mediocre-white-man-81d19982c189
+- https://medium.com/swlh/there-are-no-rules-start-living-like-it-8efd9ed8f7ec
+- https://medium.com/the-mission/how-to-understand-your-true-value-and-never-sell-yourself-short-again-66d527197608
+- https://ofdollarsanddata.com/borrow-if-you-dare-85ea6384109d
+- https://blog.benjojo.co.uk/post/bgp-battleships
 
 
 ## Study these products
@@ -138,6 +149,7 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=cefnmjtAolY (Lenses, Folds and Traversals - Edward Kmett)
 - https://www.youtube.com/watch?v=OUYTNywPk-s (Oliver Beattie - Anatomy of a Production Kubernetes Outage)
 - https://www.youtube.com/watch?v=RUYPd7SjI-Y (Galois Tech Talk: Tree-Sitter: A New Parsing System for Programming Tools)
+- https://twitter.com/MaxTagher/status/999293912173891584?s=03 (Maximillian Tagher: Validation across the stack (Postgres, Haskell and the frontend)
 
 
 ## Read again
