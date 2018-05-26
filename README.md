@@ -80,6 +80,7 @@ Stuff I want to read
 - https://medium.com/the-mission/how-to-understand-your-true-value-and-never-sell-yourself-short-again-66d527197608
 - https://ofdollarsanddata.com/borrow-if-you-dare-85ea6384109d
 - https://blog.benjojo.co.uk/post/bgp-battleships
+- https://wiki.haskell.org/Function_decoration_pattern
 
 
 ## Study these products
