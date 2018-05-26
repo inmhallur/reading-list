@@ -151,6 +151,7 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=OUYTNywPk-s (Oliver Beattie - Anatomy of a Production Kubernetes Outage)
 - https://www.youtube.com/watch?v=RUYPd7SjI-Y (Galois Tech Talk: Tree-Sitter: A New Parsing System for Programming Tools)
 - https://twitter.com/MaxTagher/status/999293912173891584?s=03 (Maximillian Tagher: Validation across the stack (Postgres, Haskell and the frontend)
+- https://www.youtube.com/watch?v=uOL26c1Qu5U (5 Ethereum basics - accounts, contracts, nodes, miners; recommended by Qiao Liang)
 
 
 ## Read again
