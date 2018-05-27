@@ -21,15 +21,8 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17043513 (Interviews vs. Auditions)
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 - https://www.haskell.org/communities/05-2018/html/report.html
-- https://medium.com/netflix-techblog/starting-the-avalanche-640e69b14a06
-- https://dev.to/interviewcake/coding-interview-tips-1h02
-- https://dev.to/bosepchuk/how-i-intend-to-become-a-better-software-developer-2pjp
-- https://dev.to/annarankin/how-art-school-prepared-me-for-programming-33l2
-- https://thebelladonnacomedy.com/parenting-tips-for-raising-a-confident-mediocre-white-man-81d19982c189
 - https://medium.com/swlh/there-are-no-rules-start-living-like-it-8efd9ed8f7ec
-- https://medium.com/the-mission/how-to-understand-your-true-value-and-never-sell-yourself-short-again-66d527197608
-- https://ofdollarsanddata.com/borrow-if-you-dare-85ea6384109d
-- https://blog.benjojo.co.uk/post/bgp-battleships
+- https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d
 
 
 ## Study these products
