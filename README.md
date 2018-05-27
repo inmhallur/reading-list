@@ -16,9 +16,6 @@ Stuff I want to read
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 - https://www.haskell.org/communities/05-2018/html/report.html
 - https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d
-- https://initiate.andela.com/event-sourcing-and-cqrs-a-look-at-kafka-e0c1b90d17d8
-- https://initiate.andela.com/building-out-antifragile-microservice-andela-design-consideration-d6e03a185d6a
-- https://medium.com/@briceicle/migrating-from-a-monolith-to-a-microservices-architecture-99cecf8af366
 
 
 ## Study these products
@@ -471,6 +468,12 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 - https://news.ycombinator.com/item?id=13425728 (Some DIY VPN options)
 - https://www.digitalocean.com/community/tutorials/how-to-create-a-point-to-point-vpn-with-wireguard-on-ubuntu-16-04
+
+
+## Event Sourcing
+
+- https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591559(v=pandp.10)
+- https://www.martinfowler.com/eaaDev/EventSourcing.html
 
 
 ## Business
