@@ -12,34 +12,16 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
-- http://alltopstartups.com/2017/01/20/free-entrepreneurship-courses/
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
-- https://twitter.com/nixcraft/status/973221066012229633?s=03
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- https://engineering.riotgames.com/news/determinism-league-legends-unified-clock
-- https://engineering.riotgames.com/news/game-data-server
 - http://matt.might.net/articles/what-cs-majors-should-know/
 - http://matt.might.net/articles/programmers-resolutions/
 - https://initiate.andela.com/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6
-- https://dev.to/aspittel/blogging-as-a-developer--5h0m
-- https://dev.to/nikoheikkila/the-impractical-continuous-delivery-4gel
-- https://www.lightbend.com/blog/understand-reactive-architecture-design-and-programming-in-less-than-12-minutes
-- https://medium.com/swlh/how-to-learn-108-new-skills-in-the-next-3-years-ded0d46fda55
-- https://twitter.com/mstk/status/993936521240571904?s=03
-- https://dev.to/benhayehudi/tips-for-maintaining-a-side-project-with-a-full-time-developer-job-5e71
-- https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440
 - https://news.ycombinator.com/item?id=17043513 (Interviews vs. Auditions)
-- http://packetlife.net/blog/2010/jun/7/understanding-tcp-sequence-acknowledgment-numbers/
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 - https://www.haskell.org/communities/05-2018/html/report.html
-- https://dev.to/nickjj/how-to-start-and-finish-any-web-app-project-3bad
-- https://medium.com/the-mission/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27
-- https://medium.com/@jeremy.trinka/7-resources-to-get-you-started-in-operational-cybersecurity-a53e374fded9
 - https://medium.com/netflix-techblog/starting-the-avalanche-640e69b14a06
-- https://blog.digitalocean.com/how-we-support-remote-employees-at-digitalocean/
-- https://blog.digitalocean.com/how-to-conduct-effective-code-reviews/
-- https://blog.digitalocean.com/mentoring-engineers-through-an-engineering-fellowship-program/
 - https://dev.to/interviewcake/coding-interview-tips-1h02
 - https://dev.to/bosepchuk/how-i-intend-to-become-a-better-software-developer-2pjp
 - https://dev.to/annarankin/how-art-school-prepared-me-for-programming-33l2
@@ -199,6 +181,7 @@ Stuff I want to read
 - https://twitter.com/FPComplete/status/994299066937888770?s=03
 - https://twitter.com/mstk/status/996114822386343936?s=03 (A purely functional typed approach to Trainable Models -- 3 part series on Differentiable Programming in Haskell)
 - https://wiki.haskell.org/Function_decoration_pattern
+- https://twitter.com/mstk/status/993936521240571904?s=03
 
 ### Modelling effects (mainly mtl style typeclasses)
 
@@ -530,6 +513,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
 - https://websec.ca/kb/sql_injection#MySQL_Default_Databases
 - https://www.reddit.com/r/webdev/comments/87smdo/as_a_full_stack_web_developer_ive_recently_taken/?st=JFC3OLDT&sh=91daa7ed
+- https://medium.com/@jeremy.trinka/7-resources-to-get-you-started-in-operational-cybersecurity-a53e374fded9
 
 ### AWS security
 
