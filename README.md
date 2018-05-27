@@ -11,18 +11,14 @@ Stuff I want to read
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
-- https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
-- https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- http://matt.might.net/articles/what-cs-majors-should-know/
-- http://matt.might.net/articles/programmers-resolutions/
-- https://initiate.andela.com/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6
-- https://news.ycombinator.com/item?id=17043513 (Interviews vs. Auditions)
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 - https://www.haskell.org/communities/05-2018/html/report.html
-- https://medium.com/swlh/there-are-no-rules-start-living-like-it-8efd9ed8f7ec
 - https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d
+- https://initiate.andela.com/event-sourcing-and-cqrs-a-look-at-kafka-e0c1b90d17d8
+- https://initiate.andela.com/building-out-antifragile-microservice-andela-design-consideration-d6e03a185d6a
+- https://medium.com/@briceicle/migrating-from-a-monolith-to-a-microservices-architecture-99cecf8af366
 
 
 ## Study these products
@@ -175,6 +171,7 @@ Stuff I want to read
 - https://twitter.com/mstk/status/996114822386343936?s=03 (A purely functional typed approach to Trainable Models -- 3 part series on Differentiable Programming in Haskell)
 - https://wiki.haskell.org/Function_decoration_pattern
 - https://twitter.com/mstk/status/993936521240571904?s=03
+- https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
 
 ### Modelling effects (mainly mtl style typeclasses)
 
@@ -454,6 +451,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://rlworkman.net/howtos/iptables/chunkyhtml/index.html  (Iptables Tutorial 1.2.1)
 - https://www.netfilter.org/documentation/HOWTO/networking-concepts-HOWTO.html
 - https://twitter.com/b0rk/status/993939745305702400?s=03
+- https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
 
 
 ## IPTables
