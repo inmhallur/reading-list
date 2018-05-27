@@ -5,66 +5,34 @@ Stuff I want to read
 
 ## Priority
 
-- https://twitter.com/puffnfresh/status/982031045112418304?s=03 (Haskell recommended libraries, etc)
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 - http://abailly.github.io/posts/cm-infra-1.html
 - http://abailly.github.io/posts/cm-infra-2.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
-- https://github.com/jayed/gogurl
-- https://purelyfunctional.org/posts/2018-03-04-monadfix-lazy-strict-state.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
-- https://www.youtube.com/watch?v=_wiGpBQGCjU (AWS re:Invent 2015: IAM Best Practices to Live By)
 - https://jvns.ca/blog/2018/03/05/things-ive-learned-networking/
-- https://www.stackage.org/package/unliftio
 - http://alltopstartups.com/2017/01/20/free-entrepreneurship-courses/
-- https://twitter.com/b0rk/status/972213881836834818?s=03
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
-- https://github.com/adrianco/slides (Adrian Cockcroft Microservices)
-- https://jakearchibald.com/2016/caching-best-practices/
-- https://www.owasp.org/index.php/OWASP_Secure_Headers_Project
 - https://twitter.com/nixcraft/status/973221066012229633?s=03
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
-- https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
-- https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
-- https://docs.oracle.com/javase/tutorial/essential/index.html
 - https://engineering.riotgames.com/news/determinism-league-legends-unified-clock
 - https://engineering.riotgames.com/news/game-data-server
-- https://websec.ca/kb/sql_injection#MySQL_Default_Databases
 - http://matt.might.net/articles/what-cs-majors-should-know/
 - http://matt.might.net/articles/programmers-resolutions/
-- https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
 - https://initiate.andela.com/how-we-solved-authentication-and-authorization-in-our-microservice-architecture-994539d1b6e6
 - https://dev.to/aspittel/blogging-as-a-developer--5h0m
-- https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell
-- https://twitter.com/kmett/status/990410254763651077?s=03
 - https://dev.to/nikoheikkila/the-impractical-continuous-delivery-4gel
-- https://www.quora.com/How-can-you-get-rid-of-cockroaches-in-a-microwave
 - https://www.lightbend.com/blog/understand-reactive-architecture-design-and-programming-in-less-than-12-minutes
-- https://twitter.com/wm/status/991688245368016896?s=03
-- https://twitter.com/bos31337/status/991685114244550656?s=03
 - https://medium.com/swlh/how-to-learn-108-new-skills-in-the-next-3-years-ded0d46fda55
-- https://twitter.com/engineersftw/status/923850563741106176
-- https://basecamp.com/bootstrapped
-- https://news.ycombinator.com/item?id=16997272 (Please stop using Adblock (But Not Why You Think))
-- https://www.reddit.com/r/webdev/comments/87smdo/as_a_full_stack_web_developer_ive_recently_taken/?st=JFC3OLDT&sh=91daa7ed
-- https://twitter.com/kmett/status/993262362961547264?s=03
 - https://twitter.com/mstk/status/993936521240571904?s=03
-- https://twitter.com/FPComplete/status/994299066937888770?s=03
 - https://dev.to/benhayehudi/tips-for-maintaining-a-side-project-with-a-full-time-developer-job-5e71
-- https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c
-- https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472
 - https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440
 - https://news.ycombinator.com/item?id=17043513 (Interviews vs. Auditions)
 - http://packetlife.net/blog/2010/jun/7/understanding-tcp-sequence-acknowledgment-numbers/
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
-- https://jakewharton.com/
-- https://github.com/danistefanovic/build-your-own-x
-- https://twitter.com/mstk/status/996114822386343936?s=03 (A purely functional typed approach to Trainable Models -- 3 part series on Differentiable Programming in Haskell)
 - https://www.haskell.org/communities/05-2018/html/report.html
-- https://stackshare.io/raygun/how-raygun-processes-millions-of-error-events-per-second
 - https://dev.to/nickjj/how-to-start-and-finish-any-web-app-project-3bad
 - https://medium.com/the-mission/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27
 - https://medium.com/@jeremy.trinka/7-resources-to-get-you-started-in-operational-cybersecurity-a53e374fded9
@@ -80,7 +48,6 @@ Stuff I want to read
 - https://medium.com/the-mission/how-to-understand-your-true-value-and-never-sell-yourself-short-again-66d527197608
 - https://ofdollarsanddata.com/borrow-if-you-dare-85ea6384109d
 - https://blog.benjojo.co.uk/post/bgp-battleships
-- https://wiki.haskell.org/Function_decoration_pattern
 
 
 ## Study these products
@@ -92,6 +59,8 @@ Stuff I want to read
 
 - https://www.dwheeler.com/essays/fixing-unix-linux-filenames.html
 - https://news.ycombinator.com/item?id=16559004 (Literate Devops with Emacs Org-Mode)
+- https://github.com/adrianco/slides (Adrian Cockcroft Microservices)
+- https://stackshare.io/posts/evolution-of-new-york-times-tech-stack
 
 
 ## Code to study
@@ -152,6 +121,16 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=RUYPd7SjI-Y (Galois Tech Talk: Tree-Sitter: A New Parsing System for Programming Tools)
 - https://twitter.com/MaxTagher/status/999293912173891584?s=03 (Maximillian Tagher: Validation across the stack (Postgres, Haskell and the frontend)
 - https://www.youtube.com/watch?v=uOL26c1Qu5U (5 Ethereum basics - accounts, contracts, nodes, miners; recommended by Qiao Liang)
+- https://www.youtube.com/watch?v=_wiGpBQGCjU (AWS re:Invent 2015: IAM Best Practices to Live By)
+- https://twitter.com/kmett/status/990410254763651077?s=03
+- https://twitter.com/engineersftw/status/923850563741106176 (Becoming a Tech Conference Speaker)
+
+
+## What to build?
+
+- https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c
+- https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472
+- https://github.com/danistefanovic/build-your-own-x
 
 
 ## Read again
@@ -213,6 +192,13 @@ Stuff I want to read
 - https://www.fpcomplete.com/blog/2018/05/pinpointing-deadlocks-in-haskell
 - https://news.ycombinator.com/item?id=17044595 (Haskell's Missing Concurrency Basics (2016))
 - https://twitter.com/welltyped/status/996274931171241984?s=03 (Objects with special collection routines in GHC's garbage collector)
+- https://github.com/jayed/gogurl
+- https://purelyfunctional.org/posts/2018-03-04-monadfix-lazy-strict-state.html
+- https://www.stackage.org/package/unliftio
+- https://twitter.com/kmett/status/993262362961547264?s=03
+- https://twitter.com/FPComplete/status/994299066937888770?s=03
+- https://twitter.com/mstk/status/996114822386343936?s=03 (A purely functional typed approach to Trainable Models -- 3 part series on Differentiable Programming in Haskell)
+- https://wiki.haskell.org/Function_decoration_pattern
 
 ### Modelling effects (mainly mtl style typeclasses)
 
@@ -277,6 +263,10 @@ Stuff I want to read
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/conduit-overview
 - https://haskell-lang.org/library/conduit
 - https://github.com/snoyberg/conduit (Stopped at `Primitives` section)
+
+### Exceptions
+
+- https://www.fpcomplete.com/blog/2018/04/async-exception-handling-haskell
 
 ### Dependency injection
 
@@ -366,6 +356,11 @@ Stuff I want to read
 
 - https://docs.docker.com/config/containers/live-restore/
 - https://medium.com/@gchudnov/trapping-signals-in-docker-containers-7a57fdda7d86
+
+
+## AWS
+
+- https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 
 
 ## Kubernetes / Microservices
@@ -507,6 +502,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 ## Business
 
 - https://news.ycombinator.com/item?id=14671070 (Scott's Cheap Flights: Growing a small side project into a booming business)
+- https://twitter.com/b0rk/status/972213881836834818?s=03
 
 
 ## Security / Infosec
@@ -529,6 +525,11 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/OJ/gobuster (Directory/file and DNS busting tool written in Go)
 - https://www.owasp.org/index.php/REST_Assessment_Cheat_Sheet
 - https://www.owasp.org/index.php/REST_Security_Cheat_Sheet
+- https://www.owasp.org/index.php/OWASP_Secure_Headers_Project
+- https://www.owasp.org/images/2/29/OWASPSpain8_On-breaking-php-based-cross-site-scripting-protections-in-the-wild.pdf
+- https://scarybeastsecurity.blogspot.sg/2009/12/generic-cross-browser-cross-domain.html
+- https://websec.ca/kb/sql_injection#MySQL_Default_Databases
+- https://www.reddit.com/r/webdev/comments/87smdo/as_a_full_stack_web_developer_ive_recently_taken/?st=JFC3OLDT&sh=91daa7ed
 
 ### AWS security
 
@@ -536,6 +537,16 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/nccgroup/Scout2
 - https://aws.amazon.com/waf/
 - https://aws.amazon.com/inspector/
+
+
+## Web Development
+
+- https://jakearchibald.com/2016/caching-best-practices/
+
+
+## High Scalability
+
+- https://stackshare.io/raygun/how-raygun-processes-millions-of-error-events-per-second
 
 
 ## PostgreSQL
@@ -618,11 +629,17 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://randsinrepose.com/archives/category/management/
 - http://chadfowler.com/posts/
 - https://moderncto.io/podcast/
+- https://jakewharton.com/
 
 
 ## SaaS / PaaS
 
 - https://oauth.io/
+
+
+## Java
+
+- https://docs.oracle.com/javase/tutorial/essential/index.html
 
 
 ## JavaScript
