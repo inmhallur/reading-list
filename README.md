@@ -351,6 +351,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 ## Developer tools / Libraries
 
+- https://github.com/hanslub42/rlwrap
 - https://github.com/koalaman/shellcheck
 - https://github.com/nvbn/thefuck
 - https://news.ycombinator.com/item?id=13936792 (tmuxp)
