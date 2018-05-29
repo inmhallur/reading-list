@@ -6,7 +6,6 @@ Stuff I want to read
 ## Priority
 
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
-- http://abailly.github.io/posts/cm-infra-2.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
