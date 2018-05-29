@@ -168,6 +168,7 @@ Stuff I want to read
 - https://wiki.haskell.org/Function_decoration_pattern
 - https://twitter.com/mstk/status/993936521240571904?s=03
 - https://twitter.com/EdskoDeVries/status/971688656275755008?s=03 (Object Oriented Programming in Haskell using open recursion and lenses)
+- http://oleg.fi/gists/posts/2018-05-28-squash.html
 
 ### Modelling effects (mainly mtl style typeclasses)
 
