@@ -6,7 +6,6 @@ Stuff I want to read
 ## Priority
 
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
-- http://abailly.github.io/posts/cm-infra-1.html
 - http://abailly.github.io/posts/cm-infra-2.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
@@ -365,7 +364,6 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://midnight-commander.org/
 - https://www.gnu.org/software/global/  (there's hothasktags on links page: https://www.gnu.org/software/global/links.html)
 - https://github.com/jakubroztocil/httpie
-- http://httpd.apache.org/docs/2.4/programs/ab.html
 - https://github.com/aol/moloch
 - https://github.com/facebook/osquery
 - https://github.com/firehol/netdata
@@ -379,6 +377,13 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/haad/proxychains
 - https://github.com/gojektech/proctor
 - https://github.com/sstephenson/bats
+- http://propellor.branchable.com/
+
+
+## Load Testing
+
+- https://github.com/rakyll/hey
+- http://httpd.apache.org/docs/2.4/programs/ab.html
 
 
 ## Creative
