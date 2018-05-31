@@ -14,6 +14,7 @@ Stuff I want to read
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 - https://www.haskell.org/communities/05-2018/html/report.html
 - https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d
+- https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d
 
 
 ## Study these products
