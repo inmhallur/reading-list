@@ -348,6 +348,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://linkerd.io/
 - https://twitter.github.io/finagle/guide/
 - https://www.weave.works/docs/net/latest/kubernetes/kube-addon/
+- https://twitter.com/kubernetesio/status/1001873860747120641?s=03
 
 
 ## Developer tools / Libraries
