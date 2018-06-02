@@ -7,7 +7,6 @@ Stuff I want to read
 
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
-- https://teh.id.au/posts/2017/10/03/announcing-hgrep/index.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
@@ -92,6 +91,7 @@ Stuff I want to read
 - https://twitter.com/kmett/status/990410254763651077?s=03
 - https://twitter.com/engineersftw/status/923850563741106176 (Becoming a Tech Conference Speaker)
 - https://www.youtube.com/watch?v=ulwoUq6VaSs (James Bowen: Haskell, Tensor Flow, and Dependent Types)
+- https://www.youtube.com/watch?v=cyOvlaweUtw (Denis Shevchenko - The Way to Simplicity: How Haskell Simplifies Code Maintenance)
 
 
 ## What to build?
