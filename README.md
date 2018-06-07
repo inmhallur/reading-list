@@ -14,6 +14,16 @@ Stuff I want to read
 - https://www.haskell.org/communities/05-2018/html/report.html
 - https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d
 - https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d
+- https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+- https://dev.to/nickjj/how-to-pick-a-good-monitor-for-software-development-4oln
+- https://dev.to/edneypitta/my-anti-procrastination-list-572h
+- https://dev.to/alexgwartney/keeping-track-of-your-goals-11hi
+- https://twitter.com/ChShersh/status/1003962479070699521/photo/1
+- https://twitter.com/climagic/status/1003730115161935873?s=03
+- https://dev.to/rrampage/awk---a-useful-little-language-2fhf
+- https://dev.to/quii/why-you-should-deploy-on-friday-afternoon-285h
+- https://dev.to/dance2die/whats-your-opinion-on-microsofts-github-acquisition-3je2
+- https://dev.to/acoh3n/math-from-hate-to-love-6gn
 
 
 ## Study these products
