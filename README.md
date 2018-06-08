@@ -24,6 +24,12 @@ Stuff I want to read
 - https://dev.to/quii/why-you-should-deploy-on-friday-afternoon-285h
 - https://dev.to/dance2die/whats-your-opinion-on-microsofts-github-acquisition-3je2
 - https://dev.to/acoh3n/math-from-hate-to-love-6gn
+- https://twitter.com/b0rk/status/1004568103538384896?s=03
+- https://twitter.com/b0rk/status/1004547854692683776?s=03
+- https://twitter.com/pigworker/status/1004305208816619522?s=03
+- https://twitter.com/MasteringVim/status/1002812123901317120?s=03
+- https://www.digitalocean.com/community/tutorials/getting-started-software-defined-networking-creating-vpn-zerotier-one
+- https://code.facebook.com/posts/1906146702752923/open-sourcing-katran-a-scalable-network-load-balancer/
 
 
 ## Study these products
