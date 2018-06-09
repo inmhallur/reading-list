@@ -30,6 +30,11 @@ Stuff I want to read
 - https://twitter.com/MasteringVim/status/1002812123901317120?s=03
 - https://www.digitalocean.com/community/tutorials/getting-started-software-defined-networking-creating-vpn-zerotier-one
 - https://code.facebook.com/posts/1906146702752923/open-sourcing-katran-a-scalable-network-load-balancer/
+- https://getweeklyupdate.com/manager-guide
+- http://nathanbarry.com/profit-sharing/
+- https://artplusmarketing.com/how-to-suck-less-at-things-42f96fd2e7d7
+- https://medium.com/swlh/the-power-of-doing-nothing-at-all-73eeea488b8b
+- https://medium.com/the-mission/sometimes-we-have-to-eat-shit-for-a-while-before-we-can-rise-up-again-e1ecdb8bd5b8
 
 
 ## Study these products
