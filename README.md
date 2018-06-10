@@ -37,6 +37,8 @@ Stuff I want to read
 - https://medium.com/the-mission/sometimes-we-have-to-eat-shit-for-a-while-before-we-can-rise-up-again-e1ecdb8bd5b8
 - https://ofdollarsanddata.com/reps-reps-reps-c9994b8a3b16
 - https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4
+- https://twitter.com/jneira/status/1005558823271260160?s=03
+- https://news.ycombinator.com/item?id=17274320
 
 
 ## Study these products
