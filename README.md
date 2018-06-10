@@ -35,6 +35,8 @@ Stuff I want to read
 - https://artplusmarketing.com/how-to-suck-less-at-things-42f96fd2e7d7
 - https://medium.com/swlh/the-power-of-doing-nothing-at-all-73eeea488b8b
 - https://medium.com/the-mission/sometimes-we-have-to-eat-shit-for-a-while-before-we-can-rise-up-again-e1ecdb8bd5b8
+- https://ofdollarsanddata.com/reps-reps-reps-c9994b8a3b16
+- https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4
 
 
 ## Study these products
