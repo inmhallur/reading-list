@@ -36,6 +36,7 @@ Stuff I want to read
 - https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4
 - https://twitter.com/jneira/status/1005558823271260160?s=03
 - https://news.ycombinator.com/item?id=17274320
+- https://twitter.com/gumnos/status/1005823998796730369?s=03
 
 
 ## Study these products / people
