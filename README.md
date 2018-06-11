@@ -117,6 +117,8 @@ Stuff I want to read
 - https://twitter.com/engineersftw/status/923850563741106176 (Becoming a Tech Conference Speaker)
 - https://www.youtube.com/watch?v=ulwoUq6VaSs (James Bowen: Haskell, Tensor Flow, and Dependent Types)
 - https://www.youtube.com/watch?v=cyOvlaweUtw (Denis Shevchenko - The Way to Simplicity: How Haskell Simplifies Code Maintenance)
+- https://www.youtube.com/watch?v=suBsFAEJUIc (AWS re:Invent 2017: GPS: IAM Best Practices and Becoming an IAM Ninja (GPSTEC310))
+- https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
 
 
 ## What to build?
