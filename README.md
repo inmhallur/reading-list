@@ -15,9 +15,6 @@ Stuff I want to read
 - https://medium.com/netflix-techblog/making-the-netflix-api-more-resilient-a8ec62159c2d
 - https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d
 - https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
-- https://dev.to/nickjj/how-to-pick-a-good-monitor-for-software-development-4oln
-- https://dev.to/edneypitta/my-anti-procrastination-list-572h
-- https://dev.to/alexgwartney/keeping-track-of-your-goals-11hi
 - https://twitter.com/ChShersh/status/1003962479070699521/photo/1
 - https://twitter.com/climagic/status/1003730115161935873?s=03
 - https://dev.to/rrampage/awk---a-useful-little-language-2fhf
@@ -41,9 +38,10 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17274320
 
 
-## Study these products
+## Study these products / people
 
 - https://checkvist.com/
+- https://nickjanetakis.com/
 
 
 ## Essays
@@ -628,6 +626,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://moderncto.io/book/ (Modern CTO)
 - http://a.co/8cRiEgE (Java SE8 for the really impatient)
 - http://a.co/4lDxxY3 (Effective Java, 3rd edition)
+- http://a.co/dWBicgb (Deep Work: Rules for Focused Success in a Distracted World [Cal Newport])
 
 
 ## Resource Mining (may be time consuming)
