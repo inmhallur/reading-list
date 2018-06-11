@@ -37,6 +37,9 @@ Stuff I want to read
 - https://twitter.com/jneira/status/1005558823271260160?s=03
 - https://news.ycombinator.com/item?id=17274320
 - https://twitter.com/gumnos/status/1005823998796730369?s=03
+- https://medium.com/personal-growth/how-to-overcome-jealousy-and-envy-from-poisoning-your-life-d78977359700
+- https://medium.com/@krisgage/there-is-no-right-person-wrong-time-494e8778d0ed
+- https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec
 
 
 ## Study these products / people
