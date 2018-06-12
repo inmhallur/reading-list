@@ -40,6 +40,8 @@ Stuff I want to read
 - https://medium.com/personal-growth/how-to-overcome-jealousy-and-envy-from-poisoning-your-life-d78977359700
 - https://medium.com/@krisgage/there-is-no-right-person-wrong-time-494e8778d0ed
 - https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec
+- https://medium.com/the-mission/to-have-what-you-want-you-must-give-up-whats-holding-you-back-65275f844a5a
+- https://medium.com/personal-growth/there-are-two-ways-to-read-one-is-useless-cc152cf4f51b
 
 
 ## Study these products / people
@@ -121,6 +123,7 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=cyOvlaweUtw (Denis Shevchenko - The Way to Simplicity: How Haskell Simplifies Code Maintenance)
 - https://www.youtube.com/watch?v=suBsFAEJUIc (AWS re:Invent 2017: GPS: IAM Best Practices and Becoming an IAM Ninja (GPSTEC310))
 - https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
+- https://www.youtube.com/watch?v=s9DkByHSdOg (HaskellerZ - Andreas Herrman - GHC Hacking Newcomer Guide)
 
 
 ## What to build?
