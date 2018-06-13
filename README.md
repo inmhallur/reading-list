@@ -41,6 +41,7 @@ Stuff I want to read
 - https://medium.com/the-mission/to-have-what-you-want-you-must-give-up-whats-holding-you-back-65275f844a5a
 - https://medium.com/personal-growth/there-are-two-ways-to-read-one-is-useless-cc152cf4f51b
 - https://dev.to/ivancrneto/what-i-have-learned-from-eight-years-of-being-a-remote-developer-3eob
+- https://medium.com/personal-growth/small-wins-marginal-gains-thats-how-you-change-behavior-in-the-long-term-b3b94036d980
 
 
 ## Study these products / people
