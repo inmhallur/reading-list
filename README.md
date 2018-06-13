@@ -42,6 +42,7 @@ Stuff I want to read
 - https://medium.com/personal-growth/there-are-two-ways-to-read-one-is-useless-cc152cf4f51b
 - https://dev.to/ivancrneto/what-i-have-learned-from-eight-years-of-being-a-remote-developer-3eob
 - https://medium.com/personal-growth/small-wins-marginal-gains-thats-how-you-change-behavior-in-the-long-term-b3b94036d980
+- https://stackshare.io/posts/what-gdpr-means-for-side-projects
 
 
 ## Study these products / people
