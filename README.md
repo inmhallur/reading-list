@@ -16,8 +16,6 @@ Stuff I want to read
 - https://medium.com/@caulfieldOwen/turn-your-keyboard-into-a-text-editing-rocket-1514d8474d2d
 - https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 - https://twitter.com/ChShersh/status/1003962479070699521/photo/1
-- https://twitter.com/climagic/status/1003730115161935873?s=03
-- https://dev.to/rrampage/awk---a-useful-little-language-2fhf
 - https://dev.to/quii/why-you-should-deploy-on-friday-afternoon-285h
 - https://dev.to/dance2die/whats-your-opinion-on-microsofts-github-acquisition-3je2
 - https://dev.to/acoh3n/math-from-hate-to-love-6gn
@@ -42,6 +40,7 @@ Stuff I want to read
 - https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec
 - https://medium.com/the-mission/to-have-what-you-want-you-must-give-up-whats-holding-you-back-65275f844a5a
 - https://medium.com/personal-growth/there-are-two-ways-to-read-one-is-useless-cc152cf4f51b
+- https://dev.to/ivancrneto/what-i-have-learned-from-eight-years-of-being-a-remote-developer-3eob
 
 
 ## Study these products / people
