@@ -43,6 +43,10 @@ Stuff I want to read
 - https://dev.to/ivancrneto/what-i-have-learned-from-eight-years-of-being-a-remote-developer-3eob
 - https://medium.com/personal-growth/small-wins-marginal-gains-thats-how-you-change-behavior-in-the-long-term-b3b94036d980
 - https://stackshare.io/posts/what-gdpr-means-for-side-projects
+- https://twitter.com/nixcraft/status/1007022327396122624?s=03
+- https://twitter.com/phadej/status/1006917513488330752?s=03
+- https://twitter.com/snoyberg/status/1007096747418583042?s=03
+- https://twitter.com/ThePracticalDev/status/1007004939267313664?s=03
 
 
 ## Study these products / people
