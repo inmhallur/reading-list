@@ -47,6 +47,7 @@ Stuff I want to read
 - https://twitter.com/phadej/status/1006917513488330752?s=03
 - https://twitter.com/snoyberg/status/1007096747418583042?s=03
 - https://twitter.com/ThePracticalDev/status/1007004939267313664?s=03
+- https://medium.com/@AwesomeIndustry/why-macos-is-unbelievably-insecure-9c4e23a334a1
 
 
 ## Study these products / people
