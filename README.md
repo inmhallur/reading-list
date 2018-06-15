@@ -130,6 +130,7 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=suBsFAEJUIc (AWS re:Invent 2017: GPS: IAM Best Practices and Becoming an IAM Ninja (GPSTEC310))
 - https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
 - https://www.youtube.com/watch?v=s9DkByHSdOg (HaskellerZ - Andreas Herrman - GHC Hacking Newcomer Guide)
+- https://twitter.com/JuniorDevSG/status/1007064655066378240
 
 
 ## What to build?
