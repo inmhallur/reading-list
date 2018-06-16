@@ -48,6 +48,7 @@ Stuff I want to read
 - https://twitter.com/snoyberg/status/1007096747418583042?s=03
 - https://twitter.com/ThePracticalDev/status/1007004939267313664?s=03
 - https://medium.com/@AwesomeIndustry/why-macos-is-unbelievably-insecure-9c4e23a334a1
+- https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17
 
 
 ## Study these products / people
