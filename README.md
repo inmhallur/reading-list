@@ -49,6 +49,9 @@ Stuff I want to read
 - https://twitter.com/ThePracticalDev/status/1007004939267313664?s=03
 - https://medium.com/@AwesomeIndustry/why-macos-is-unbelievably-insecure-9c4e23a334a1
 - https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17
+- https://twitter.com/scalyr/status/1007314283376664577?s=03
+- https://twitter.com/VimLinks/status/1007207166762209281?s=03
+- https://news.ycombinator.com/item?id=17323525
 
 
 ## Study these products / people
