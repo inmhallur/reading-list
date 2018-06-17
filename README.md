@@ -126,7 +126,6 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=RUYPd7SjI-Y (Galois Tech Talk: Tree-Sitter: A New Parsing System for Programming Tools)
 - https://twitter.com/MaxTagher/status/999293912173891584?s=03 (Maximillian Tagher: Validation across the stack (Postgres, Haskell and the frontend)
 - https://www.youtube.com/watch?v=uOL26c1Qu5U (5 Ethereum basics - accounts, contracts, nodes, miners; recommended by Qiao Liang)
-- https://www.youtube.com/watch?v=_wiGpBQGCjU (AWS re:Invent 2015: IAM Best Practices to Live By)
 - https://twitter.com/kmett/status/990410254763651077?s=03
 - https://twitter.com/engineersftw/status/923850563741106176 (Becoming a Tech Conference Speaker)
 - https://www.youtube.com/watch?v=ulwoUq6VaSs (James Bowen: Haskell, Tensor Flow, and Dependent Types)
