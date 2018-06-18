@@ -23,11 +23,7 @@ Stuff I want to read
 - https://code.facebook.com/posts/1906146702752923/open-sourcing-katran-a-scalable-network-load-balancer/
 - https://getweeklyupdate.com/manager-guide
 - http://nathanbarry.com/profit-sharing/
-- https://artplusmarketing.com/how-to-suck-less-at-things-42f96fd2e7d7
-- https://medium.com/swlh/the-power-of-doing-nothing-at-all-73eeea488b8b
-- https://medium.com/the-mission/sometimes-we-have-to-eat-shit-for-a-while-before-we-can-rise-up-again-e1ecdb8bd5b8
 - https://ofdollarsanddata.com/reps-reps-reps-c9994b8a3b16
-- https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4
 - https://twitter.com/jneira/status/1005558823271260160?s=03
 - https://news.ycombinator.com/item?id=17274320
 - https://twitter.com/gumnos/status/1005823998796730369?s=03
@@ -48,6 +44,8 @@ Stuff I want to read
 - https://twitter.com/scalyr/status/1007314283376664577?s=03
 - https://twitter.com/VimLinks/status/1007207166762209281?s=03
 - https://news.ycombinator.com/item?id=17323525
+- https://twitter.com/mstk/status/1008290541971259392?s=03
+- https://twitter.com/obeattie/status/1008406043532124161?s=03
 
 
 ## Study these products / people
