@@ -640,6 +640,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/8cRiEgE (Java SE8 for the really impatient)
 - http://a.co/4lDxxY3 (Effective Java, 3rd edition)
 - http://a.co/dWBicgb (Deep Work: Rules for Focused Success in a Distracted World [Cal Newport])
+- https://www.goodreads.com/book/show/28259132-chaos-monkeys
 
 
 ## Resource Mining (may be time consuming)
