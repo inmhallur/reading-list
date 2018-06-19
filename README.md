@@ -46,6 +46,8 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17323525
 - https://twitter.com/mstk/status/1008290541971259392?s=03
 - https://twitter.com/obeattie/status/1008406043532124161?s=03
+- https://medium.com/@lane.c.wagner/very-basic-elliptic-curve-cryptography-16c4f6c349ed
+- https://twitter.com/commandlinefu/status/1008779004046905344?s=03
 
 
 ## Study these products / people
