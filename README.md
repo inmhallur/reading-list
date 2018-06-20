@@ -48,6 +48,7 @@ Stuff I want to read
 - https://twitter.com/obeattie/status/1008406043532124161?s=03
 - https://medium.com/@lane.c.wagner/very-basic-elliptic-curve-cryptography-16c4f6c349ed
 - https://twitter.com/commandlinefu/status/1008779004046905344?s=03
+- https://www.fpcomplete.com/blog/2018/06/sed-a-debugging-story
 
 
 ## Study these products / people
