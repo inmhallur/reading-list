@@ -52,6 +52,8 @@ Stuff I want to read
 - https://medium.com/intrinsic/common-node-js-attack-vectors-the-dangers-of-malicious-modules-863ae949e7e8
 - https://twitter.com/vbhvsgr/status/1009003703892754432?s=03
 - https://twitter.com/fbOpenSource/status/1009125539666247682?s=03
+- https://dev.to/pmihaylov/why-bother-presenting-as-a-developer-3i07
+- https://dev.to/indy_singh_uk/strings-are-evil-9f9
 
 
 ## Study these products / people
