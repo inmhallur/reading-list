@@ -50,6 +50,8 @@ Stuff I want to read
 - https://twitter.com/commandlinefu/status/1008779004046905344?s=03
 - https://www.fpcomplete.com/blog/2018/06/sed-a-debugging-story
 - https://medium.com/intrinsic/common-node-js-attack-vectors-the-dangers-of-malicious-modules-863ae949e7e8
+- https://twitter.com/vbhvsgr/status/1009003703892754432?s=03
+- https://twitter.com/fbOpenSource/status/1009125539666247682?s=03
 
 
 ## Study these products / people
