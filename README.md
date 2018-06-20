@@ -49,6 +49,7 @@ Stuff I want to read
 - https://medium.com/@lane.c.wagner/very-basic-elliptic-curve-cryptography-16c4f6c349ed
 - https://twitter.com/commandlinefu/status/1008779004046905344?s=03
 - https://www.fpcomplete.com/blog/2018/06/sed-a-debugging-story
+- https://medium.com/intrinsic/common-node-js-attack-vectors-the-dangers-of-malicious-modules-863ae949e7e8
 
 
 ## Study these products / people
