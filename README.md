@@ -54,6 +54,9 @@ Stuff I want to read
 - https://twitter.com/fbOpenSource/status/1009125539666247682?s=03
 - https://dev.to/pmihaylov/why-bother-presenting-as-a-developer-3i07
 - https://dev.to/indy_singh_uk/strings-are-evil-9f9
+- https://twitter.com/codemiller/status/1009433164589170688?s=03
+- https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md
+- http://mywiki.wooledge.org/BashPitfalls
 
 
 ## Study these products / people
