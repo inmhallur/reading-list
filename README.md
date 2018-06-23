@@ -54,6 +54,15 @@ Stuff I want to read
 - https://twitter.com/codemiller/status/1009433164589170688?s=03
 - https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md
 - http://mywiki.wooledge.org/BashPitfalls
+- https://news.ycombinator.com/item?id=17380524
+- https://news.ycombinator.com/item?id=17376895
+- https://news.ycombinator.com/item?id=17378749
+- https://news.ycombinator.com/item?id=17365150
+- https://news.ycombinator.com/item?id=17364449
+- https://news.ycombinator.com/item?id=17358339
+- https://news.ycombinator.com/item?id=17358103
+- https://news.ycombinator.com/item?id=17370165
+- https://news.ycombinator.com/item?id=17374371
 
 
 ## Study these products / people
