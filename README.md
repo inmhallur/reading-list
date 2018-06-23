@@ -145,6 +145,7 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
 - https://www.youtube.com/watch?v=s9DkByHSdOg (HaskellerZ - Andreas Herrman - GHC Hacking Newcomer Guide)
 - https://twitter.com/JuniorDevSG/status/1007064655066378240
+- https://twitter.com/kmett/status/1010176782459273217?s=03
 
 
 ## What to build?
