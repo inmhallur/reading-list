@@ -62,7 +62,6 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17358339
 - https://news.ycombinator.com/item?id=17358103
 - https://news.ycombinator.com/item?id=17370165
-- https://news.ycombinator.com/item?id=17374371
 - https://security.stackexchange.com/questions/89319/creating-my-own-ca-for-an-intranet/89737#89737
 - https://jamielinux.com/docs/openssl-certificate-authority/
 
