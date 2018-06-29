@@ -64,6 +64,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17370165
 - https://security.stackexchange.com/questions/89319/creating-my-own-ca-for-an-intranet/89737#89737
 - https://jamielinux.com/docs/openssl-certificate-authority/
+- https://medium.com/swlh/lessons-learned-from-a-failed-startup-6f0dd86ddf95
 
 
 ## Study these products / people
