@@ -59,13 +59,14 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17378749
 - https://news.ycombinator.com/item?id=17365150
 - https://news.ycombinator.com/item?id=17364449
-- https://news.ycombinator.com/item?id=17358339
-- https://news.ycombinator.com/item?id=17358103
-- https://news.ycombinator.com/item?id=17370165
 - https://security.stackexchange.com/questions/89319/creating-my-own-ca-for-an-intranet/89737#89737
 - https://jamielinux.com/docs/openssl-certificate-authority/
 - https://medium.com/swlh/lessons-learned-from-a-failed-startup-6f0dd86ddf95
 - https://twitter.com/obeattie/status/1012695818728435715?s=03
+- https://www.regular-expressions.info/catastrophic.html
+- https://arp242.net/weblog/tunnelling_ssh_though_a_firewall_with_ssh_-l
+- https://miki.it/blog/2015/4/20/the-power-of-dns-rebinding-stealing-wifi-passwords-with-a-website/
+- http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 
 
 ## Study these products / people
