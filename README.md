@@ -67,6 +67,8 @@ Stuff I want to read
 - https://arp242.net/weblog/tunnelling_ssh_though_a_firewall_with_ssh_-l
 - https://miki.it/blog/2015/4/20/the-power-of-dns-rebinding-stealing-wifi-passwords-with-a-website/
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
+- http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/
+- https://lethain.com/migrations/
 
 
 ## Study these products / people
