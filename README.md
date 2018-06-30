@@ -65,6 +65,7 @@ Stuff I want to read
 - https://security.stackexchange.com/questions/89319/creating-my-own-ca-for-an-intranet/89737#89737
 - https://jamielinux.com/docs/openssl-certificate-authority/
 - https://medium.com/swlh/lessons-learned-from-a-failed-startup-6f0dd86ddf95
+- https://twitter.com/obeattie/status/1012695818728435715?s=03
 
 
 ## Study these products / people
@@ -148,6 +149,7 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=s9DkByHSdOg (HaskellerZ - Andreas Herrman - GHC Hacking Newcomer Guide)
 - https://twitter.com/JuniorDevSG/status/1007064655066378240
 - https://twitter.com/kmett/status/1010176782459273217?s=03
+- https://dev.to/aspittel/learning-css-through-creating-art-54c0
 
 
 ## What to build?
