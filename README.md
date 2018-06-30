@@ -69,6 +69,9 @@ Stuff I want to read
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 - http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/
 - https://lethain.com/migrations/
+- https://news.ycombinator.com/item?id=17425033
+- https://news.ycombinator.com/item?id=17429132
+- https://news.ycombinator.com/item?id=17421586
 
 
 ## Study these products / people
