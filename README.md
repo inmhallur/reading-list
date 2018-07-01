@@ -156,6 +156,7 @@ Stuff I want to read
 - https://twitter.com/JuniorDevSG/status/1007064655066378240
 - https://twitter.com/kmett/status/1010176782459273217?s=03
 - https://dev.to/aspittel/learning-css-through-creating-art-54c0
+- https://twitter.com/smdiehl/status/1013131402169274368?s=03 (Distributed Build Systems by Neil Mitchell)
 
 
 ## What to build?
@@ -667,6 +668,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/4lDxxY3 (Effective Java, 3rd edition)
 - http://a.co/dWBicgb (Deep Work: Rules for Focused Success in a Distracted World [Cal Newport])
 - https://www.goodreads.com/book/show/28259132-chaos-monkeys
+- http://a.co/0KSgPEs (Domain Driven Design: Tackling Complexity in the Heart of Software [Eric Evans])
 
 
 ## Resource Mining (may be time consuming)
