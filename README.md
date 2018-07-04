@@ -74,6 +74,7 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17421586
 - https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db
 - https://bothsidesofthetable.com/remind-me-why-i-love-you-why-in-person-is-everything-dd5ba8514bc1
+- https://twitter.com/MasteringVim/status/1013740805738164224?s=03
 
 
 ## Study these products / people
