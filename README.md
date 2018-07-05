@@ -75,6 +75,8 @@ Stuff I want to read
 - https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db
 - https://bothsidesofthetable.com/remind-me-why-i-love-you-why-in-person-is-everything-dd5ba8514bc1
 - https://twitter.com/MasteringVim/status/1013740805738164224?s=03
+- https://www.quora.com/Bash-shell-What-are-the-best-bashrc-pranks/answer/Paul-Reiber
+- https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html
 
 
 ## Study these products / people
