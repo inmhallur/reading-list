@@ -674,6 +674,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/dWBicgb (Deep Work: Rules for Focused Success in a Distracted World [Cal Newport])
 - https://www.goodreads.com/book/show/28259132-chaos-monkeys
 - http://a.co/0KSgPEs (Domain Driven Design: Tackling Complexity in the Heart of Software [Eric Evans])
+- https://pragprog.com/book/mnee/release-it (Release It!: Design and Deploy Production-Ready Software [Michael T. Nygard])
 
 
 ## Resource Mining (may be time consuming)
