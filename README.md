@@ -77,6 +77,7 @@ Stuff I want to read
 - https://twitter.com/MasteringVim/status/1013740805738164224?s=03
 - https://www.quora.com/Bash-shell-What-are-the-best-bashrc-pranks/answer/Paul-Reiber
 - https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html
+- http://firstround.com/review/my-lessons-from-interviewing-400-engineers-over-three-startups/
 
 
 ## Study these products / people
