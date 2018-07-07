@@ -78,6 +78,9 @@ Stuff I want to read
 - https://www.quora.com/Bash-shell-What-are-the-best-bashrc-pranks/answer/Paul-Reiber
 - https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html
 - http://firstround.com/review/my-lessons-from-interviewing-400-engineers-over-three-startups/
+- https://medium.freecodecamp.org/microservices-from-idea-to-starting-line-ae5317a6ff02
+- https://github.com/FiloSottile/mkcert
+- https://www.digitalocean.com/community/tutorials/how-to-audit-docker-host-security-with-docker-bench-for-security-on-ubuntu-16-04
 
 
 ## Study these products / people
