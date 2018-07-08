@@ -81,6 +81,7 @@ Stuff I want to read
 - https://medium.freecodecamp.org/microservices-from-idea-to-starting-line-ae5317a6ff02
 - https://github.com/FiloSottile/mkcert
 - https://www.digitalocean.com/community/tutorials/how-to-audit-docker-host-security-with-docker-bench-for-security-on-ubuntu-16-04
+- https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
 
 
 ## Study these products / people
