@@ -82,6 +82,9 @@ Stuff I want to read
 - https://github.com/FiloSottile/mkcert
 - https://www.digitalocean.com/community/tutorials/how-to-audit-docker-host-security-with-docker-bench-for-security-on-ubuntu-16-04
 - https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
+- https://developers.google.com/web/fundamentals/security/csp/
+- https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9
+- https://www.youtube.com/watch?v=G8-3G_cep4M&feature=youtu.be&t=739 (Side channel attacks)
 
 
 ## Study these products / people
@@ -197,6 +200,7 @@ Stuff I want to read
 
 ## Haskell
 
+- https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions
 - https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/guide-to-ghc-extensions/basic-syntax-extensions
 - https://blog.jle.im/entry/streaming-huffman-compression-in-haskell-part-1-trees.html
 - https://haskell-lang.org/documentation
