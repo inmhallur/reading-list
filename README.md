@@ -90,6 +90,7 @@ Stuff I want to read
 - https://medium.com/@pb8226/aws-multi-account-architecture-with-terraform-yeoman-and-jenkins-c8d4714f8fbd
 - https://www.techinasia.com/talk/grab-experimentation-platform
 - https://twitter.com/BartoszMilewski/status/1013523888066703360?s=09
+- https://medium.com/@CanHasCommunism/understanding-compilers-for-humans-ba970e045877
 
 
 ## Study these products / people
