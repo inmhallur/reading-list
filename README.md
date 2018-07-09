@@ -85,6 +85,11 @@ Stuff I want to read
 - https://developers.google.com/web/fundamentals/security/csp/
 - https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9
 - https://www.youtube.com/watch?v=G8-3G_cep4M&feature=youtu.be&t=739 (Side channel attacks)
+- https://medium.com/@CanHasCommunism/understanding-compilers-for-humans-ba970e045877
+- https://news.ycombinator.com/item?id=17483640
+- https://medium.com/@pb8226/aws-multi-account-architecture-with-terraform-yeoman-and-jenkins-c8d4714f8fbd
+- https://www.techinasia.com/talk/grab-experimentation-platform
+- https://twitter.com/BartoszMilewski/status/1013523888066703360?s=09
 
 
 ## Study these products / people
@@ -170,6 +175,7 @@ Stuff I want to read
 - https://twitter.com/kmett/status/1010176782459273217?s=03
 - https://dev.to/aspittel/learning-css-through-creating-art-54c0
 - https://twitter.com/smdiehl/status/1013131402169274368?s=03 (Distributed Build Systems by Neil Mitchell)
+- https://twitter.com/kmett/status/1013548908763602950?s=09
 
 
 ## What to build?
