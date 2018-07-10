@@ -91,6 +91,7 @@ Stuff I want to read
 - https://www.techinasia.com/talk/grab-experimentation-platform
 - https://twitter.com/BartoszMilewski/status/1013523888066703360?s=09
 - https://medium.com/@CanHasCommunism/understanding-compilers-for-humans-ba970e045877
+- https://medium.com/the-mission/if-you-only-read-a-few-books-in-2018-read-these-89d03fc149c6
 
 
 ## Study these products / people
