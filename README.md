@@ -92,6 +92,8 @@ Stuff I want to read
 - https://twitter.com/BartoszMilewski/status/1013523888066703360?s=09
 - https://medium.com/@CanHasCommunism/understanding-compilers-for-humans-ba970e045877
 - https://medium.com/the-mission/if-you-only-read-a-few-books-in-2018-read-these-89d03fc149c6
+- https://github.com/flickr/yakbak
+- https://www.reddit.com/r/cscareerquestions/comments/8xrrr0/making_friends_vs_working_too_hard_at_summer/e257ljs/
 
 
 ## Study these products / people
@@ -713,6 +715,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 ## SaaS / PaaS
 
 - https://oauth.io/
+- https://prgmr.com/xen/
 
 
 ## Java
