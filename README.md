@@ -94,6 +94,9 @@ Stuff I want to read
 - https://medium.com/the-mission/if-you-only-read-a-few-books-in-2018-read-these-89d03fc149c6
 - https://github.com/flickr/yakbak
 - https://www.reddit.com/r/cscareerquestions/comments/8xrrr0/making_friends_vs_working_too_hard_at_summer/e257ljs/
+- https://www.quora.com/What-are-some-good-Python-projects-for-an-intermediate-programmer/answer/Yoshikii-Hamamura
+- https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/
+- https://twitter.com/klmr/status/1017061371215843328?s=03
 
 
 ## Study these products / people
