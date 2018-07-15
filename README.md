@@ -97,6 +97,20 @@ Stuff I want to read
 - https://www.quora.com/What-are-some-good-Python-projects-for-an-intermediate-programmer/answer/Yoshikii-Hamamura
 - https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/
 - https://twitter.com/klmr/status/1017061371215843328?s=03
+- https://dev.to/prjseal/10-golden-rules-for-becoming-a-better-programmer-1hn2
+- https://medium.com/@nicolascole77/ask-this-question-and-the-answer-will-tell-you-how-hard-an-entrepreneur-is-working-3a56052abfd0
+- https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
+- https://medium.com/swlh/how-to-lead-when-you-have-no-authority-9f22206356d4
+- https://www.codementor.io/npostolovski/8-tips-for-being-a-good-tech-lead-ke35g7em8
+- https://news.ycombinator.com/item?id=17528735 (Libaco: A fast and lightweight C asymmetric couroutine library)
+- https://news.ycombinator.com/item?id=17522362 (Learn how to design large-scale systems)
+- https://news.ycombinator.com/item?id=17528588 (Ask HN: How to find an effective career coach?)
+- https://news.ycombinator.com/item?id=17522020 (Implementing Open Source Security, Part 1: Runtime Security)
+- https://news.ycombinator.com/item?id=17520809 (How NoSQL forced the evolution of a scalable relational database)
+- https://news.ycombinator.com/item?id=17520038 (Inside the Linker (2012))
+- https://news.ycombinator.com/item?id=17513973 (Netdev Day 1: IPSec)
+- https://medium.com/@jacksoncunningham/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba
+- https://medium.com/the-mission/how-to-be-an-irresistible-conversationalist-and-make-people-laugh-more-243b87a756a0
 
 
 ## Study these products / people
@@ -183,6 +197,7 @@ Stuff I want to read
 - https://dev.to/aspittel/learning-css-through-creating-art-54c0
 - https://twitter.com/smdiehl/status/1013131402169274368?s=03 (Distributed Build Systems by Neil Mitchell)
 - https://twitter.com/kmett/status/1013548908763602950?s=09
+- https://www.youtube.com/watch?v=KrXb3_tLCl0 (Camille Fournier - Putting the "Engineering" in "Engineering Management")
 
 
 ## What to build?
