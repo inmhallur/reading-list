@@ -85,6 +85,15 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17513973 (Netdev Day 1: IPSec)
 - https://medium.com/@jacksoncunningham/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba
 - https://medium.com/the-mission/how-to-be-an-irresistible-conversationalist-and-make-people-laugh-more-243b87a756a0
+- https://dev.to/fahimulhaq/top-8-data-structures-for-coding-interviews-and-practice-interview-questions-2pb
+- https://dev.to/hugh_jeremy/lessons-from-releasing-a-personal-project-as-a-commercial-product-150g
+- https://www.twitter.com/b0rk/status/1018269213096587266?s=09
+- https://medium.com/personal-growth/the-simple-art-of-not-being-miserable-b374f42bc318
+- https://medium.com/@ohcwilliam/how-do-i-stop-forgetting-what-i-learned-so-quickly-125b1562bf95
+- https://medium.com/swlh/how-to-make-2000-a-week-with-nothing-but-your-laptop-1fdd16d6794
+- https://twitter.com/smithtimmytim/status/1018868969804005376
+- http://highscalability.com/blog/2018/4/2/how-ipdata-serves-25m-api-calls-from-10-infinitely-scalable.html
+- https://en.wikipedia.org/wiki/Fork_bomb#Prevention
 
 
 ## Study these products / people
@@ -462,6 +471,14 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/gojektech/proctor
 - https://github.com/sstephenson/bats
 - http://propellor.branchable.com/
+- https://github.com/TylerBrock/saw
+
+
+## Serverless
+
+- https://github.com/iopipe/iopipe-python/
+- https://www.zappa.io/
+- https://github.com/nzoschke/gofaas
 
 
 ## Load Testing
@@ -686,6 +703,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.goodreads.com/book/show/28259132-chaos-monkeys
 - http://a.co/0KSgPEs (Domain Driven Design: Tackling Complexity in the Heart of Software [Eric Evans])
 - https://pragprog.com/book/mnee/release-it (Release It!: Design and Deploy Production-Ready Software [Michael T. Nygard])
+- http://a.co/01ykXRI (The Procrastination Equation: How to Stop Putting Things Off and Start Getting Stuff Done [Piers Steel])
+- http://a.co/096h1Je (The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoy Guilt-Free Play [Neil Fiore])
 
 
 ## Resource Mining (may be time consuming)
