@@ -705,6 +705,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://pragprog.com/book/mnee/release-it (Release It!: Design and Deploy Production-Ready Software [Michael T. Nygard])
 - http://a.co/01ykXRI (The Procrastination Equation: How to Stop Putting Things Off and Start Getting Stuff Done [Piers Steel])
 - http://a.co/096h1Je (The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoy Guilt-Free Play [Neil Fiore])
+- http://a.co/gGPRhTN (Clean Code: A Handbook of Agile Software Craftsmanship [Robert C. Martin])
+- http://a.co/1YgE6ge (Release It!: Design and Deploy Production-Ready Software [Michael T. Nygard])
 
 
 ## Resource Mining (may be time consuming)
