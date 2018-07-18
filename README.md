@@ -94,6 +94,12 @@ Stuff I want to read
 - https://twitter.com/smithtimmytim/status/1018868969804005376
 - http://highscalability.com/blog/2018/4/2/how-ipdata-serves-25m-api-calls-from-10-infinitely-scalable.html
 - https://en.wikipedia.org/wiki/Fork_bomb#Prevention
+- https://jobs.netflix.com/culture
+- https://www.slideshare.net/reed2001/culture-1798664
+- https://codingvc.com/valuing-employee-options/
+- https://news.ycombinator.com/item?id=2623777
+- https://news.ycombinator.com/item?id=10020063
+- https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 
 
 ## Study these products / people
