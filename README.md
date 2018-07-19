@@ -100,6 +100,8 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=2623777
 - https://news.ycombinator.com/item?id=10020063
 - https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+- https://blog.usejournal.com/sessionless-authentication-withe-jwts-with-node-express-passport-js-69b059e4b22c
+- https://dev.to/squadlytics/local-development-with-https-on-osx-1jpb
 
 
 ## Study these products / people
