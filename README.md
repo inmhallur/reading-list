@@ -102,6 +102,7 @@ Stuff I want to read
 - https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 - https://blog.usejournal.com/sessionless-authentication-withe-jwts-with-node-express-passport-js-69b059e4b22c
 - https://dev.to/squadlytics/local-development-with-https-on-osx-1jpb
+- https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8
 
 
 ## Study these products / people
