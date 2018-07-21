@@ -36,7 +36,6 @@ Stuff I want to read
 - https://miki.it/blog/2015/4/20/the-power-of-dns-rebinding-stealing-wifi-passwords-with-a-website/
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 - http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/
-- https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db
 - https://bothsidesofthetable.com/remind-me-why-i-love-you-why-in-person-is-everything-dd5ba8514bc1
 - https://twitter.com/MasteringVim/status/1013740805738164224?s=03
 - https://www.quora.com/Bash-shell-What-are-the-best-bashrc-pranks/answer/Paul-Reiber
