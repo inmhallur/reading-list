@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://news.ycombinator.com/item?id=17429132
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
@@ -25,27 +26,16 @@ Stuff I want to read
 - https://twitter.com/jneira/status/1005558823271260160?s=03
 - https://news.ycombinator.com/item?id=17274320
 - https://twitter.com/gumnos/status/1005823998796730369?s=03
-- https://twitter.com/scalyr/status/1007314283376664577?s=03
 - https://twitter.com/VimLinks/status/1007207166762209281?s=03
 - https://twitter.com/mstk/status/1008290541971259392?s=03
-- https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md
 - http://mywiki.wooledge.org/BashPitfalls
-- https://news.ycombinator.com/item?id=17378749
-- https://news.ycombinator.com/item?id=17365150
-- https://news.ycombinator.com/item?id=17364449
 - https://security.stackexchange.com/questions/89319/creating-my-own-ca-for-an-intranet/89737#89737
 - https://jamielinux.com/docs/openssl-certificate-authority/
-- https://medium.com/swlh/lessons-learned-from-a-failed-startup-6f0dd86ddf95
-- https://twitter.com/obeattie/status/1012695818728435715?s=03
 - https://www.regular-expressions.info/catastrophic.html
 - https://arp242.net/weblog/tunnelling_ssh_though_a_firewall_with_ssh_-l
 - https://miki.it/blog/2015/4/20/the-power-of-dns-rebinding-stealing-wifi-passwords-with-a-website/
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 - http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/
-- https://lethain.com/migrations/
-- https://news.ycombinator.com/item?id=17425033
-- https://news.ycombinator.com/item?id=17429132
-- https://news.ycombinator.com/item?id=17421586
 - https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db
 - https://bothsidesofthetable.com/remind-me-why-i-love-you-why-in-person-is-everything-dd5ba8514bc1
 - https://twitter.com/MasteringVim/status/1013740805738164224?s=03
@@ -104,6 +94,11 @@ Stuff I want to read
 - https://dev.to/squadlytics/local-development-with-https-on-osx-1jpb
 - https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8
 - https://github.com/yangshun/tech-interview-handbook
+- https://news.ycombinator.com/item?id=17578226
+- https://news.ycombinator.com/item?id=17574516
+- https://news.ycombinator.com/item?id=17565652
+- https://news.ycombinator.com/item?id=17563857
+- https://twitter.com/FPComplete/status/1019966258517889025?s=19
 
 
 ## Study these products / people
