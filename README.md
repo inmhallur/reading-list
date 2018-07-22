@@ -18,7 +18,6 @@ Stuff I want to read
 - https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 - https://twitter.com/pigworker/status/1004305208816619522?s=03
 - https://www.digitalocean.com/community/tutorials/getting-started-software-defined-networking-creating-vpn-zerotier-one
-- https://news.ycombinator.com/item?id=17274320
 - https://twitter.com/gumnos/status/1005823998796730369?s=03
 - https://twitter.com/VimLinks/status/1007207166762209281?s=03
 - https://twitter.com/mstk/status/1008290541971259392?s=03
