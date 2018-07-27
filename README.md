@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.youtube.com/watch?v=ZSNg6KNzydQ (YOW! Lambda Jam 2018 - Jed Wesley Smith - Why "Names Don't Matter" Matters)
 - https://news.ycombinator.com/item?id=17429132
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
