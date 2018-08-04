@@ -10,7 +10,6 @@ Stuff I want to read
 - https://kseo.github.io/posts/2017-01-28-build-your-haskell-project-continuously.html
 - https://teh.id.au/posts/2017/08/09/redirect-vulnerabilities/index.html
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
-- https://news.ycombinator.com/item?id=16560812 (Ask HN: What tools have most helped your day-to-day productivity?)
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
 - https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147
 - https://www.haskell.org/communities/05-2018/html/report.html
@@ -19,7 +18,6 @@ Stuff I want to read
 - https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 - https://twitter.com/pigworker/status/1004305208816619522?s=03
 - https://www.digitalocean.com/community/tutorials/getting-started-software-defined-networking-creating-vpn-zerotier-one
-- https://twitter.com/gumnos/status/1005823998796730369?s=03
 - https://twitter.com/VimLinks/status/1007207166762209281?s=03
 - https://twitter.com/mstk/status/1008290541971259392?s=03
 - http://mywiki.wooledge.org/BashPitfalls
@@ -30,48 +28,26 @@ Stuff I want to read
 - https://miki.it/blog/2015/4/20/the-power-of-dns-rebinding-stealing-wifi-passwords-with-a-website/
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 - http://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/
-- https://bothsidesofthetable.com/remind-me-why-i-love-you-why-in-person-is-everything-dd5ba8514bc1
 - https://twitter.com/MasteringVim/status/1013740805738164224?s=03
 - https://www.quora.com/Bash-shell-What-are-the-best-bashrc-pranks/answer/Paul-Reiber
-- https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html
-- http://firstround.com/review/my-lessons-from-interviewing-400-engineers-over-three-startups/
-- https://medium.freecodecamp.org/microservices-from-idea-to-starting-line-ae5317a6ff02
 - https://github.com/FiloSottile/mkcert
 - https://www.digitalocean.com/community/tutorials/how-to-audit-docker-host-security-with-docker-bench-for-security-on-ubuntu-16-04
 - https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
-- https://developers.google.com/web/fundamentals/security/csp/
 - https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9
 - https://www.youtube.com/watch?v=G8-3G_cep4M&feature=youtu.be&t=739 (Side channel attacks)
-- https://medium.com/@CanHasCommunism/understanding-compilers-for-humans-ba970e045877
-- https://news.ycombinator.com/item?id=17483640
 - https://medium.com/@pb8226/aws-multi-account-architecture-with-terraform-yeoman-and-jenkins-c8d4714f8fbd
-- https://www.techinasia.com/talk/grab-experimentation-platform
-- https://twitter.com/BartoszMilewski/status/1013523888066703360?s=09
-- https://medium.com/@CanHasCommunism/understanding-compilers-for-humans-ba970e045877
-- https://medium.com/the-mission/if-you-only-read-a-few-books-in-2018-read-these-89d03fc149c6
 - https://github.com/flickr/yakbak
-- https://www.reddit.com/r/cscareerquestions/comments/8xrrr0/making_friends_vs_working_too_hard_at_summer/e257ljs/
 - https://www.quora.com/What-are-some-good-Python-projects-for-an-intermediate-programmer/answer/Yoshikii-Hamamura
 - https://ruwix.com/the-rubiks-cube/advanced-cfop-fridrich/
-- https://twitter.com/klmr/status/1017061371215843328?s=03
-- https://dev.to/prjseal/10-golden-rules-for-becoming-a-better-programmer-1hn2
-- https://medium.com/@nicolascole77/ask-this-question-and-the-answer-will-tell-you-how-hard-an-entrepreneur-is-working-3a56052abfd0
-- https://m.signalvnoise.com/the-open-plan-office-is-a-terrible-horrible-no-good-very-bad-idea-42bd9cd294e3
-- https://medium.com/swlh/how-to-lead-when-you-have-no-authority-9f22206356d4
-- https://www.codementor.io/npostolovski/8-tips-for-being-a-good-tech-lead-ke35g7em8
 - https://news.ycombinator.com/item?id=17528735 (Libaco: A fast and lightweight C asymmetric couroutine library)
 - https://news.ycombinator.com/item?id=17522362 (Learn how to design large-scale systems)
-- https://news.ycombinator.com/item?id=17528588 (Ask HN: How to find an effective career coach?)
 - https://news.ycombinator.com/item?id=17522020 (Implementing Open Source Security, Part 1: Runtime Security)
 - https://news.ycombinator.com/item?id=17520809 (How NoSQL forced the evolution of a scalable relational database)
 - https://news.ycombinator.com/item?id=17520038 (Inside the Linker (2012))
 - https://news.ycombinator.com/item?id=17513973 (Netdev Day 1: IPSec)
-- https://medium.com/@jacksoncunningham/digital-exile-how-i-got-banned-for-life-from-airbnb-615434c6eeba
 - https://medium.com/the-mission/how-to-be-an-irresistible-conversationalist-and-make-people-laugh-more-243b87a756a0
-- https://dev.to/fahimulhaq/top-8-data-structures-for-coding-interviews-and-practice-interview-questions-2pb
 - https://dev.to/hugh_jeremy/lessons-from-releasing-a-personal-project-as-a-commercial-product-150g
 - https://www.twitter.com/b0rk/status/1018269213096587266?s=09
-- https://medium.com/personal-growth/the-simple-art-of-not-being-miserable-b374f42bc318
 - https://medium.com/@ohcwilliam/how-do-i-stop-forgetting-what-i-learned-so-quickly-125b1562bf95
 - https://medium.com/swlh/how-to-make-2000-a-week-with-nothing-but-your-laptop-1fdd16d6794
 - https://twitter.com/smithtimmytim/status/1018868969804005376
@@ -92,6 +68,15 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17565652
 - https://news.ycombinator.com/item?id=17563857
 - https://twitter.com/FPComplete/status/1019966258517889025?s=19
+- https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04
+- https://crypto.stackexchange.com/questions/39762/what-is-a-ratchet#39766
+- https://blog.twitter.com/engineering/en_us/a/2011/improving-browser-security-with-csp.html
+- https://news.ycombinator.com/item?id=17517155 (Web Architecture 101)
+- https://news.ycombinator.com/item?id=17511850 (As a team lead how to handle project going off the rails?)
+- https://news.ycombinator.com/item?id=17510670 (Red Flags Signaling That a Rebuild Will Fail)
+- https://news.ycombinator.com/item?id=17686249 (Secure Secure Shell (2015))
+- https://news.ycombinator.com/item?id=17682939 (Things they don't teach you running a business by yourself)
+- https://news.ycombinator.com/item?id=17684502 (Modern SAT solvers: fast, neat and underused)
 
 
 ## Study these products / people
@@ -179,6 +164,8 @@ Stuff I want to read
 - https://twitter.com/smdiehl/status/1013131402169274368?s=03 (Distributed Build Systems by Neil Mitchell)
 - https://twitter.com/kmett/status/1013548908763602950?s=09
 - https://www.youtube.com/watch?v=KrXb3_tLCl0 (Camille Fournier - Putting the "Engineering" in "Engineering Management")
+- https://www.youtube.com/watch?v=DebDaiYev2M (Michael Snoyman: What Makes Haskell Unique)
+- https://www.youtube.com/watch?v=riJuXDIUMA0 (YOW! Lambda Jam 2018 - Ryan Trinkle - Full-Stack Haskell, from Prototype to Production)
 
 
 ## What to build?
