@@ -549,6 +549,11 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 - https://resources.oreilly.com/examples/9780596006709/ (Study the iptables scripts here)
 - http://newartisans.com/2007/09/neat-tricks-with-iptables/
+- https://help.ubuntu.com/community/IptablesHowTo
+- https://www.cyberciti.biz/tips/linux-iptables-examples.html
+- https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/
+- https://wiki.archlinux.org/index.php/simple_stateful_firewall
+- https://wiki.centos.org/HowTos/Network/IPTables
 
 
 ## OpenVPN
