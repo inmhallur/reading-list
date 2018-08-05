@@ -77,6 +77,9 @@ Stuff I want to read
 - https://news.ycombinator.com/item?id=17686249 (Secure Secure Shell (2015))
 - https://news.ycombinator.com/item?id=17682939 (Things they don't teach you running a business by yourself)
 - https://news.ycombinator.com/item?id=17684502 (Modern SAT solvers: fast, neat and underused)
+- https://medium.com/@khaled.hassan/hacking-thousands-of-companies-through-their-helpdesk-8f180a8595ef
+- https://medium.com/quickies-in-new-york/self-publishing-transparency-and-why-the-basic-premise-of-the-publishing-industry-needs-to-die-a-c508ce7fd57a
+- https://medium.com/@Pinterest_Engineering/a-one-year-pwa-retrospective-f4a2f4129e05
 
 
 ## Study these products / people
