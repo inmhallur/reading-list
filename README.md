@@ -196,6 +196,7 @@ Stuff I want to read
 - https://dnote.io/blog/writing-everything-i-learn-coding-for-a-month/
 - http://dev.stephendiehl.com/hask/
 - https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
+- https://blog.bitsrc.io/what-is-a-pwa-and-why-should-you-care-388afb6c0bad
 
 
 ## Haskell
