@@ -197,6 +197,7 @@ Stuff I want to read
 - http://dev.stephendiehl.com/hask/
 - https://www.fpcomplete.com/blog/2017/06/understanding-resourcet
 - https://blog.bitsrc.io/what-is-a-pwa-and-why-should-you-care-388afb6c0bad
+- https://betterhumans.coach.me/how-to-chart-a-new-course-for-your-life-with-3-simple-diagrams-e9cc6b59c49d
 
 
 ## Haskell
