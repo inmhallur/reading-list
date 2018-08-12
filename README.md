@@ -170,6 +170,7 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=KrXb3_tLCl0 (Camille Fournier - Putting the "Engineering" in "Engineering Management")
 - https://www.youtube.com/watch?v=DebDaiYev2M (Michael Snoyman: What Makes Haskell Unique)
 - https://www.youtube.com/watch?v=riJuXDIUMA0 (YOW! Lambda Jam 2018 - Ryan Trinkle - Full-Stack Haskell, from Prototype to Production)
+- https://www.infoq.com/presentations/chaos-engineering-resilient-systems
 
 
 ## What to build?
