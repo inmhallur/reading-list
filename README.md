@@ -76,6 +76,7 @@ Stuff I want to read
 - https://medium.com/quickies-in-new-york/self-publishing-transparency-and-why-the-basic-premise-of-the-publishing-industry-needs-to-die-a-c508ce7fd57a
 - https://medium.com/@Pinterest_Engineering/a-one-year-pwa-retrospective-f4a2f4129e05
 - https://support.microsoft.com/en-gb/help/172983/explanation-of-the-three-way-handshake-via-tcp-ip
+- https://news.ycombinator.com/item?id=13800427
 
 
 ## Study these products / people
