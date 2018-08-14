@@ -81,7 +81,7 @@ Stuff I want to read
 - https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/
 - https://blog.torproject.org/trouble-cloudflare
 - https://www.okta.com/blog/2017/11/explore-using-jwts-for-csrf-and-microservices/
-
+- https://twitter.com/kammitama/status/1028853602574512128
 
 ## Study these products / people
 
