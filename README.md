@@ -77,6 +77,10 @@ Stuff I want to read
 - https://medium.com/@Pinterest_Engineering/a-one-year-pwa-retrospective-f4a2f4129e05
 - https://support.microsoft.com/en-gb/help/172983/explanation-of-the-three-way-handshake-via-tcp-ip
 - https://news.ycombinator.com/item?id=13800427
+- http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem/
+- https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/
+- https://blog.torproject.org/trouble-cloudflare
+- https://www.okta.com/blog/2017/11/explore-using-jwts-for-csrf-and-microservices/
 
 
 ## Study these products / people
@@ -700,6 +704,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/gGPRhTN (Clean Code: A Handbook of Agile Software Craftsmanship [Robert C. Martin])
 - http://a.co/1YgE6ge (Release It!: Design and Deploy Production-Ready Software [Michael T. Nygard])
 - http://a.co/3pcBhIa (Type-driven Development with Idris [Edwin Brady])
+- https://www.principles.com/ (Principes by Ray Dalio)
 
 
 ## Resource Mining (may be time consuming)
