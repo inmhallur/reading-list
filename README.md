@@ -82,6 +82,7 @@ Stuff I want to read
 - https://blog.torproject.org/trouble-cloudflare
 - https://www.okta.com/blog/2017/11/explore-using-jwts-for-csrf-and-microservices/
 - https://twitter.com/kammitama/status/1028853602574512128
+- http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret
 
 ## Study these products / people
 
@@ -463,6 +464,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://github.com/sstephenson/bats
 - http://propellor.branchable.com/
 - https://github.com/TylerBrock/saw
+- https://github.com/GoogleChrome/puppeteer
 
 
 ## Serverless
