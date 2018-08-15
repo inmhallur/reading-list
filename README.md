@@ -83,6 +83,7 @@ Stuff I want to read
 - https://www.okta.com/blog/2017/11/explore-using-jwts-for-csrf-and-microservices/
 - https://twitter.com/kammitama/status/1028853602574512128
 - http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret
+- https://dev.to/timber/decorators-in-python-what-you-need-to-know-2iaf
 
 ## Study these products / people
 
