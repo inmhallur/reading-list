@@ -84,6 +84,7 @@ Stuff I want to read
 - https://twitter.com/kammitama/status/1028853602574512128
 - http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret
 - https://dev.to/timber/decorators-in-python-what-you-need-to-know-2iaf
+- https://letsencrypt.org/docs/caa/
 
 ## Study these products / people
 
@@ -466,6 +467,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://propellor.branchable.com/
 - https://github.com/TylerBrock/saw
 - https://github.com/GoogleChrome/puppeteer
+- https://nlnetlabs.nl/projects/unbound/about/
 
 
 ## Serverless
