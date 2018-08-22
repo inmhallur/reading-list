@@ -710,6 +710,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/1YgE6ge (Release It!: Design and Deploy Production-Ready Software [Michael T. Nygard])
 - http://a.co/3pcBhIa (Type-driven Development with Idris [Edwin Brady])
 - https://www.principles.com/ (Principes by Ray Dalio)
+- http://a.co/8q1t7qL (Monster Loyalty: How Lady Gaga Turns Followers into Fanatics [Jackie Huba])
 
 
 ## Resource Mining (may be time consuming)
