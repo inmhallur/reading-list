@@ -158,7 +158,6 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=RUYPd7SjI-Y (Galois Tech Talk: Tree-Sitter: A New Parsing System for Programming Tools)
 - https://twitter.com/MaxTagher/status/999293912173891584?s=03 (Maximillian Tagher: Validation across the stack (Postgres, Haskell and the frontend)
 - https://www.youtube.com/watch?v=uOL26c1Qu5U (5 Ethereum basics - accounts, contracts, nodes, miners; recommended by Qiao Liang)
-- https://twitter.com/kmett/status/990410254763651077?s=03
 - https://twitter.com/engineersftw/status/923850563741106176 (Becoming a Tech Conference Speaker)
 - https://www.youtube.com/watch?v=ulwoUq6VaSs (James Bowen: Haskell, Tensor Flow, and Dependent Types)
 - https://www.youtube.com/watch?v=cyOvlaweUtw (Denis Shevchenko - The Way to Simplicity: How Haskell Simplifies Code Maintenance)
@@ -166,10 +165,8 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
 - https://www.youtube.com/watch?v=s9DkByHSdOg (HaskellerZ - Andreas Herrman - GHC Hacking Newcomer Guide)
 - https://twitter.com/JuniorDevSG/status/1007064655066378240
-- https://twitter.com/kmett/status/1010176782459273217?s=03
 - https://dev.to/aspittel/learning-css-through-creating-art-54c0
 - https://twitter.com/smdiehl/status/1013131402169274368?s=03 (Distributed Build Systems by Neil Mitchell)
-- https://twitter.com/kmett/status/1013548908763602950?s=09
 - https://www.youtube.com/watch?v=KrXb3_tLCl0 (Camille Fournier - Putting the "Engineering" in "Engineering Management")
 - https://www.youtube.com/watch?v=DebDaiYev2M (Michael Snoyman: What Makes Haskell Unique)
 - https://www.youtube.com/watch?v=riJuXDIUMA0 (YOW! Lambda Jam 2018 - Ryan Trinkle - Full-Stack Haskell, from Prototype to Production)
