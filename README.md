@@ -85,6 +85,8 @@ Stuff I want to read
 - http://www.smashcompany.com/technology/docker-is-a-dangerous-gamble-which-we-will-regret
 - https://dev.to/timber/decorators-in-python-what-you-need-to-know-2iaf
 - https://letsencrypt.org/docs/caa/
+- https://www.quora.com/As-a-software-engineer-whats-the-most-ingenious-line-of-code-youve-seen/answer/Gary-Munnelly
+- https://www.pypa.io/en/latest/
 
 ## Study these products / people
 
