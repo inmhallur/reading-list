@@ -70,6 +70,7 @@ Stuff I want to read
 - https://letsencrypt.org/docs/caa/
 - https://www.quora.com/As-a-software-engineer-whats-the-most-ingenious-line-of-code-youve-seen/answer/Gary-Munnelly
 - https://www.pypa.io/en/latest/
+- https://news.ycombinator.com/item?id=17841832 (How long doe sit take to learn a new keyboard layout?)
 
 ## Study these products / people
 
@@ -693,6 +694,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/3pcBhIa (Type-driven Development with Idris [Edwin Brady])
 - https://www.principles.com/ (Principes by Ray Dalio)
 - http://a.co/8q1t7qL (Monster Loyalty: How Lady Gaga Turns Followers into Fanatics [Jackie Huba])
+- https://twitter.com/d_christiansen/status/1035966214072233984 (The Little Typer)
 
 
 ## Resource Mining (may be time consuming)
