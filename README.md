@@ -697,6 +697,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/8q1t7qL (Monster Loyalty: How Lady Gaga Turns Followers into Fanatics [Jackie Huba])
 - https://twitter.com/d_christiansen/status/1035966214072233984 (The Little Typer)
 - http://a.co/d/54q9yOd (How To Sell Your Way Through Life [Napoleon Hill])
+- http://a.co/d/5Lras9x (The Dip [Seth Godin])
+- http://a.co/d/h1Ddgh0 (Looking Out for Number One: How to Get from Where You Are Now to Where You Want to Be in Life [Robert Ringer])
 
 
 ## Resource Mining (may be time consuming)
