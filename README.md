@@ -72,6 +72,9 @@ Stuff I want to read
 - https://www.pypa.io/en/latest/
 - https://news.ycombinator.com/item?id=17841832 (How long doe sit take to learn a new keyboard layout?)
 - https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+- http://www.greyhathacker.net/?p=738
+- https://blogs.technet.microsoft.com/markrussinovich/2006/05/01/the-power-in-power-users/
+- https://superuser.com/questions/322423/explain-the-output-of-icacls-exe-line-by-line-item-by-item
 
 ## Study these products / people
 
