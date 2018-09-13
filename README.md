@@ -75,6 +75,16 @@ Stuff I want to read
 - http://www.greyhathacker.net/?p=738
 - https://blogs.technet.microsoft.com/markrussinovich/2006/05/01/the-power-in-power-users/
 - https://superuser.com/questions/322423/explain-the-output-of-icacls-exe-line-by-line-item-by-item
+- https://www.gnucitizen.org/blog/coldfusion-directory-traversal-faq-cve-2010-2861/
+- http://hacking-share.blogspot.com/2013/03/hacking-cold-fusion-servers-part-i.html
+- https://www.gnucitizen.org/
+- https://www.gracefulsecurity.com/privesc-stealing-windows-access-tokens-incognito/
+- https://www.gracefulsecurity.com/web-app/
+- http://pentestmonkey.net/uncategorized/from-local-admin-to-domain-admin
+- https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/
+- https://www.gracefulsecurity.com/path-traversal-cheat-sheet-linux/
+- https://www.gracefulsecurity.com/sql-injection-cheat-sheet-mssql/
+- https://www.gracefulsecurity.com/burp-suite-vs-csrf-tokens/
 
 ## Study these products / people
 
