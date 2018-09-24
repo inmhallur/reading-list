@@ -660,6 +660,7 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 
 - https://news.ycombinator.com/item?id=13620871 (The Essence of Linear Algebra YouTube video)
 - https://www.youtube.com/watch?v=aTG-M98z4R4&t=0s (Easiest way to solve the Rubik's Cube)
+- https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 
 
 ## CSS
@@ -756,3 +757,4 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - https://www.quora.com/What-are-some-good-cooking-tips-that-chefs-know/answer/Victoria-Zorzoli
 - https://www.twopeasandtheirpod.com/lemon-arugula-pasta-with-burrata/
 - https://www.quora.com/What-are-some-healthy-and-quick-breakfasts/answer/Ecem-Polat
+- https://www.quora.com/Why-is-soup-cheap-to-make-but-expensive-at-the-restaurants-What-is-the-history-behind-this/answer/Jim-Watkins-3
