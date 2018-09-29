@@ -713,6 +713,8 @@ https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
 - http://a.co/d/54q9yOd (How To Sell Your Way Through Life [Napoleon Hill])
 - http://a.co/d/5Lras9x (The Dip [Seth Godin])
 - http://a.co/d/h1Ddgh0 (Looking Out for Number One: How to Get from Where You Are Now to Where You Want to Be in Life [Robert Ringer])
+- http://a.co/d/apItB39 (Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way [Richard Branson])
+- http://a.co/d/diYljUL (Resilience: Hard-Won Wisdom for Living a Better Life [Eric Greitens])
 
 
 ## Resource Mining (may be time consuming)
