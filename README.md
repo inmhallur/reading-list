@@ -72,7 +72,6 @@ Stuff I want to read
 - https://www.pypa.io/en/latest/
 - https://news.ycombinator.com/item?id=17841832 (How long doe sit take to learn a new keyboard layout?)
 - https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
-- http://www.greyhathacker.net/?p=738
 - https://blogs.technet.microsoft.com/markrussinovich/2006/05/01/the-power-in-power-users/
 - https://superuser.com/questions/322423/explain-the-output-of-icacls-exe-line-by-line-item-by-item
 - https://www.gnucitizen.org/blog/coldfusion-directory-traversal-faq-cve-2010-2861/
@@ -85,6 +84,11 @@ Stuff I want to read
 - https://www.gracefulsecurity.com/path-traversal-cheat-sheet-linux/
 - https://www.gracefulsecurity.com/sql-injection-cheat-sheet-mssql/
 - https://www.gracefulsecurity.com/burp-suite-vs-csrf-tokens/
+- https://labs.mwrinfosecurity.com/assets/1089/original/Windows_Services_-_All_roads_lead_to_SYSTEM-1.1-oct15.pdf
+- https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+- http://www.greyhathacker.net/?p=738
+- https://www.codevoila.com/post/16/convert-socks-proxy-to-http-proxy-using-polipo
+- https://myexploit.wordpress.com/control-keimpx-py-pass-the-hash/
 
 ## Study these products / people
 
