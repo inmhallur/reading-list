@@ -89,6 +89,7 @@ Stuff I want to read
 - http://www.greyhathacker.net/?p=738
 - https://www.codevoila.com/post/16/convert-socks-proxy-to-http-proxy-using-polipo
 - https://myexploit.wordpress.com/control-keimpx-py-pass-the-hash/
+- https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation
 
 ## Study these products / people
 
