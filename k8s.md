@@ -10,6 +10,10 @@ Kubernetes resources
 - https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 - https://www.techrepublic.com/article/how-to-quickly-install-kubernetes-on-ubuntu/
 
+## Run locally
+
+- https://github.com/minishift/minishift
+
 ## Videos
 
 - https://www.youtube.com/watch?v=pUA83-e82qI (Troubleshooting and Debugging Production Microservices in Kubernetes by Ray Tsang, Baruch Sadogursky)
@@ -29,3 +33,5 @@ Kubernetes resources
 - https://www.weave.works/docs/net/latest/kubernetes/kube-addon/
 - https://twitter.com/kubernetesio/status/1001873860747120641?s=03
 - https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
+- https://scaleyourcode.com/interviews/interview/41
+- https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands

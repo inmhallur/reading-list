@@ -72,6 +72,7 @@ Haskell resources
 - https://twitter.com/mstk/status/1008290541971259392?s=03
 - http://thinkingwithtypes.com/
 - https://news.ycombinator.com/item?id=17429132 (Smart constructors that cannot fail)
+- https://twitter.com/typeclasses/status/1063670262242136064?s=19 (Functortown course by Monoid Mary)
 
 ## Modelling effects (mainly mtl style typeclasses)
 

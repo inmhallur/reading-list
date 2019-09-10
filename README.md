@@ -5,7 +5,24 @@ Stuff I want to read
 
 ## Priority
 
-- https://blog.cloudflare.com/the-trouble-with-tor/
+- https://lexi-lambda.github.io/blog/2018/10/06/macroexpand-anywhere-with-local-apply-transformer/
+- https://www.digitalocean.com/community/tutorials/what-s-new-in-ubuntu-18-04#netplan-and-systemd-networkd
+- https://github.com/arnehilmann/markdeck
+- http://blog.samaltman.com/how-to-be-successful
+- https://www.digitalocean.com/community/tutorials/how-to-sync-and-share-your-files-with-seafile-on-debian-9
+- https://www.fpcomplete.com/blog/when-rust-is-safer-than-haskell
+- https://news.ycombinator.com/item?id=18953647 (Kubernetes Failure Stories)
+- https://dev.to/helenanders26/6-ways-to-level-up-your-career-56ik
+- https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n
+- https://news.ycombinator.com/item?id=18965274 (Why Don't People Use Formal Methods?)
+- https://news.ycombinator.com/item?id=18936269 (How I use my Raspberry Pis to help me work on with my side projects)
+- https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/amp/
+- https://goreplay.org/ (replay traffic)
+- https://localhost.exposed/2018/09/22/re-re-re-discovering-yourself
+- https://www.youtube.com/watch?v=UiXRVHgQ_Gg (Dynamic Content Acceleration: Amazon CloudFront and Route 53)
+- https://www.geeksforgeeks.org/difference-call-jump-instructions/
+- http://wiki.c2.com/?TuringComplete
+- https://www.reddit.com/r/LivestreamFail/comments/9x78g9/exblizzard_employee_speaks_about_activision_and/
 - https://www.youtube.com/watch?v=ZSNg6KNzydQ (YOW! Lambda Jam 2018 - Jed Wesley Smith - Why "Names Don't Matter" Matters)
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
@@ -38,6 +55,8 @@ Stuff I want to read
 - https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo (Crash Course Computer Science)
 - https://news.ycombinator.com/item?id=18435834 (How to self-publish a book: A handy list of resources)
 - https://news.ycombinator.com/item?id=9008472 (Factor - A practical stack language)
+- https://malisper.me/recording-footage-of-myself-investigating-a-performance-issue/
+- http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/
 
 ## Study these products / people
 
@@ -139,17 +158,19 @@ Stuff I want to read
 ## Compilers
 
 - https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO (Jonathan Blow - A Programming Language for Games)
+- https://www.cl.cam.ac.uk/teaching/2005/OptComp/slides/
 
 
 ## Programming Languages
 
-- http://papl.cs.brown.edu/2016/
+- https://papl.cs.brown.edu/2018/
 - https://news.ycombinator.com/item?id=17565652 (The Java type system is broken)
 
 
 ## DevOps / SRE / Systems
 
 - https://github.com/open-guides/og-aws
+- https://aws.amazon.com/devops/
 
 
 ## Docker
@@ -162,6 +183,7 @@ Stuff I want to read
 ## AWS
 
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
+- http://en.clouddesignpattern.org/index.php/Main_Page
 
 
 ## Developer tools / Libraries
@@ -368,6 +390,11 @@ Stuff I want to read
 - http://a.co/d/aetaQ1I (Winning with People: Discover the People Principles That Work for You Every Time [John C. Maxwell])
 - http://a.co/d/3mmgyGO (The 17 Indisputable Laws of Teamwork: Embrace Them and Empower Your Team [John C. Maxwell])
 - http://a.co/d/2rIsgBn (Hackers: Heroes of the Computer Revolution [Stephen Levy])
+- http://a.co/d/2t1RSUS (Seeking SRE: Conversations About Running Production Systems at Scale [David N. Blank-Edelman])
+- http://reasonablypolymorphic.com/blog/thinking-with-types/ (Thinking with Types: Type-Level Programming in Haskell [Sandy Maguire])
+- https://martinfowler.com/books/nosql.html (NoSQL Distilled [Martin Fowler, Pramod J. Sadalage])
+- https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026 (The War of Art: Break Through the Blocks and Win Your Inner Creative Battles [Steven Pressfield])
+- https://www.amazon.com/Work-Clean-life-changing-mise-en-place-organize/dp/1623365929 (Work Clean: The life-changing power of mise-en-place to organize your life, your work, and mind [Dan Charnas])
 
 
 ## Interesting Games
@@ -393,6 +420,8 @@ Stuff I want to read
 - https://jakewharton.com/
 - https://www.gnucitizen.org/
 - https://lobste.rs/s/mpxfmc/recommended_mind_bending_books_for
+- https://www.shoup.net/
+- http://www-users.math.umn.edu/~garrett/coding/ (Error correcting codes, finite fields, algebraic curves)
 
 
 ## SaaS / PaaS
