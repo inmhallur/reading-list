@@ -5,6 +5,16 @@ Stuff I want to read
 
 ## Priority
 
+- https://news.ycombinator.com/item?id=11587952 (Rebol vs. Lisp Macros)
+- https://news.ycombinator.com/item?id=19465967 (Endlessh: An SSH Tarpit)
+- https://news.ycombinator.com/item?id=19467067 (Maybe you don't need k8s)
+- https://news.ycombinator.com/item?id=19468090 (Every minute I spent thinking about competitors was a minute wasted)
+- http://hostilefork.com/hire-the-fork/
+- https://twitter.com/MasteringVim/status/1107701235501674497?s=03 (simplify navigation in large markdown files)
+- https://capsule8.com/blog/practical-container-escape-exercise/
+- https://www.cyberark.com/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation/
+- https://wolfr.am/ML4MS
+- https://www.greghendershott.com/2014/09/written-in-racket.html
 - https://lexi-lambda.github.io/blog/2018/10/06/macroexpand-anywhere-with-local-apply-transformer/
 - https://www.digitalocean.com/community/tutorials/what-s-new-in-ubuntu-18-04#netplan-and-systemd-networkd
 - https://github.com/arnehilmann/markdeck
@@ -159,12 +169,15 @@ Stuff I want to read
 
 - https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO (Jonathan Blow - A Programming Language for Games)
 - https://www.cl.cam.ac.uk/teaching/2005/OptComp/slides/
+- https://www.amazon.com/Trustworthy-Compilers-Vladimir-Safonov/dp/0470500956 (Trustworthy Compilers [by Vladimir O. Safonov])
 
 
 ## Programming Languages
 
 - https://papl.cs.brown.edu/2018/
 - https://news.ycombinator.com/item?id=17565652 (The Java type system is broken)
+- http://cs.brown.edu/~sk/Publications/Books/ProgLangs/ (Programming Language: Application and Interpretation by Shiram Krishnamurthi)
+- http://www.cs.rochester.edu/~scott/pragmatics/ (Programming Language Pragmatics)
 
 
 ## DevOps / SRE / Systems

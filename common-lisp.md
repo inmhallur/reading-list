@@ -19,3 +19,7 @@ Links for Common Lisp
 
 - http://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/contents.html
 - https://github.com/norvig/paip-lisp/blob/master/README.md
+
+## Racket
+
+- http://www.greghendershott.com/fear-of-macros/

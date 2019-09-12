@@ -35,3 +35,5 @@ Kubernetes resources
 - https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
 - https://scaleyourcode.com/interviews/interview/41
 - https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
+- https://github.com/kubernetes/community/blob/master/contributors/design-proposals/multicluster/federation.md
+- https://kubernetes.io/docs/reference/command-line-tools-reference/feature-gates/
