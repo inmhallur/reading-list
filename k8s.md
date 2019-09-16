@@ -19,6 +19,7 @@ Kubernetes resources
 ## Run locally
 
 - https://github.com/minishift/minishift
+- https://microk8s.io
 
 ## Videos
 
