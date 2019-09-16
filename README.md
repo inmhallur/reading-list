@@ -6,6 +6,7 @@ Stuff I want to read
 ## Priority
 
 - https://news.ycombinator.com/item?id=19576092 (You are not Google)
+- https://news.ycombinator.com/item?id=19632052 (Random Forests for Complete Beginners)
 - https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html
 - https://news.ycombinator.com/item?id=11587952 (Rebol vs. Lisp Macros)
 - https://news.ycombinator.com/item?id=19465967 (Endlessh: An SSH Tarpit)
