@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://source.android.com/security/verifiedboot/dm-verity
 - https://news.ycombinator.com/item?id=19576092 (You are not Google)
 - https://news.ycombinator.com/item?id=19632052 (Random Forests for Complete Beginners)
 - https://googleprojectzero.blogspot.com/2015/03/exploiting-dram-rowhammer-bug-to-gain.html
