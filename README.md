@@ -5,6 +5,10 @@ Stuff I want to read
 
 ## Priority
 
+- https://github.com/GoogleContainerTools/distroless
+- https://mermaidjs.github.io/
+- https://www.jaegertracing.io/docs/1.11/
+- https://blog.golang.org/defer-panic-and-recover (Read the blog posts at the end of the page)
 - https://source.android.com/security/verifiedboot/dm-verity
 - https://news.ycombinator.com/item?id=19576092 (You are not Google)
 - https://news.ycombinator.com/item?id=19632052 (Random Forests for Complete Beginners)
@@ -170,6 +174,8 @@ Stuff I want to read
 - https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO (Jonathan Blow - A Programming Language for Games)
 - https://www.cl.cam.ac.uk/teaching/2005/OptComp/slides/
 - https://www.amazon.com/Trustworthy-Compilers-Vladimir-Safonov/dp/0470500956 (Trustworthy Compilers [by Vladimir O. Safonov])
+- https://news.ycombinator.com/item?id=19728749 (Introduction to Compilers and Language Design)
+- https://news.ycombinator.com/item?id=19726939 (A PHP Compiler aka the FFI Rabbit Hole)
 
 
 ## Programming Languages
@@ -182,6 +188,8 @@ Stuff I want to read
 
 ## DevOps / SRE / Systems
 
+- https://traefik.io/
+- https://github.com/gruntwork-io/terragrunt
 - https://github.com/open-guides/og-aws
 - https://aws.amazon.com/devops/
 
@@ -191,6 +199,11 @@ Stuff I want to read
 - https://docs.docker.com/config/containers/live-restore/
 - https://medium.com/@gchudnov/trapping-signals-in-docker-containers-7a57fdda7d86
 - https://www.digitalocean.com/community/tutorials/how-to-audit-docker-host-security-with-docker-bench-for-security-on-ubuntu-16-04
+
+
+## Machine Learning
+
+- https://predictionio.apache.org/
 
 
 ## AWS

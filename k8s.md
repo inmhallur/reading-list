@@ -28,6 +28,7 @@ Kubernetes resources
 
 ## Other links
 
+- https://github.com/aquasecurity/kube-bench
 - http://kubernetesbyexample.com/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/
