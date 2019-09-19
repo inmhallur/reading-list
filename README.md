@@ -5,6 +5,11 @@ Stuff I want to read
 
 ## Priority
 
+- https://news.ycombinator.com/item?id=19851744 (The Amazing $1 Microcontroller)
+- https://dev.to/turnerj/10-tips-for-developers-according-to-twitter-28hm
+- https://dev.to/healeycodes/the-weird-rules-i-set-myself-that-got-me-a-job-2g9m
+- https://dev.to/brandonskerritt/how-to-get-any-job-you-want-a-guide-to-employability-skills-1i3m
+- https://twitter.com/lexi_lambda/status/1119914816854986752?s=03
 - https://github.com/GoogleContainerTools/distroless
 - https://mermaidjs.github.io/
 - https://www.jaegertracing.io/docs/1.11/
