@@ -5,6 +5,25 @@ Stuff I want to read
 
 ## Priority
 
+- https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/
+- https://blog.digitalocean.com/gear-up-for-pycon-2019-with-digitaloceans-free-python-machine-learning-projects-ebook/
+- https://stackshare.io/codacy/how-codacy-analyzes-30-billion-lines-of-code-per-day
+- https://news.ycombinator.com/item?id=19870406 (Open source firmware is important for security)
+- https://news.ycombinator.com/item?id=19870865 (TLS 1.3 is going to save us all, and other why IoT is still insecure)
+- https://dev.to/bosepchuk/how-to-manage-programmers-without-losing-your-damn-mind-66c
+- https://twitter.com/readkubelist/status/1124016470034386944?s=03
+- https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059
+- https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/
+- https://dev.to/mjraadi/planning-a-real-world-web-application-key-considerations-part-1-project-management-5f6j
+- https://dev.to/agoldis/learn-by-contributing-27g6
+- https://news.ycombinator.com/item?id=19749069 (Setting up an ad-blocking VPN with wireguard and pihole)
+- https://medium.com/better-humans/managing-yourself-how-to-calibrate-your-own-strengths-and-weaknesses-bd5a88f7121f
+- https://stackshare.io/raygun/how-raygun-solves-performance-issues-at-100m-api-calls-per-hour
+- https://www.fastcompany.com/90329043/exclusive-google-asked-100000-employees-about-remote-work-this-is-what-they-learned
+- https://segment.com/blog/show-hn-to-series-d/
+- https://ncase.me/remember/
+- https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity
+- https://news.ycombinator.com/item?id=19508616 (I Built a Lisp Compiler)
 - https://news.ycombinator.com/item?id=19851744 (The Amazing $1 Microcontroller)
 - https://dev.to/turnerj/10-tips-for-developers-according-to-twitter-28hm
 - https://dev.to/healeycodes/the-weird-rules-i-set-myself-that-got-me-a-job-2g9m
