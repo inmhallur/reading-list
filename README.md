@@ -5,20 +5,29 @@ Stuff I want to read
 
 ## Priority
 
+- https://news.ycombinator.com/item?id=19985561 (Terraform 0.12)
+- https://notsosecure.com/exploiting-ssrf-in-aws-elastic-beanstalk
+- https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-a-cd-pipeline-with-spinnaker-on-digitalocean-kubernetes
+- https://news.ycombinator.com/item?id=19969161 (Linux apps that run anywhere)
+- https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art070
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.html
+- https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd
+- https://twitter.com/mhausenblas/status/1128647384295043072?s=03
+- https://docs.microsoft.com/en-us/azure/architecture/microservices/design/gateway
+- https://news.ycombinator.com/item?id=19935648 (The struggles of an open source maintainer)
+- https://www.fuzzingbook.org/html/WhenToStopFuzzing.html
+- https://blog.digitalocean.com/how-to-deploy-to-digitalocean-kubernetes-with-github-actions/
+- https://www.digitalocean.com/community/tutorials/how-to-automate-deployments-to-digitalocean-kubernetes-with-circleci
+- https://aws.amazon.com/blogs/iot/connect-your-devices-to-aws-iot-using-lorawan/
+- https://banzaicloud.com/blog/pod-security-policy/
 - https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/
 - https://blog.digitalocean.com/gear-up-for-pycon-2019-with-digitaloceans-free-python-machine-learning-projects-ebook/
 - https://stackshare.io/codacy/how-codacy-analyzes-30-billion-lines-of-code-per-day
-- https://news.ycombinator.com/item?id=19870406 (Open source firmware is important for security)
-- https://news.ycombinator.com/item?id=19870865 (TLS 1.3 is going to save us all, and other why IoT is still insecure)
-- https://dev.to/bosepchuk/how-to-manage-programmers-without-losing-your-damn-mind-66c
 - https://twitter.com/readkubelist/status/1124016470034386944?s=03
 - https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059
-- https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/
 - https://dev.to/mjraadi/planning-a-real-world-web-application-key-considerations-part-1-project-management-5f6j
-- https://dev.to/agoldis/learn-by-contributing-27g6
 - https://news.ycombinator.com/item?id=19749069 (Setting up an ad-blocking VPN with wireguard and pihole)
-- https://medium.com/better-humans/managing-yourself-how-to-calibrate-your-own-strengths-and-weaknesses-bd5a88f7121f
-- https://stackshare.io/raygun/how-raygun-solves-performance-issues-at-100m-api-calls-per-hour
 - https://www.fastcompany.com/90329043/exclusive-google-asked-100000-employees-about-remote-work-this-is-what-they-learned
 - https://segment.com/blog/show-hn-to-series-d/
 - https://ncase.me/remember/
@@ -60,7 +69,6 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=UiXRVHgQ_Gg (Dynamic Content Acceleration: Amazon CloudFront and Route 53)
 - https://www.geeksforgeeks.org/difference-call-jump-instructions/
 - http://wiki.c2.com/?TuringComplete
-- https://www.reddit.com/r/LivestreamFail/comments/9x78g9/exblizzard_employee_speaks_about_activision_and/
 - https://www.youtube.com/watch?v=ZSNg6KNzydQ (YOW! Lambda Jam 2018 - Jed Wesley Smith - Why "Names Don't Matter" Matters)
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
@@ -392,6 +400,10 @@ Stuff I want to read
 
 ## Books to check out
 
+- https://pragprog.com/book/pplearn/programming-machine-learning (Programming Machine Learning: From Zero to Deep Learning [Paolo Perrotta])
+- https://pragprog.com/book/jbtracer/the-ray-tracer-challenge (The Ray Tracer Challenge: A Test-Driven Guide to Your First 3D Renderer [Jamis Buck])
+- https://pragprog.com/book/fbmach/genetic-algorithms-and-machine-learning-for-programmers (Genetic Algorithms and Machine Learning for Programmers: Create AI Models and Evolve Solutions [Frances Buontempo])
+- https://pragprog.com/book/actb2/technical-blogging-second-edition (Technical Blogging, 2nd edition: Amplify Your Influence [Antonio Cangiano])
 - http://a.co/42wFrXo (Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort)
 - http://a.co/9WV6pb9 (TCP/IP Network Administration)
 - http://a.co/dIDDNyH (Start with Why: Great Leaders Inspire Everyone to Take Action [Simon Sinek])
