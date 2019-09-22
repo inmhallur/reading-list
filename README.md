@@ -5,6 +5,13 @@ Stuff I want to read
 
 ## Priority
 
+- https://aws.amazon.com/getting-started/use-cases/
+- https://gist.github.com/Belphemur/82d27b1b6dfd675d15f2
+- https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+- https://github.com/helm/charts/tree/master/stable/mysql
+- https://gist.github.com/so0k/f927a4b60003cedd101a0911757c605a
+- https://helm.sh/docs/chart_best_practices/
+- https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/
 - https://news.ycombinator.com/item?id=19985561 (Terraform 0.12)
 - https://notsosecure.com/exploiting-ssrf-in-aws-elastic-beanstalk
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82
