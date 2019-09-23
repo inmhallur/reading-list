@@ -5,6 +5,10 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.reddit.com/r/lisp/comments/bv5jno/my_latest_book_is_out_lisp_system_implementation/
+- https://news.ycombinator.com/item?id=20068291 (Stripped down k8s on the Raspberry Pi)
+- https://news.ycombinator.com/item?id=20070558 (Tips for writing a technical book)
+- https://news.ycombinator.com/item?id=20077580 (vim tricks)
 - https://aws.amazon.com/getting-started/use-cases/
 - https://gist.github.com/Belphemur/82d27b1b6dfd675d15f2
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
@@ -326,6 +330,7 @@ Stuff I want to read
 - http://reasonablypolymorphic.com/blog/thinking-with-types/ (Thinking with Types: Type-Level Programming in Haskell [Sandy Maguire])
 - https://martinfowler.com/books/nosql.html (NoSQL Distilled [Martin Fowler, Pramod J. Sadalage])
 - https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026 (The War of Art: Break Through the Blocks and Win Your Inner Creative Battles [Steven Pressfield])
+- https://www.amazon.com/Maximum-Achievement-Strategies-Skills-Succeed/dp/0684803313/ (Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Power to Succeed [Brian Tracy])
 
 
 ## Interesting Games
