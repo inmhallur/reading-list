@@ -5,6 +5,10 @@ Stuff I want to read
 
 ## Priority
 
+- https://pdos.csail.mit.edu/6.828/2018/xv6.html (xv6, a simple Unix-like teaching operating system)
+- https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf
+- http://pages.cs.wisc.edu/~remzi/OSTEP/ (Operating Systems: Three Easy Pieces)
+- https://www.amazon.com/gp/product/1118063333 (Operating Systems Concepts)
 - https://www.reddit.com/r/lisp/comments/bv5jno/my_latest_book_is_out_lisp_system_implementation/
 - https://news.ycombinator.com/item?id=20068291 (Stripped down k8s on the Raspberry Pi)
 - https://news.ycombinator.com/item?id=20070558 (Tips for writing a technical book)

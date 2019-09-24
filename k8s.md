@@ -25,6 +25,7 @@ Kubernetes resources
 
 - https://www.youtube.com/watch?v=pUA83-e82qI (Troubleshooting and Debugging Production Microservices in Kubernetes by Ray Tsang, Baruch Sadogursky)
 - https://www.youtube.com/watch?v=OUYTNywPk-s (Oliver Beattie - Anatomy of a Production Kubernetes Outage)
+- https://www.youtube.com/watch?v=y2bhV81MfKQ (The ins and outs of networking in Google Container Engine and Kubernetes - Google Cloud Next '17)
 
 ## Other links
 
