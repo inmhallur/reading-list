@@ -2,11 +2,30 @@
 
 Kubernetes resources
 
+## Unclassified
+
+- https://news.ycombinator.com/item?id=20068291 (Stripped down k8s on the Raspberry Pi)
+- https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-a-cd-pipeline-with-spinnaker-on-digitalocean-kubernetes
+- https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd
+- https://blog.digitalocean.com/how-to-deploy-to-digitalocean-kubernetes-with-github-actions/
+- https://www.digitalocean.com/community/tutorials/how-to-automate-deployments-to-digitalocean-kubernetes-with-circleci
+- https://banzaicloud.com/blog/pod-security-policy/
+- https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/
+- https://twitter.com/readkubelist/status/1124016470034386944?s=03
+- https://news.ycombinator.com/item?id=19467067 (Maybe you don't need k8s)
+- https://news.ycombinator.com/item?id=18953647 (Kubernetes Failure Stories)
+
 ## Free online courses
 
 - https://www.edx.org/course/introduction-to-kubernetes
 - https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 - https://www.katacoda.com/courses/kubernetes
+
+## Helm
+
+- https://github.com/helm/charts/tree/master/stable/mysql
+- https://helm.sh/docs/chart_best_practices/
 
 ## Setup
 
