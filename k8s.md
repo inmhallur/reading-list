@@ -4,6 +4,10 @@ Kubernetes resources
 
 ## Unclassified
 
+- https://cloud.google.com/iap/docs/using-tcp-forwarding
+- https://cloud.google.com/logging/docs/logs-based-metrics/
+- https://medium.com/google-cloud/automating-container-security-on-gke-with-binary-authorization-and-circleci-7efa7a6be2a7
+- https://cloud.google.com/kubernetes-engine/docs/how-to/encrypting-secrets
 - https://news.ycombinator.com/item?id=20068291 (Stripped down k8s on the Raspberry Pi)
 - https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/
 - https://www.digitalocean.com/community/tutorials/how-to-set-up-a-cd-pipeline-with-spinnaker-on-digitalocean-kubernetes

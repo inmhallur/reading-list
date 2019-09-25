@@ -5,6 +5,9 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.youtube.com/watch?v=mbdXeRBbgDM (2018 LLVM Developers' Meeting: C. Schafmeister "Lessons Learned Implementing Common Lisp with LLVM")
+- https://www.youtube.com/watch?v=3c7LwUjb-DU (Common Lisp Study Group: Concurrency in Common Lisp)
+- https://www.reddit.com/r/lisp/comments/c0y950/where_does_common_lisp_has_advantages_in_respect/
 - https://pdos.csail.mit.edu/6.828/2018/xv6.html (xv6, a simple Unix-like teaching operating system)
 - https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf
 - http://pages.cs.wisc.edu/~remzi/OSTEP/ (Operating Systems: Three Easy Pieces)
