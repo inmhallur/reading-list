@@ -22,6 +22,13 @@ Kubernetes resources
 - https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 - https://www.katacoda.com/courses/kubernetes
 
+## Paid courses
+
+- https://www.udemy.com/course/certified-kubernetes-application-developer/
+- https://www.udemy.com/certified-kubernetes-administrator-with-practice-tests/ (seems challenging and good)
+- https://www.udemy.com/kubernetes-microservices/
+- https://www.udemy.com/learn-devops-advanced-kubernetes-usage/
+
 ## Helm
 
 - https://github.com/helm/charts/tree/master/stable/mysql
