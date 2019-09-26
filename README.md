@@ -5,6 +5,11 @@ Stuff I want to read
 
 ## Priority
 
+- https://blog.golang.org/error-handling-and-go
+- https://en.wikipedia.org/wiki/Closure_(computer_programming)
+- https://golangbot.com/variadic-functions/
+- https://dev.to/ccleary00/a-better-way-to-sell-your-skills-as-a-developer-than-just-hire-me-or-mass-applying-3d77
+- https://twitter.com/mhausenblas/status/1144354232579108871?s=03 (Vulnerable containers)
 - https://www.youtube.com/watch?v=mbdXeRBbgDM (2018 LLVM Developers' Meeting: C. Schafmeister "Lessons Learned Implementing Common Lisp with LLVM")
 - https://www.youtube.com/watch?v=3c7LwUjb-DU (Common Lisp Study Group: Concurrency in Common Lisp)
 - https://www.reddit.com/r/lisp/comments/c0y950/where_does_common_lisp_has_advantages_in_respect/
@@ -175,6 +180,7 @@ Stuff I want to read
 
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - http://en.clouddesignpattern.org/index.php/Main_Page
+- https://github.com/awslabs/aws-config-engine-for-compliance-as-code
 
 
 ## Developer tools / Libraries

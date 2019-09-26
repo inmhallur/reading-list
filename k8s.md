@@ -4,6 +4,11 @@ Kubernetes resources
 
 ## Unclassified
 
+- https://kubernetes.io/docs/reference/kubectl/jsonpath/
+- https://www.gitmemory.com/issue/linkerd/linkerd2/2819/492840248
+- https://github.com/istio/istio/issues/12231#issuecomment-498463497
+- https://github.com/linkerd/linkerd2/issues/2819
+- https://github.com/linkerd/linkerd2/issues/2847
 - https://cloud.google.com/iap/docs/using-tcp-forwarding
 - https://cloud.google.com/logging/docs/logs-based-metrics/
 - https://medium.com/google-cloud/automating-container-security-on-gke-with-binary-authorization-and-circleci-7efa7a6be2a7
@@ -25,6 +30,7 @@ Kubernetes resources
 - https://www.edx.org/course/introduction-to-kubernetes
 - https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 - https://www.katacoda.com/courses/kubernetes
+- https://training.linuxfoundation.org/training/introduction-to-kubernetes/
 
 ## Paid courses
 
@@ -32,6 +38,7 @@ Kubernetes resources
 - https://www.udemy.com/certified-kubernetes-administrator-with-practice-tests/ (seems challenging and good)
 - https://www.udemy.com/kubernetes-microservices/
 - https://www.udemy.com/learn-devops-advanced-kubernetes-usage/
+- https://training.linuxfoundation.org/training/kubernetes-fundamentals/
 
 ## Helm
 
