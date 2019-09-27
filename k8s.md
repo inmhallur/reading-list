@@ -5,6 +5,7 @@ Kubernetes resources
 ## Unclassified
 
 - https://kubernetes.io/docs/reference/kubectl/jsonpath/
+- https://medium.com/faun/using-minikube-profiles-def2477e968a
 - https://www.gitmemory.com/issue/linkerd/linkerd2/2819/492840248
 - https://github.com/istio/istio/issues/12231#issuecomment-498463497
 - https://github.com/linkerd/linkerd2/issues/2819

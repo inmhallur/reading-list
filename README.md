@@ -5,6 +5,9 @@ Stuff I want to read
 
 ## Priority
 
+- https://news.ycombinator.com/item?id=20462349 (Operating a large distributed system in a reliable way: practices I learned)
+- https://news.ycombinator.com/item?id=20477104 (Ask HN: What have the past 12 months taught you?)
+- https://github.com/aphyr/distsys-class
 - https://blog.golang.org/error-handling-and-go
 - https://en.wikipedia.org/wiki/Closure_(computer_programming)
 - https://golangbot.com/variadic-functions/
@@ -327,6 +330,8 @@ Stuff I want to read
 - https://martinfowler.com/books/nosql.html (NoSQL Distilled [Martin Fowler, Pramod J. Sadalage])
 - https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026 (The War of Art: Break Through the Blocks and Win Your Inner Creative Battles [Steven Pressfield])
 - https://www.amazon.com/Maximum-Achievement-Strategies-Skills-Succeed/dp/0684803313/ (Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Power to Succeed [Brian Tracy])
+- https://www.amazon.com/gp/product/0978577604/?ie=UTF8&tag=aboutmatthewm-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0978577604 (Even a Geek can Speak: Low-tech presentation skills for high-tech people [Joey Asher])
+- https://www.amazon.com/gp/product/0143126563/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143126563&linkCode=as2&tag=ucmbread-20&linkId=RC6A6XTCRWTZFSJE (Getting Things Done: The Art of Stress-Free Productivity [David Allen, James Fallows])
 
 
 ## Interesting Games
@@ -347,6 +352,13 @@ Stuff I want to read
 ## SaaS / PaaS
 
 - https://prgmr.com/xen/
+
+
+## Competitive Programming
+
+- https://cp-algorithms.com/
+- https://stackoverflow.com/questions/10118137/fast-n-choose-k-mod-p-for-large-n
+- https://fishi.devtail.io/weblog/2015/06/25/computing-large-binomial-coefficients-modulo-prime-non-prime/
 
 
 ## Food
