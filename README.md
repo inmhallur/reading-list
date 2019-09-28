@@ -5,6 +5,15 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.fpcomplete.com/blog/2017/08/credstash
+- https://docs.cloudposse.com/
+- http://themlbook.com/
+- https://news.ycombinator.com/item?id=20570025 (Math basics for Computer Science and Machine Learning)
+- https://news.ycombinator.com/item?id=20578850 (Hatchways YC S19 - Internships instead of interviews)
+- https://news.ycombinator.com/item?id=20585497 (22% of Millenials say they have no friends)
+- https://news.ycombinator.com/item?id=20565425 (How I Became a Machine Learning Practitioner)
+- https://www.forbes.com/sites/kalevleetaru/2019/07/26/the-encryption-debate-is-over-dead-at-the-hands-of-facebook/#44a303265362
+- https://news.ycombinator.com/item?id=20526564
 - https://news.ycombinator.com/item?id=20462349 (Operating a large distributed system in a reliable way: practices I learned)
 - https://news.ycombinator.com/item?id=20477104 (Ask HN: What have the past 12 months taught you?)
 - https://github.com/aphyr/distsys-class
