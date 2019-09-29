@@ -5,6 +5,28 @@ Stuff I want to read
 
 ## Priority
 
+- https://danielfm.me/posts/painless-nginx-ingress.html
+- https://sanderknape.com/2019/02/automated-deployments-kubernetes-gitlab/
+- https://medium.com/@yanick.witschi/automated-kubernetes-deployments-with-gitlab-helm-and-traefik-4e54bec47dcf
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_enable-regions.html
+- https://twitter.com/nathankpeck/status/1158783728476463105?s=09 (New k8s patch that fixes 2 CVEs)
+- https://medium.com/@cfatechblog/edge-computing-at-chick-fil-a-7d67242675e2
+- https://www.phillipsj.net/posts/aws-eks-and-kubernetes-external-dns
+- https://serverfault.com/questions/899180/connect-aws-route53-domain-name-with-k8s-loadbalancer-service/900154
+- https://www.engineers.sg/video/cluster-ingress-in-the-age-of-envoy-istio-and-cloud-voxxed-days-singapore-2019--3517
+- https://medium.com/solo-io/api-gateways-are-going-through-an-identity-crisis-d1d833a313d7
+- https://microservices.io/book
+- https://www.datadoghq.com/blog/eks-monitoring-datadog/
+- https://help.sumologic.com/07Sumo-Logic-Apps/01Amazon_and_AWS/Amazon_EKS_-_Control_Plane/Collect_Logs_and_Metrics_for_the_Amazon_EKS_-_Control_Plane_App
+- https://bluemedora.com/monitoring-amazon-eks-with-stackdriver/
+- https://www.scalyr.com/help/install-agent-kubernetes
+- https://vzurczak.wordpress.com/2019/02/13/using-graylog-for-centralized-logs-in-k8s-platforms-and-permissions-management/
+- https://github.com/aws-samples/aws-workshop-for-kubernetes/tree/master/02-path-working-with-clusters/204-cluster-logging-with-EFK
+- https://banzaicloud.com/blog/k8s-external-dns-route53/
+- https://github.com/kubernetes-incubator/external-dns
+- https://www.reddit.com/r/kubernetes/comments/auspck/naming_your_elb_when_using_eks/
+- https://medium.com/solo-io/exposing-microservices-running-in-aws-eks-with-a-microservices-api-gateway-like-solo-gloo-263651e309f8
+- https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-api-gateway.html (Route 53 -> AWS API gateway)
 - https://www.fpcomplete.com/blog/2017/08/credstash
 - https://docs.cloudposse.com/
 - http://themlbook.com/
