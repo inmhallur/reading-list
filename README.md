@@ -5,6 +5,18 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.weave.works/technologies/kubernetes-on-aws/
+- https://www.weave.works/technologies/weaveworks-on-aws/
+- https://www.weave.works/blog/provisioning-lifecycle-production-ready-kubernetes-cluster/
+- https://github.com/fluxcd/flux
+- https://github.com/jml/terradiff
+- https://github.com/weaveworks/kubediff
+- https://www.weave.works/blog/the-gitops-pipeline
+- https://www.weave.works/blog/what-is-gitops-really
+- https://www.infoq.com/presentations/chick-fil-a-k8-clusters/
+- https://pdos.csail.mit.edu/6.824/index.html
+- https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV (MIT 6.824 Distributed Systems)
+- https://caylent.com/kubernetes-autoscaling/
 - https://danielfm.me/posts/painless-nginx-ingress.html
 - https://sanderknape.com/2019/02/automated-deployments-kubernetes-gitlab/
 - https://medium.com/@yanick.witschi/automated-kubernetes-deployments-with-gitlab-helm-and-traefik-4e54bec47dcf
