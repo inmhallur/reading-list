@@ -5,6 +5,10 @@ Stuff I want to read
 
 ## Priority
 
+- https://sysdig.com/blog/kubernetes-monitoring-prometheus-operator-part3/
+- https://github.com/aws-samples/aws-workshop-for-kubernetes
+- https://github.com/aws-samples
+- https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55
 - https://medium.com/@elliot_f/my-notes-for-certified-kubernetes-application-developer-part-1-core-concepts-d1bab7bc2446
 - http://book.mixu.net/distsys/
 - https://book.kubebuilder.io/
