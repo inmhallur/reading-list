@@ -5,6 +5,12 @@ Stuff I want to read
 
 ## Priority
 
+- http://book.mixu.net/distsys/
+- https://book.kubebuilder.io/
+- https://github.com/bitnami-labs/sealed-secrets
+- https://gitkube.sh/
+- https://www.weave.works/blog/gitops-compliance-and-secure-cicd
+- https://eksworkshop.com/
 - https://www.weave.works/technologies/kubernetes-on-aws/
 - https://www.weave.works/technologies/weaveworks-on-aws/
 - https://www.weave.works/blog/provisioning-lifecycle-production-ready-kubernetes-cluster/
@@ -16,13 +22,10 @@ Stuff I want to read
 - https://www.infoq.com/presentations/chick-fil-a-k8-clusters/
 - https://pdos.csail.mit.edu/6.824/index.html
 - https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV (MIT 6.824 Distributed Systems)
-- https://caylent.com/kubernetes-autoscaling/
 - https://danielfm.me/posts/painless-nginx-ingress.html
-- https://sanderknape.com/2019/02/automated-deployments-kubernetes-gitlab/
 - https://medium.com/@yanick.witschi/automated-kubernetes-deployments-with-gitlab-helm-and-traefik-4e54bec47dcf
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_enable-regions.html
 - https://twitter.com/nathankpeck/status/1158783728476463105?s=09 (New k8s patch that fixes 2 CVEs)
-- https://medium.com/@cfatechblog/edge-computing-at-chick-fil-a-7d67242675e2
 - https://www.phillipsj.net/posts/aws-eks-and-kubernetes-external-dns
 - https://serverfault.com/questions/899180/connect-aws-route53-domain-name-with-k8s-loadbalancer-service/900154
 - https://www.engineers.sg/video/cluster-ingress-in-the-age-of-envoy-istio-and-cloud-voxxed-days-singapore-2019--3517
@@ -35,7 +38,6 @@ Stuff I want to read
 - https://vzurczak.wordpress.com/2019/02/13/using-graylog-for-centralized-logs-in-k8s-platforms-and-permissions-management/
 - https://github.com/aws-samples/aws-workshop-for-kubernetes/tree/master/02-path-working-with-clusters/204-cluster-logging-with-EFK
 - https://banzaicloud.com/blog/k8s-external-dns-route53/
-- https://github.com/kubernetes-incubator/external-dns
 - https://www.reddit.com/r/kubernetes/comments/auspck/naming_your_elb_when_using_eks/
 - https://medium.com/solo-io/exposing-microservices-running-in-aws-eks-with-a-microservices-api-gateway-like-solo-gloo-263651e309f8
 - https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-api-gateway.html (Route 53 -> AWS API gateway)
@@ -375,6 +377,7 @@ Stuff I want to read
 - https://www.amazon.com/Maximum-Achievement-Strategies-Skills-Succeed/dp/0684803313/ (Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Power to Succeed [Brian Tracy])
 - https://www.amazon.com/gp/product/0978577604/?ie=UTF8&tag=aboutmatthewm-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0978577604 (Even a Geek can Speak: Low-tech presentation skills for high-tech people [Joey Asher])
 - https://www.amazon.com/gp/product/0143126563/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143126563&linkCode=as2&tag=ucmbread-20&linkId=RC6A6XTCRWTZFSJE (Getting Things Done: The Art of Stress-Free Productivity [David Allen, James Fallows])
+- https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655 (Web Scalability for Startup Engineers [Artur Ejsmont])
 
 
 ## Interesting Games
