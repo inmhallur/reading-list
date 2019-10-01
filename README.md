@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://medium.com/@elliot_f/my-notes-for-certified-kubernetes-application-developer-part-1-core-concepts-d1bab7bc2446
 - http://book.mixu.net/distsys/
 - https://book.kubebuilder.io/
 - https://github.com/bitnami-labs/sealed-secrets
