@@ -5,6 +5,10 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.cyberark.com/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions/
+- https://www.cyberark.com/threat-research-blog/kubernetes-pentest-methodology-part-1/
+- https://thenewstack.io/no-more-forever-tokens-changes-in-identity-management-for-kubernetes/
+- https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
 - https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html
 - https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf (Machine Learning: The High-Interest Credit Card of Technical Debt)
 - https://github.com/fortio/fortio
