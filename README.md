@@ -5,6 +5,8 @@ Stuff I want to read
 
 ## Priority
 
+- https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf (Machine Learning: The High-Interest Credit Card of Technical Debt)
+- https://github.com/fortio/fortio
 - https://sysdig.com/blog/kubernetes-monitoring-prometheus-operator-part3/
 - https://github.com/aws-samples/aws-workshop-for-kubernetes
 - https://github.com/aws-samples
