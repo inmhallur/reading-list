@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.datadoghq.com/blog/autoscale-kubernetes-datadog/
 - https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html
 - https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
 - https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9
