@@ -5,14 +5,11 @@ Stuff I want to read
 
 ## Priority
 
-- https://www.cyberark.com/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions/
-- https://www.cyberark.com/threat-research-blog/kubernetes-pentest-methodology-part-1/
 - https://thenewstack.io/no-more-forever-tokens-changes-in-identity-management-for-kubernetes/
 - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
 - https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html
 - https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf (Machine Learning: The High-Interest Credit Card of Technical Debt)
 - https://github.com/fortio/fortio
-- https://sysdig.com/blog/kubernetes-monitoring-prometheus-operator-part3/
 - https://github.com/aws-samples/aws-workshop-for-kubernetes
 - https://github.com/aws-samples
 - https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55
@@ -45,9 +42,7 @@ Stuff I want to read
 - https://microservices.io/book
 - https://www.datadoghq.com/blog/eks-monitoring-datadog/
 - https://help.sumologic.com/07Sumo-Logic-Apps/01Amazon_and_AWS/Amazon_EKS_-_Control_Plane/Collect_Logs_and_Metrics_for_the_Amazon_EKS_-_Control_Plane_App
-- https://bluemedora.com/monitoring-amazon-eks-with-stackdriver/
 - https://www.scalyr.com/help/install-agent-kubernetes
-- https://vzurczak.wordpress.com/2019/02/13/using-graylog-for-centralized-logs-in-k8s-platforms-and-permissions-management/
 - https://github.com/aws-samples/aws-workshop-for-kubernetes/tree/master/02-path-working-with-clusters/204-cluster-logging-with-EFK
 - https://banzaicloud.com/blog/k8s-external-dns-route53/
 - https://www.reddit.com/r/kubernetes/comments/auspck/naming_your_elb_when_using_eks/
@@ -93,7 +88,6 @@ Stuff I want to read
 - https://twitter.com/mhausenblas/status/1128647384295043072?s=03
 - https://docs.microsoft.com/en-us/azure/architecture/microservices/design/gateway
 - https://www.fuzzingbook.org/html/WhenToStopFuzzing.html
-- https://aws.amazon.com/blogs/iot/connect-your-devices-to-aws-iot-using-lorawan/
 - https://blog.digitalocean.com/gear-up-for-pycon-2019-with-digitaloceans-free-python-machine-learning-projects-ebook/
 - https://stackshare.io/codacy/how-codacy-analyzes-30-billion-lines-of-code-per-day
 - https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059
@@ -170,12 +164,9 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=yaLq88OjfoQ (Blue Team Security Actual Security work for Actual Developers by Siren Hofvander)
 - https://www.youtube.com/watch?v=u8nb_7TW-Ag (Devops @Scale by Baruch Sadogursky)
 - https://www.youtube.com/watch?v=3s7h2MHQtxc (Hilbert's Curve: Is Infinite math useful?)
-- https://www.youtube.com/watch?v=uNVAmCYL1Jo (Galois Tech Talk: JaVerT: a JavaScript Verification Toolchain)
-- https://www.youtube.com/watch?v=_9NoK1i10P0 (Galois Tech Talk: Datatype Generic Packet Descriptions)
 - https://www.youtube.com/watch?v=MXQmrZPH1vg (Commons Host - Dawn of the Hybrid CDN - Web Performance)
 - https://www.youtube.com/watch?v=RUYPd7SjI-Y (Galois Tech Talk: Tree-Sitter: A New Parsing System for Programming Tools)
 - https://twitter.com/engineersftw/status/923850563741106176 (Becoming a Tech Conference Speaker)
-- https://www.youtube.com/watch?v=cyOvlaweUtw (Denis Shevchenko - The Way to Simplicity: How Haskell Simplifies Code Maintenance)
 - https://www.youtube.com/watch?v=suBsFAEJUIc (AWS re:Invent 2017: GPS: IAM Best Practices and Becoming an IAM Ninja (GPSTEC310))
 - https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
 - https://twitter.com/JuniorDevSG/status/1007064655066378240
