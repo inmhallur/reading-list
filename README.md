@@ -5,6 +5,8 @@ Stuff I want to read
 
 ## Priority
 
+- https://blog.colinbreck.com/kubernetes-liveness-and-readiness-probes-revisited-how-to-avoid-shooting-yourself-in-the-other-foot/
+- https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#when-should-you-use-liveness-or-readiness-probes
 - https://thenewstack.io/no-more-forever-tokens-changes-in-identity-management-for-kubernetes/
 - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
 - https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html
