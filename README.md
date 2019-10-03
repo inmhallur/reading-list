@@ -5,13 +5,12 @@ Stuff I want to read
 
 ## Priority
 
+- https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca
 - https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/
 - https://go.cloudbees.com/docs/cloudbees-core/cloud-install-guide/eks-install/
 - https://www.datadoghq.com/blog/autoscale-kubernetes-datadog/
 - https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html
 - https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
-- https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9
-- https://serverfault.com/questions/833810/terraform-use-nested-loops-with-count/962845#962845
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#when-should-you-use-liveness-or-readiness-probes
 - https://thenewstack.io/no-more-forever-tokens-changes-in-identity-management-for-kubernetes/
 - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
