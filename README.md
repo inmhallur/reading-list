@@ -41,7 +41,6 @@ Stuff I want to read
 - https://medium.com/solo-io/api-gateways-are-going-through-an-identity-crisis-d1d833a313d7
 - https://microservices.io/book
 - https://www.datadoghq.com/blog/eks-monitoring-datadog/
-- https://www.scalyr.com/help/install-agent-kubernetes
 - https://banzaicloud.com/blog/k8s-external-dns-route53/
 - https://medium.com/solo-io/exposing-microservices-running-in-aws-eks-with-a-microservices-api-gateway-like-solo-gloo-263651e309f8
 - https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-api-gateway.html (Route 53 -> AWS API gateway)
@@ -55,9 +54,7 @@ Stuff I want to read
 - https://www.forbes.com/sites/kalevleetaru/2019/07/26/the-encryption-debate-is-over-dead-at-the-hands-of-facebook/#44a303265362
 - https://news.ycombinator.com/item?id=20462349 (Operating a large distributed system in a reliable way: practices I learned)
 - https://news.ycombinator.com/item?id=20477104 (Ask HN: What have the past 12 months taught you?)
-- https://blog.golang.org/error-handling-and-go
 - https://en.wikipedia.org/wiki/Closure_(computer_programming)
-- https://golangbot.com/variadic-functions/
 - https://dev.to/ccleary00/a-better-way-to-sell-your-skills-as-a-developer-than-just-hire-me-or-mass-applying-3d77
 - https://twitter.com/mhausenblas/status/1144354232579108871?s=03 (Vulnerable containers)
 - https://www.reddit.com/r/lisp/comments/bv5jno/my_latest_book_is_out_lisp_system_implementation/
@@ -84,20 +81,14 @@ Stuff I want to read
 - https://dev.to/healeycodes/the-weird-rules-i-set-myself-that-got-me-a-job-2g9m
 - https://dev.to/brandonskerritt/how-to-get-any-job-you-want-a-guide-to-employability-skills-1i3m
 - https://github.com/GoogleContainerTools/distroless
-- https://blog.golang.org/defer-panic-and-recover (Read the blog posts at the end of the page)
 - https://twitter.com/MasteringVim/status/1107701235501674497?s=03 (simplify navigation in large markdown files)
 - https://capsule8.com/blog/practical-container-escape-exercise/
 - https://www.cyberark.com/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation/
 - https://www.greghendershott.com/2014/09/written-in-racket.html
 - https://www.digitalocean.com/community/tutorials/what-s-new-in-ubuntu-18-04#netplan-and-systemd-networkd
-- http://blog.samaltman.com/how-to-be-successful
 - https://www.digitalocean.com/community/tutorials/how-to-sync-and-share-your-files-with-seafile-on-debian-9
 - https://dev.to/helenanders26/6-ways-to-level-up-your-career-56ik
-- https://www.youtube.com/watch?v=UiXRVHgQ_Gg (Dynamic Content Acceleration: Amazon CloudFront and Route 53)
-- https://www.youtube.com/watch?v=ZSNg6KNzydQ (YOW! Lambda Jam 2018 - Jed Wesley Smith - Why "Names Don't Matter" Matters)
-- https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- http://mywiki.wooledge.org/BashPitfalls
 - https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 - https://www.regular-expressions.info/catastrophic.html
 - https://www.quora.com/What-are-some-good-Python-projects-for-an-intermediate-programmer/answer/Yoshikii-Hamamura
@@ -143,6 +134,8 @@ Stuff I want to read
 - https://www.youtube.com/watch?v=aISWoPf_XNE (AWS re:Invent 2017: IAM Policy Ninja (SID314))
 - https://twitter.com/JuniorDevSG/status/1007064655066378240
 - https://www.infoq.com/presentations/chaos-engineering-resilient-systems
+- https://www.youtube.com/watch?v=UiXRVHgQ_Gg (Dynamic Content Acceleration: Amazon CloudFront and Route 53)
+- https://www.youtube.com/watch?v=ZSNg6KNzydQ (YOW! Lambda Jam 2018 - Jed Wesley Smith - Why "Names Don't Matter" Matters)
 
 
 ## What to build?
@@ -215,11 +208,19 @@ Stuff I want to read
 - https://www.digitalocean.com/community/tutorials/how-to-audit-docker-host-security-with-docker-bench-for-security-on-ubuntu-16-04
 
 
+## Golang
+
+- https://blog.golang.org/defer-panic-and-recover (Read the blog posts at the end of the page)
+- https://blog.golang.org/error-handling-and-go
+- https://golangbot.com/variadic-functions/
+
+
 ## AWS
 
 - https://aws.amazon.com/blogs/aws/aws-secrets-manager-store-distribute-and-rotate-credentials-securely/
 - http://en.clouddesignpattern.org/index.php/Main_Page
 - https://github.com/awslabs/aws-config-engine-for-compliance-as-code
+- https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
 
 
 ## Developer tools / Libraries
@@ -332,6 +333,11 @@ Stuff I want to read
 - https://stackoverflow.com/questions/21277170/postgresql-wrong-converting-from-timestamp-without-time-zone-to-timestamp-with-t
 - https://stackoverflow.com/questions/25456465/postgres-timestamp-with-timezone
 - http://www.craigkerstiens.com/2013/02/21/more-out-of-psql/
+
+
+## Bash
+
+- http://mywiki.wooledge.org/BashPitfalls
 
 
 ## General Computing
