@@ -25,6 +25,10 @@ Kubernetes resources
 - https://news.ycombinator.com/item?id=19467067 (Maybe you don't need k8s)
 - https://news.ycombinator.com/item?id=18953647 (Kubernetes Failure Stories)
 
+## Security
+
+- https://news.ycombinator.com/item?id=17522020 (Implementing Open Source Security, Part 1: Runtime Security)
+
 ## Free online courses
 
 - https://www.edx.org/course/introduction-to-kubernetes

@@ -2,6 +2,10 @@
 
 Links for Common Lisp
 
+- https://www.youtube.com/watch?v=mbdXeRBbgDM (2018 LLVM Developers' Meeting: C. Schafmeister "Lessons Learned Implementing Common Lisp with LLVM")
+- https://www.youtube.com/watch?v=3c7LwUjb-DU (Common Lisp Study Group: Concurrency in Common Lisp)
+- https://www.reddit.com/r/lisp/comments/c0y950/where_does_common_lisp_has_advantages_in_respect/
+- https://news.ycombinator.com/item?id=19508616 (I Built a Lisp Compiler)
 - https://www.youtube.com/watch?v=ygKXeLKhiTI (Lots of bits of Lisp - Macros (2 hr episode)) - this is part of a bigger playlist
 - https://gist.github.com/chaitanyagupta/9324402 (Reader Macros in Common Lisp)
 - https://groups.google.com/forum/m/?fromgroups#!topic/comp.lang.lisp/F4NVRlOvrX8

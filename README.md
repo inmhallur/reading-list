@@ -18,17 +18,14 @@ Stuff I want to read
 - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
 - https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html
 - https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf (Machine Learning: The High-Interest Credit Card of Technical Debt)
-- https://github.com/fortio/fortio
 - https://github.com/aws-samples/aws-workshop-for-kubernetes
 - https://github.com/aws-samples
 - https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55
 - https://medium.com/@elliot_f/my-notes-for-certified-kubernetes-application-developer-part-1-core-concepts-d1bab7bc2446
-- http://book.mixu.net/distsys/
 - https://book.kubebuilder.io/
 - https://github.com/bitnami-labs/sealed-secrets
 - https://gitkube.sh/
 - https://www.weave.works/blog/gitops-compliance-and-secure-cicd
-- https://eksworkshop.com/
 - https://www.weave.works/technologies/kubernetes-on-aws/
 - https://www.weave.works/technologies/weaveworks-on-aws/
 - https://www.weave.works/blog/provisioning-lifecycle-production-ready-kubernetes-cluster/
@@ -37,8 +34,6 @@ Stuff I want to read
 - https://www.weave.works/blog/the-gitops-pipeline
 - https://www.weave.works/blog/what-is-gitops-really
 - https://www.infoq.com/presentations/chick-fil-a-k8-clusters/
-- https://pdos.csail.mit.edu/6.824/index.html
-- https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV (MIT 6.824 Distributed Systems)
 - https://danielfm.me/posts/painless-nginx-ingress.html
 - https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_enable-regions.html
 - https://twitter.com/nathankpeck/status/1158783728476463105?s=09 (New k8s patch that fixes 2 CVEs)
@@ -60,19 +55,11 @@ Stuff I want to read
 - https://www.forbes.com/sites/kalevleetaru/2019/07/26/the-encryption-debate-is-over-dead-at-the-hands-of-facebook/#44a303265362
 - https://news.ycombinator.com/item?id=20462349 (Operating a large distributed system in a reliable way: practices I learned)
 - https://news.ycombinator.com/item?id=20477104 (Ask HN: What have the past 12 months taught you?)
-- https://github.com/aphyr/distsys-class
 - https://blog.golang.org/error-handling-and-go
 - https://en.wikipedia.org/wiki/Closure_(computer_programming)
 - https://golangbot.com/variadic-functions/
 - https://dev.to/ccleary00/a-better-way-to-sell-your-skills-as-a-developer-than-just-hire-me-or-mass-applying-3d77
 - https://twitter.com/mhausenblas/status/1144354232579108871?s=03 (Vulnerable containers)
-- https://www.youtube.com/watch?v=mbdXeRBbgDM (2018 LLVM Developers' Meeting: C. Schafmeister "Lessons Learned Implementing Common Lisp with LLVM")
-- https://www.youtube.com/watch?v=3c7LwUjb-DU (Common Lisp Study Group: Concurrency in Common Lisp)
-- https://www.reddit.com/r/lisp/comments/c0y950/where_does_common_lisp_has_advantages_in_respect/
-- https://pdos.csail.mit.edu/6.828/2018/xv6.html (xv6, a simple Unix-like teaching operating system)
-- https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf
-- http://pages.cs.wisc.edu/~remzi/OSTEP/ (Operating Systems: Three Easy Pieces)
-- https://www.amazon.com/gp/product/1118063333 (Operating Systems Concepts)
 - https://www.reddit.com/r/lisp/comments/bv5jno/my_latest_book_is_out_lisp_system_implementation/
 - https://news.ycombinator.com/item?id=20070558 (Tips for writing a technical book)
 - https://news.ycombinator.com/item?id=20077580 (vim tricks)
@@ -80,7 +67,6 @@ Stuff I want to read
 - https://gist.github.com/Belphemur/82d27b1b6dfd675d15f2
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 - https://gist.github.com/so0k/f927a4b60003cedd101a0911757c605a
-- https://news.ycombinator.com/item?id=19985561 (Terraform 0.12)
 - https://notsosecure.com/exploiting-ssrf-in-aws-elastic-beanstalk
 - https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82
 - https://news.ycombinator.com/item?id=19969161 (Linux apps that run anywhere)
@@ -95,25 +81,18 @@ Stuff I want to read
 - https://segment.com/blog/show-hn-to-series-d/
 - https://ncase.me/remember/
 - https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity
-- https://news.ycombinator.com/item?id=19508616 (I Built a Lisp Compiler)
-- https://news.ycombinator.com/item?id=19851744 (The Amazing $1 Microcontroller)
 - https://dev.to/healeycodes/the-weird-rules-i-set-myself-that-got-me-a-job-2g9m
 - https://dev.to/brandonskerritt/how-to-get-any-job-you-want-a-guide-to-employability-skills-1i3m
 - https://github.com/GoogleContainerTools/distroless
 - https://blog.golang.org/defer-panic-and-recover (Read the blog posts at the end of the page)
-- https://source.android.com/security/verifiedboot/dm-verity
-- https://news.ycombinator.com/item?id=19576092 (You are not Google)
 - https://twitter.com/MasteringVim/status/1107701235501674497?s=03 (simplify navigation in large markdown files)
 - https://capsule8.com/blog/practical-container-escape-exercise/
 - https://www.cyberark.com/threat-research-blog/the-route-to-root-container-escape-using-kernel-exploitation/
 - https://www.greghendershott.com/2014/09/written-in-racket.html
 - https://www.digitalocean.com/community/tutorials/what-s-new-in-ubuntu-18-04#netplan-and-systemd-networkd
-- https://github.com/arnehilmann/markdeck
 - http://blog.samaltman.com/how-to-be-successful
 - https://www.digitalocean.com/community/tutorials/how-to-sync-and-share-your-files-with-seafile-on-debian-9
 - https://dev.to/helenanders26/6-ways-to-level-up-your-career-56ik
-- https://dev.to/dechamp/25-years-of-coding-and-im-just-beginning-442n
-- https://goreplay.org/ (replay traffic)
 - https://www.youtube.com/watch?v=UiXRVHgQ_Gg (Dynamic Content Acceleration: Amazon CloudFront and Route 53)
 - https://www.youtube.com/watch?v=ZSNg6KNzydQ (YOW! Lambda Jam 2018 - Jed Wesley Smith - Why "Names Don't Matter" Matters)
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
@@ -121,11 +100,8 @@ Stuff I want to read
 - http://mywiki.wooledge.org/BashPitfalls
 - https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 - https://www.regular-expressions.info/catastrophic.html
-- https://github.com/flickr/yakbak
 - https://www.quora.com/What-are-some-good-Python-projects-for-an-intermediate-programmer/answer/Yoshikii-Hamamura
 - https://news.ycombinator.com/item?id=17522362 (Learn how to design large-scale systems)
-- https://news.ycombinator.com/item?id=17522020 (Implementing Open Source Security, Part 1: Runtime Security)
-- https://twitter.com/smithtimmytim/status/1018868969804005376
 - https://news.ycombinator.com/item?id=17682939 (Things they don't teach you running a business by yourself)
 - https://news.ycombinator.com/item?id=17684502 (Modern SAT solvers: fast, neat and underused)
 - https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
@@ -193,6 +169,22 @@ Stuff I want to read
 - https://docs.oracle.com/javase/tutorial/essential/concurrency/
 
 
+## Operating Systems
+
+- http://pages.cs.wisc.edu/~remzi/OSTEP/ (Operating Systems: Three Easy Pieces)
+- https://pdos.csail.mit.edu/6.828/2018/xv6.html (xv6, a simple Unix-like teaching operating system)
+- https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf
+- https://www.amazon.com/gp/product/1118063333 (Operating Systems Concepts)
+
+
+## Distributed Systems
+
+- http://book.mixu.net/distsys/
+- https://pdos.csail.mit.edu/6.824/index.html
+- https://github.com/aphyr/distsys-class
+- https://www.youtube.com/playlist?list=PLpl804R-ZwjKCOwWpTZ21eeaBS3uBrMfV (MIT 6.824 Distributed Systems)
+
+
 ## Compilers
 
 - https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO (Jonathan Blow - A Programming Language for Games)
@@ -242,12 +234,16 @@ Stuff I want to read
 - https://github.com/knqyf263/pet
 - https://github.com/santinic/how2
 - https://github.com/gojektech/proctor
+- https://github.com/arnehilmann/markdeck
 
 
 ## Load Testing
 
 - https://github.com/rakyll/hey
 - http://httpd.apache.org/docs/2.4/programs/ab.html
+- https://github.com/flickr/yakbak
+- https://goreplay.org/ (replay traffic)
+- https://github.com/fortio/fortio
 
 
 ## Creative
