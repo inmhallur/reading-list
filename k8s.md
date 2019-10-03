@@ -21,7 +21,6 @@ Kubernetes resources
 - https://blog.digitalocean.com/how-to-deploy-to-digitalocean-kubernetes-with-github-actions/
 - https://www.digitalocean.com/community/tutorials/how-to-automate-deployments-to-digitalocean-kubernetes-with-circleci
 - https://banzaicloud.com/blog/pod-security-policy/
-- https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/
 - https://twitter.com/readkubelist/status/1124016470034386944?s=03
 - https://news.ycombinator.com/item?id=19467067 (Maybe you don't need k8s)
 - https://news.ycombinator.com/item?id=18953647 (Kubernetes Failure Stories)
@@ -35,8 +34,6 @@ Kubernetes resources
 
 ## Paid courses
 
-- https://www.udemy.com/course/certified-kubernetes-application-developer/
-- https://www.udemy.com/certified-kubernetes-administrator-with-practice-tests/ (seems challenging and good)
 - https://www.udemy.com/kubernetes-microservices/
 - https://www.udemy.com/learn-devops-advanced-kubernetes-usage/
 - https://training.linuxfoundation.org/training/kubernetes-fundamentals/
@@ -51,7 +48,6 @@ Kubernetes resources
 - https://github.com/Praqma/LearnKubernetes/blob/master/kamran/Kubernetes-The-Hard-Way-on-BareMetal.md
 - https://joshrendek.com/2018/04/kubernetes-on-bare-metal/
 - https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
-- https://www.techrepublic.com/article/how-to-quickly-install-kubernetes-on-ubuntu/
 
 ## Videos
 
@@ -63,15 +59,12 @@ Kubernetes resources
 
 - https://github.com/aquasecurity/kube-bench
 - http://kubernetesbyexample.com/
-- https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/
 - https://kubernetes.io/docs/reference/kubectl/overview/
 - https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
 - https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x#
-- https://twitter.github.io/finagle/guide/
 - https://www.weave.works/docs/net/latest/kubernetes/kube-addon/
 - https://twitter.com/kubernetesio/status/1001873860747120641?s=03
-- https://kubernetes.io/docs/tutorials/stateless-application/hello-minikube/
 - https://scaleyourcode.com/interviews/interview/41
 - https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
 - https://kubernetes.io/docs/reference/command-line-tools-reference/feature-gates/
