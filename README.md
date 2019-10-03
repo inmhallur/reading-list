@@ -5,10 +5,9 @@ Stuff I want to read
 
 ## Priority
 
+- https://github.com/gruntwork-io/terratest
 - https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md
-- https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca
 - https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/
-- https://go.cloudbees.com/docs/cloudbees-core/cloud-install-guide/eks-install/
 - https://www.datadoghq.com/blog/autoscale-kubernetes-datadog/
 - https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html
 - https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
@@ -220,7 +219,6 @@ Stuff I want to read
 - https://github.com/simeji/jid
 - https://www.gnu.org/software/global/  (there's hothasktags on links page: https://www.gnu.org/software/global/links.html)
 - https://github.com/firehol/netdata
-- http://chapiapp.com/
 - https://github.com/tldr-pages/tldr
 - https://github.com/knqyf263/pet
 - https://github.com/santinic/how2
