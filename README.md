@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md
 - https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca
 - https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/
 - https://go.cloudbees.com/docs/cloudbees-core/cloud-install-guide/eks-install/
