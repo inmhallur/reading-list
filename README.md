@@ -21,7 +21,6 @@ Stuff I want to read
 - https://github.com/aws-samples/aws-workshop-for-kubernetes
 - https://github.com/aws-samples
 - https://medium.com/@midn/high-availability-vpn-on-aws-with-strongswan-bba12b5d4e55
-- https://medium.com/@elliot_f/my-notes-for-certified-kubernetes-application-developer-part-1-core-concepts-d1bab7bc2446
 - https://book.kubebuilder.io/
 - https://github.com/bitnami-labs/sealed-secrets
 - https://gitkube.sh/
@@ -39,7 +38,6 @@ Stuff I want to read
 - https://twitter.com/nathankpeck/status/1158783728476463105?s=09 (New k8s patch that fixes 2 CVEs)
 - https://www.engineers.sg/video/cluster-ingress-in-the-age-of-envoy-istio-and-cloud-voxxed-days-singapore-2019--3517
 - https://medium.com/solo-io/api-gateways-are-going-through-an-identity-crisis-d1d833a313d7
-- https://microservices.io/book
 - https://www.datadoghq.com/blog/eks-monitoring-datadog/
 - https://banzaicloud.com/blog/k8s-external-dns-route53/
 - https://medium.com/solo-io/exposing-microservices-running-in-aws-eks-with-a-microservices-api-gateway-like-solo-gloo-263651e309f8
@@ -48,10 +46,8 @@ Stuff I want to read
 - https://docs.cloudposse.com/
 - http://themlbook.com/
 - https://news.ycombinator.com/item?id=20570025 (Math basics for Computer Science and Machine Learning)
-- https://news.ycombinator.com/item?id=20578850 (Hatchways YC S19 - Internships instead of interviews)
 - https://news.ycombinator.com/item?id=20585497 (22% of Millenials say they have no friends)
 - https://news.ycombinator.com/item?id=20565425 (How I Became a Machine Learning Practitioner)
-- https://www.forbes.com/sites/kalevleetaru/2019/07/26/the-encryption-debate-is-over-dead-at-the-hands-of-facebook/#44a303265362
 - https://news.ycombinator.com/item?id=20462349 (Operating a large distributed system in a reliable way: practices I learned)
 - https://news.ycombinator.com/item?id=20477104 (Ask HN: What have the past 12 months taught you?)
 - https://en.wikipedia.org/wiki/Closure_(computer_programming)
@@ -59,7 +55,6 @@ Stuff I want to read
 - https://twitter.com/mhausenblas/status/1144354232579108871?s=03 (Vulnerable containers)
 - https://www.reddit.com/r/lisp/comments/bv5jno/my_latest_book_is_out_lisp_system_implementation/
 - https://news.ycombinator.com/item?id=20070558 (Tips for writing a technical book)
-- https://news.ycombinator.com/item?id=20077580 (vim tricks)
 - https://aws.amazon.com/getting-started/use-cases/
 - https://gist.github.com/Belphemur/82d27b1b6dfd675d15f2
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
@@ -73,7 +68,6 @@ Stuff I want to read
 - https://blog.digitalocean.com/gear-up-for-pycon-2019-with-digitaloceans-free-python-machine-learning-projects-ebook/
 - https://stackshare.io/codacy/how-codacy-analyzes-30-billion-lines-of-code-per-day
 - https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059
-- https://dev.to/mjraadi/planning-a-real-world-web-application-key-considerations-part-1-project-management-5f6j
 - https://news.ycombinator.com/item?id=19749069 (Setting up an ad-blocking VPN with wireguard and pihole)
 - https://segment.com/blog/show-hn-to-series-d/
 - https://ncase.me/remember/
@@ -266,12 +260,10 @@ Stuff I want to read
 ## vim
 
 - https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
-- https://blog.bugsnag.com/tmux-and-vim/
 - https://twitter.com/jreybert/status/895639299663593472?s=03 (vimagit plugin, seems interesting)
 - https://twitter.com/MasteringVim/status/911207162319425536?t=1&cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email&iid=fddfb58c14624ed58a20365c9533fcb4&uid=2570069203&nid=244+272699393
 - https://twitter.com/VimLinks/status/921350660137930758  (If you enjoy looking at other people's Vim setups, check out this thread)
 - https://bluz71.github.io/2017/06/14/a-few-vim-tmux-mappings.html
-- https://twitter.com/monicalent/status/932220114317037568 (configuring vim for writing Haskell)
 - https://github.com/junegunn/vim-easy-align
 - https://twitter.com/bertvanvreckem/status/926146879603265536 (Vim cheatsheets)
 - http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
@@ -373,12 +365,12 @@ Stuff I want to read
 - http://a.co/d/aAjzfLm (Who Rules the World? [Noam Chomksy])
 - http://a.co/d/2t1RSUS (Seeking SRE: Conversations About Running Production Systems at Scale [David N. Blank-Edelman])
 - http://reasonablypolymorphic.com/blog/thinking-with-types/ (Thinking with Types: Type-Level Programming in Haskell [Sandy Maguire])
-- https://martinfowler.com/books/nosql.html (NoSQL Distilled [Martin Fowler, Pramod J. Sadalage])
 - https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026 (The War of Art: Break Through the Blocks and Win Your Inner Creative Battles [Steven Pressfield])
 - https://www.amazon.com/Maximum-Achievement-Strategies-Skills-Succeed/dp/0684803313/ (Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Power to Succeed [Brian Tracy])
 - https://www.amazon.com/gp/product/0978577604/?ie=UTF8&tag=aboutmatthewm-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0978577604 (Even a Geek can Speak: Low-tech presentation skills for high-tech people [Joey Asher])
 - https://www.amazon.com/gp/product/0143126563/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0143126563&linkCode=as2&tag=ucmbread-20&linkId=RC6A6XTCRWTZFSJE (Getting Things Done: The Art of Stress-Free Productivity [David Allen, James Fallows])
 - https://www.amazon.com/Scalability-Startup-Engineers-Artur-Ejsmont/dp/0071843655 (Web Scalability for Startup Engineers [Artur Ejsmont])
+- https://microservices.io/book
 
 
 ## Interesting Games
