@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/
 - https://go.cloudbees.com/docs/cloudbees-core/cloud-install-guide/eks-install/
 - https://www.datadoghq.com/blog/autoscale-kubernetes-datadog/
 - https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html
