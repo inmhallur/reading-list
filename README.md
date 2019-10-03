@@ -12,7 +12,6 @@ Stuff I want to read
 - https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
 - https://blog.gruntwork.io/terraform-tips-tricks-loops-if-statements-and-gotchas-f739bbae55f9
 - https://serverfault.com/questions/833810/terraform-use-nested-loops-with-count/962845#962845
-- https://blog.colinbreck.com/kubernetes-liveness-and-readiness-probes-revisited-how-to-avoid-shooting-yourself-in-the-other-foot/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#when-should-you-use-liveness-or-readiness-probes
 - https://thenewstack.io/no-more-forever-tokens-changes-in-identity-management-for-kubernetes/
 - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
@@ -60,13 +59,10 @@ Stuff I want to read
 - https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 - https://gist.github.com/so0k/f927a4b60003cedd101a0911757c605a
 - https://notsosecure.com/exploiting-ssrf-in-aws-elastic-beanstalk
-- https://medium.com/@logicbomb_1/the-journey-of-web-cache-firewall-bypass-to-ssrf-to-aws-credentials-compromise-b250fb40af82
 - https://news.ycombinator.com/item?id=19969161 (Linux apps that run anywhere)
 - https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art070
 - https://twitter.com/mhausenblas/status/1128647384295043072?s=03
-- https://docs.microsoft.com/en-us/azure/architecture/microservices/design/gateway
 - https://blog.digitalocean.com/gear-up-for-pycon-2019-with-digitaloceans-free-python-machine-learning-projects-ebook/
-- https://stackshare.io/codacy/how-codacy-analyzes-30-billion-lines-of-code-per-day
 - https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059
 - https://news.ycombinator.com/item?id=19749069 (Setting up an ad-blocking VPN with wireguard and pihole)
 - https://segment.com/blog/show-hn-to-series-d/
@@ -92,8 +88,8 @@ Stuff I want to read
 - https://minireference.com/static/excerpts/noBSguide2LA_preview.pdf
 - https://sites.google.com/site/jerrylinxp/%E7%BD%97%E9%A9%AC%E4%BA%BA%E7%9A%84%E6%95%85%E4%BA%8B42222
 - https://news.ycombinator.com/item?id=18401481 (How do you keep track of the articles you want to read?)
-- https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo (Crash Course Computer Science)
 - https://news.ycombinator.com/item?id=18435834 (How to self-publish a book: A handy list of resources)
+- https://docs.microsoft.com/en-us/azure/architecture/patterns/
 
 
 ## Study these products / people
@@ -335,6 +331,7 @@ Stuff I want to read
 ## General Computing
 
 - http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/
+- https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo (Crash Course Computer Science)
 
 
 ## Mathematics
