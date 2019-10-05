@@ -5,12 +5,16 @@ Stuff I want to read
 
 ## Priority
 
+- https://itnext.io/the-definitive-guide-to-running-ec2-spot-instances-as-kubernetes-worker-nodes-68ef2095e767
+- https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
+- https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36500.pdf (Overlapping Experiment Infrastructure: More, Better, Faster Experimentation)
+- https://eng.lyft.com/announcing-envoy-c-l7-proxy-and-communication-bus-92520b6c8191
+- https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc
+- https://segment.com/blog/the-million-dollar-eng-problem/
 - https://github.com/gruntwork-io/terratest
 - https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md
 - https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/
 - https://www.datadoghq.com/blog/autoscale-kubernetes-datadog/
-- https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html
-- https://developers.redhat.com/blog/2018/10/01/patterns-for-distributed-transactions-within-a-microservices-architecture/
 - https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#when-should-you-use-liveness-or-readiness-probes
 - https://thenewstack.io/no-more-forever-tokens-changes-in-identity-management-for-kubernetes/
 - https://kubernetes.io/docs/tasks/administer-cluster/securing-a-cluster/
@@ -44,7 +48,6 @@ Stuff I want to read
 - https://docs.cloudposse.com/
 - http://themlbook.com/
 - https://news.ycombinator.com/item?id=20570025 (Math basics for Computer Science and Machine Learning)
-- https://news.ycombinator.com/item?id=20585497 (22% of Millenials say they have no friends)
 - https://news.ycombinator.com/item?id=20565425 (How I Became a Machine Learning Practitioner)
 - https://news.ycombinator.com/item?id=20462349 (Operating a large distributed system in a reliable way: practices I learned)
 - https://news.ycombinator.com/item?id=20477104 (Ask HN: What have the past 12 months taught you?)
@@ -64,7 +67,6 @@ Stuff I want to read
 - https://blog.digitalocean.com/gear-up-for-pycon-2019-with-digitaloceans-free-python-machine-learning-projects-ebook/
 - https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059
 - https://news.ycombinator.com/item?id=19749069 (Setting up an ad-blocking VPN with wireguard and pihole)
-- https://segment.com/blog/show-hn-to-series-d/
 - https://ncase.me/remember/
 - https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity
 - https://dev.to/healeycodes/the-weird-rules-i-set-myself-that-got-me-a-job-2g9m
@@ -78,7 +80,6 @@ Stuff I want to read
 - https://www.digitalocean.com/community/tutorials/how-to-sync-and-share-your-files-with-seafile-on-debian-9
 - https://dev.to/helenanders26/6-ways-to-level-up-your-career-56ik
 - https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
-- https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 - https://www.regular-expressions.info/catastrophic.html
 - https://www.quora.com/What-are-some-good-Python-projects-for-an-intermediate-programmer/answer/Yoshikii-Hamamura
 - https://news.ycombinator.com/item?id=17522362 (Learn how to design large-scale systems)
@@ -210,6 +211,11 @@ Stuff I want to read
 - http://en.clouddesignpattern.org/index.php/Main_Page
 - https://github.com/awslabs/aws-config-engine-for-compliance-as-code
 - https://aws.amazon.com/articles/high-availability-for-amazon-vpc-nat-instances-an-example/
+
+### Multiple VPN tunnels using 1 CGW
+
+- https://www.reddit.com/r/aws/comments/50gvqv/multiple_vpn_connections_thru_1_cgw/
+- https://aws.amazon.com/articles/connecting-a-single-customer-router-to-multiple-vpcs/
 
 
 ## Developer tools / Libraries
