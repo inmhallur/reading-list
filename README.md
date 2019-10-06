@@ -5,12 +5,13 @@ Stuff I want to read
 
 ## Priority
 
+- https://cloudbanshee.com/blog/connecting-to-private-api-over-vpn-or-vpc-peering (Private AWS API gateway over VPN; need to use VPC endpoint and ALB that points to a target group containing the VPC endpoint)
+- https://github.com/aws-samples/amazon-k8s-node-drainer
 - https://itnext.io/the-definitive-guide-to-running-ec2-spot-instances-as-kubernetes-worker-nodes-68ef2095e767
 - https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
 - https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36500.pdf (Overlapping Experiment Infrastructure: More, Better, Faster Experimentation)
 - https://eng.lyft.com/announcing-envoy-c-l7-proxy-and-communication-bus-92520b6c8191
 - https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc
-- https://segment.com/blog/the-million-dollar-eng-problem/
 - https://github.com/gruntwork-io/terratest
 - https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md
 - https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/
