@@ -5,6 +5,8 @@ Stuff I want to read
 
 ## Priority
 
+- https://docs.catalystcloud.io/tutorials/ansible-create-x-servers-using-in-memory-inventory.html
+- https://allandenot.com/devops/2015/01/31/provisioning-ec2-hosts-with-ansible.html
 - https://aws.amazon.com/blogs/opensource/why-does-aws-open-source-the-firecracker-example/
 - https://superuser.com/questions/62303/how-can-i-tunnel-all-of-my-network-traffic-through-ssh
 - https://en.wikibooks.org/wiki/OpenSSH%2FCookbook%2FProxies_and_Jump_Hosts
