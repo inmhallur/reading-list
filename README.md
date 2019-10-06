@@ -5,6 +5,8 @@ Stuff I want to read
 
 ## Priority
 
+- https://www.shellhacks.com/systemd-service-file-example/
+- https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/sect-managing_services_with_systemd-unit_files
 - https://docs.catalystcloud.io/tutorials/ansible-create-x-servers-using-in-memory-inventory.html
 - https://allandenot.com/devops/2015/01/31/provisioning-ec2-hosts-with-ansible.html
 - https://aws.amazon.com/blogs/opensource/why-does-aws-open-source-the-firecracker-example/
