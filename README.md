@@ -5,6 +5,8 @@ Stuff I want to read
 
 ## Priority
 
+- https://github.com/eon01/awesome-sysadmin
+- http://www.opsschool.org/
 - https://twitter.com/mhausenblas/status/1169292857108324353?s=19 (IAM roles for k8s service accounts)
 - https://news.ycombinator.com/item?id=20915746 (Sunsetting Python 2)
 - https://engineering.squarespace.com/blog/2019/performance-tuning-postgres-within-our-tls-infrastructure
