@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://en.wikibooks.org/wiki/OpenSSH%2FCookbook%2FProxies_and_Jump_Hosts
 - https://github.com/eon01/awesome-sysadmin
 - http://www.opsschool.org/
 - https://twitter.com/mhausenblas/status/1169292857108324353?s=19 (IAM roles for k8s service accounts)
