@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://superuser.com/questions/62303/how-can-i-tunnel-all-of-my-network-traffic-through-ssh
 - https://en.wikibooks.org/wiki/OpenSSH%2FCookbook%2FProxies_and_Jump_Hosts
 - https://github.com/eon01/awesome-sysadmin
 - http://www.opsschool.org/
