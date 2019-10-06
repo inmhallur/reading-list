@@ -264,12 +264,6 @@ Stuff I want to read
 - https://github.com/alebcay/awesome-shell
 
 
-## Developer community sites (Stackoverflow alternatives)
-
-- https://hashnode.com/
-- https://dev.to/
-
-
 ## vim
 
 - https://www.reddit.com/r/vim/comments/4gjbqn/what_tricks_do_you_use_instead_of_popular_plugins/
