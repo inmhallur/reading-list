@@ -5,6 +5,10 @@ Stuff I want to read
 
 ## Priority
 
+- https://github.com/infinityworks/prometheus-example-queries
+- https://prometheus.io/docs/prometheus/latest/configuration/alerting_rules/
+- https://rahulwa.com/post/monitoring-using-prometheus/
+- https://www.digitalocean.com/community/tutorials/how-to-autoscale-your-workloads-on-digitalocean-kubernetes
 - https://www.shellhacks.com/systemd-service-file-example/
 - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/system_administrators_guide/sect-managing_services_with_systemd-unit_files
 - https://docs.catalystcloud.io/tutorials/ansible-create-x-servers-using-in-memory-inventory.html
@@ -24,7 +28,6 @@ Stuff I want to read
 - https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html
 - https://eng.lyft.com/announcing-envoy-c-l7-proxy-and-communication-bus-92520b6c8191
 - https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc
-- https://github.com/gruntwork-io/terratest
 - https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/FAQ.md
 - https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/
 - https://www.datadoghq.com/blog/autoscale-kubernetes-datadog/
@@ -53,11 +56,8 @@ Stuff I want to read
 - https://twitter.com/nathankpeck/status/1158783728476463105?s=09 (New k8s patch that fixes 2 CVEs)
 - https://www.engineers.sg/video/cluster-ingress-in-the-age-of-envoy-istio-and-cloud-voxxed-days-singapore-2019--3517
 - https://medium.com/solo-io/api-gateways-are-going-through-an-identity-crisis-d1d833a313d7
-- https://www.datadoghq.com/blog/eks-monitoring-datadog/
 - https://banzaicloud.com/blog/k8s-external-dns-route53/
 - https://medium.com/solo-io/exposing-microservices-running-in-aws-eks-with-a-microservices-api-gateway-like-solo-gloo-263651e309f8
-- https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-api-gateway.html (Route 53 -> AWS API gateway)
-- https://www.fpcomplete.com/blog/2017/08/credstash
 - https://docs.cloudposse.com/
 - http://themlbook.com/
 - https://news.ycombinator.com/item?id=20570025 (Math basics for Computer Science and Machine Learning)
@@ -76,12 +76,10 @@ Stuff I want to read
 - https://notsosecure.com/exploiting-ssrf-in-aws-elastic-beanstalk
 - https://news.ycombinator.com/item?id=19969161 (Linux apps that run anywhere)
 - https://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art070
-- https://twitter.com/mhausenblas/status/1128647384295043072?s=03
 - https://blog.digitalocean.com/gear-up-for-pycon-2019-with-digitaloceans-free-python-machine-learning-projects-ebook/
 - https://medium.com/@njones_18523/chaos-engineering-traps-e3486c526059
 - https://news.ycombinator.com/item?id=19749069 (Setting up an ad-blocking VPN with wireguard and pihole)
 - https://ncase.me/remember/
-- https://www.fpcomplete.com/blog/quickcheck-hedgehog-validity
 - https://dev.to/healeycodes/the-weird-rules-i-set-myself-that-got-me-a-job-2g9m
 - https://dev.to/brandonskerritt/how-to-get-any-job-you-want-a-guide-to-employability-skills-1i3m
 - https://github.com/GoogleContainerTools/distroless
@@ -92,7 +90,6 @@ Stuff I want to read
 - https://www.digitalocean.com/community/tutorials/what-s-new-in-ubuntu-18-04#netplan-and-systemd-networkd
 - https://www.digitalocean.com/community/tutorials/how-to-sync-and-share-your-files-with-seafile-on-debian-9
 - https://dev.to/helenanders26/6-ways-to-level-up-your-career-56ik
-- https://twitter.com/mstk/status/974333978923552768?s=03 (you could have invented matrices)
 - https://www.regular-expressions.info/catastrophic.html
 - https://www.quora.com/What-are-some-good-Python-projects-for-an-intermediate-programmer/answer/Yoshikii-Hamamura
 - https://news.ycombinator.com/item?id=17522362 (Learn how to design large-scale systems)
