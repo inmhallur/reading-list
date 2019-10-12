@@ -4,6 +4,7 @@ Kubernetes resources
 
 ## Unclassified
 
+- https://speakerdeck.com/spesnova/introduction-to-kustomize
 - https://kubernetes.io/docs/reference/kubectl/jsonpath/
 - https://medium.com/faun/using-minikube-profiles-def2477e968a
 - https://www.gitmemory.com/issue/linkerd/linkerd2/2819/492840248
