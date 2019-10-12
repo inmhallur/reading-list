@@ -5,6 +5,8 @@ Stuff I want to read
 
 ## Priority
 
+- https://cloud.google.com/kubernetes-engine/kubernetes-comic/
+- https://opentelemetry.io/
 - https://github.com/infinityworks/prometheus-example-queries
 - https://prometheus.io/docs/prometheus/latest/configuration/alerting_rules/
 - https://rahulwa.com/post/monitoring-using-prometheus/
