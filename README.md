@@ -346,6 +346,12 @@ Stuff I want to read
 - https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf
 
 
+## Machine Learning
+
+- https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS (Cornell CS4780 Machine Learning for Intelligent Systems)
+- http://www.cs.cornell.edu/courses/cs4780/2018fa/syllabus/index.html
+
+
 ## Books to check out
 
 - https://pragprog.com/book/pplearn/programming-machine-learning (Programming Machine Learning: From Zero to Deep Learning [Paolo Perrotta])
