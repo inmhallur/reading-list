@@ -5,6 +5,7 @@ Stuff I want to read
 
 ## Priority
 
+- https://skillsmatter.com/skillscasts/14649-lightning-talk-why-i-no-longer-use-haskell
 - https://cloud.google.com/kubernetes-engine/kubernetes-comic/
 - https://opentelemetry.io/
 - https://github.com/infinityworks/prometheus-example-queries
